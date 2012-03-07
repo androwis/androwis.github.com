@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thought for food... &#187; Uncategorized</title>
+	<atom:link href="http://androw.is/blog/category/uncategorized/feed" rel="self" type="application/rss+xml" />
+	<link>http://androw.is/blog</link>
+	<description>...ideas for life</description>
+	<lastBuildDate>Wed, 19 Oct 2011 10:43:38 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Mobile Platforms and Accessibility: Blind Users</title>
+		<link>http://androw.is/blog/mobile-platforms-and-accessibility-blind-users</link>
+		<comments>http://androw.is/blog/mobile-platforms-and-accessibility-blind-users#comments</comments>
+		<pubDate>Wed, 19 Oct 2011 01:29:43 +0000</pubDate>
+		<dc:creator>Andrew AbuMoussa</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://androwis.com/blog/?p=568</guid>
+		<description><![CDATA[updated: It&#8217;s crazy how fast things have changed.  I&#8217;ll try to review iOS5 and android 4.0&#8217;s new accessibility features.  Here&#8217;s a sneak peak of android &#8230;]]></description>
+			<content:encoded><![CDATA[<p style="text-align: left;"><strong>updated: </strong>It&#8217;s crazy how fast things have changed.  I&#8217;ll try to review iOS5 and android 4.0&#8217;s new accessibility features.  Here&#8217;s a sneak peak of android 4.0: <a href="http://t.co/YNpjF7ta">http://t.co/YNpjF7ta</a></p>
+<p style="text-align: left;">Recently, I was tasked with providing a point of sales solution for a blind user for a pretty well known TV show.  The goals were 1) to enable the user to manage a schedule 2) accept payments and 3) log all the monotonies that go along with managing a business.  A fairly easy scoped project.</p>
+<p>Added to the tasks by my employers was something a little more subtle: 4) the ability to grow.</p>
+<p>Great.  Armed with a relatively precise goal, I pulled out my three phones to scope the hardware.</p>
+<div class="wp-caption alignleft" style="width: 317px"><strong><img class="  " title="Window's Fail" src="http://4.bp.blogspot.com/-re5CD3-dHFM/TcBZuy6aTfI/AAAAAAAAAn8/4-iWbIWU09k/s512/Live+Tile+Fail.jpg" alt="Window's Fail" width="307" height="267" /></strong><p class="wp-caption-text">Photo Credit : windowsphonedaily.com</p></div>
+<p><strong>Windows Phone 7</strong></p>
+<p>In one sentence: Windows Phone 7/7.5 is unusable by the blind community out of the box.</p>
+<p>/***  thoughts (rant rather) ***/</p>
+<p>Literally within 1 minute of picking my HTC Mozart (loaded with a fresh install of Mango) it was obvious that Windows Phone 7 is a simply unusable platform for blind users.  The sad truth so eloquently put by Microsoft’s own President of Mobile Communications Business on how the company was managing accessibility features on the mobile platform is that “We are simply incompetent on this” (with “this” referring to accessibility).  In some Windows conference somewhere, someone pegged that it would take Microsoft roughly two years to come out with solutions (it has taken the behemoth of a corporation 2 years from launch to allow the devices to connect to non-broadcasting SSIDs, so I’m taking that with a huge grain of salt).</p>
+<p>I departed from Windows my junior year of high school in favor of linux 8 years ago.  Since then I’ve never installed Windows natively on anything.  Since then, I’ve interviewed for the company, met a lot of crazy smart people in Seattle, and honestly, I’ve never been so excited about a platform like Windows Phone 7 and the newly previewed Windows 8 since the original announcement of iOS.</p>
+<p>But then that’s where it always ends.  I get excited then (and correct me if I’m alone here) every time I touch anything Windows it takes about one minute for me to either put it down with crushed hopes or curse at the complexity involved to get anything done.</p>
+<p>/*** end rant ***/</p>
+<p>In the end: I want to use the phone and I want to recommend windows phones to friends and clients, but I never can.  It’s a pretty platform to call, text, listen to music, light browsing, and use office.  The platform has the potential to be a game changer, but you know, so do a lot of girls I meet in bars.  One thing it does have going for it, is that unlike all the numbers thrown my way this hasn’t ended up in the trash just yet.</p>
+<p><strong><img class="alignleft" title="android" src="http://t1.gstatic.com/images?q=tbn:ANd9GcTMxJFGtLskEEfC-x82MzenisgdpMGuQiwspGS2UFwkRhMPb3EQ7A" alt="android" width="259" height="194" />Android</strong></p>
+<p>We’ve used Android phones in the past for the amazing natural language processing on these puppies.  One advantage and strong suite of android (and this is hidden in Chrome, too) is that these phones take what you say, extract the meaning, and perform the actions you command (NOTE: you need internet for that feature).</p>
+<p>Also, their freaking sweet text to speech engine just graduated from experimental in Chrome (not sure if it’s available in Android Development environment, haven’t had a chance to mess with the SDK) but I noticed that it was the same engine used for navigation.</p>
+<p>So, the tools seemed to be in place suggesting that a solution was possible. But what I found was that if you can’t see what content you’re consuming and you don’t have internet for the accessibility features, you can’t really use an android phone.</p>
+<p>Sure, it does basics, like announce who’s calling, reads text messages to you as you receive them, but lets be honest here, who only uses a phone to do these things anymore (in fact, who still calls people on their phones?), and it was unable to perform the tasks we needed.  So, no dice.</p>
+<p>/***  thoughts  ***/</p>
+<p>The reasons I love android and Google were surprisingly disjoint from the goals we were trying to achieve.  Android applications and Chrome extensions are joyful platforms because Google has done a spectacular job of packaging some incredibly powerful feature sets that we can leverage and do amazing things.  For example, it took me 2 hours to create an audible web OS that crossed the three major desktop OSs [github link coming soon].</p>
+<p>Android’s Achilles’ Heel for our use, and the reason we can’t recommend them to other blind users, is that these features are strictly uni-directional.  Let me explain.</p>
+<p>With an android phone, I can speak into a Bluetooth headset and say: “What’s the weather in Congo?” and Google will send me to the exact results… pretty spectacular (they’ve been doing this for years, Apple just announced Siri as an integrated feature for the upcoming iOS, last week).</p>
+<p>The unidirectional problem is that the browser can’t read the results back to you.  I know there are browsers in the market that are Text-to-Speech enabled, but rebuttal is simple, you lose the voice search and instead fragment the feature set you’re looking for.</p>
+<p>In other words, the tools have to be delegated by the programmer.  Current solutions are not streamlined. Twisting the knife is the mild over sight that these phones don’t provide audible feedback as a user interacts with the device, ending up in the unusable pile.</p>
+<p><strong><img class="alignleft" title="iOS " src="http://t3.gstatic.com/images?q=tbn:ANd9GcQlyMWM703aexcKIsmOlV9-bV8AHCC6c0R4kCT55sQEOHBxlJGXJQ" alt="iOS" width="238" height="212" />iPhone</strong></p>
+<p>&#8211; Thoughts and condolences to the entire Jobs family and Apple. &#8211;</p>
+<p>There’s a reason the iPhone’s the number one selling phone.  Simply put, it’s a result of Jobs’ greatest demand to the industry.  The idea that users should never be expected to adapt to a device or computer they’re using, but instead it’s the responsibility of the device and the developers to adapt to the users has been the catalyst for Apple’s command of the market.</p>
+<p>The applications we needed to use for the user’s business were available on both iOS and Android, but having VoiceOver caked into phones, tablets, and laptops was the selling feature.</p>
+<p>VoiceOver is far from perfect, but it’s amazing as it is.  Here are some of my thoughts from this project.</p>
+<p>/***  thoughts  ***/</p>
+<p>Using VoiceOver across touch devices is extremely smooth, however, I find two pretty big problems every time I fire up my apple devices.</p>
+<p>1)   Gestures on touch screens VS Trackpads and Mice : Lion has done a thorough job of completely disorienting me with the default gestures diverting from the normal use of the MacBook’s track pad while surprisingly ignoring the capability of the MightyMouse [I cannot even put my thoughts into a complete sentence]. (I’ve reclaimed the desired functionality using BetterTouchTool).  Transitioning between touch/laptop/desktop is a really weird feeling prior to reverting the settings.</p>
+<p>2)   Touch Keyboards : The one thing that prevents me from using voiceover non-stop even as a sighted user is the keyboard interface.  Trying to put in a few characters at a time is manageable but horribly slow and inefficient.  Attaching a Bluetooth keyboard is an option, but not ideal.  There are viable ideas like this <a href="http://www.physorg.com/news/2011-10-stanford-summer-yields-touchscreen-braille.html">http://www.physorg.com/news/2011-10-stanford-summer-yields-touchscreen-braille.html</a> that rethink the way we interact with touch keyboards and I wonder if Apple’s politics would allow such a divergence from the “unified experience”, (though, I was blown away by the split keyboard on iOS5!).   I do see that as the greatest pitfall of Apple’s touch interfaces though and it’s a horribly complex problem given the two form factors (iPad &amp; iPhone/iTouch) they’ll have to adapt a solution to.</p>
+<p>Nit Picky – Settings.app is a great consolidation of the settings, but it’s horribly inefficient to expect a user to stop what they’re doing and navigate to the settings to turn on/off VoiceOver.  Triple clicking the home button works, but I wore my home button out in 8 months, and not something I’d like to have someone rely on.  (full disclosure: Settings.app is perhaps the biggest reason I jailbreak my iPhones – SBSettings is bliss)</p>
+<p>Well, there you have it, my thoughts on the current state of mobile platforms for blind users.  Chime in with your experiences, hints, suggestions, etc.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://androw.is/blog/mobile-platforms-and-accessibility-blind-users/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Thought For Food&#8230;</title>
+		<link>http://androw.is/blog/thought-for-food</link>
+		<comments>http://androw.is/blog/thought-for-food#comments</comments>
+		<pubDate>Tue, 22 Dec 2009 01:10:30 +0000</pubDate>
+		<dc:creator>Andrew AbuMoussa</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://androwis.com/blog/?p=3</guid>
+		<description><![CDATA[A weblog of ideas for the betterment of our lives; ideas for life.
+]]></description>
+			<content:encoded><![CDATA[<p>A weblog of ideas for the betterment of our lives; ideas for life.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://androw.is/blog/thought-for-food/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

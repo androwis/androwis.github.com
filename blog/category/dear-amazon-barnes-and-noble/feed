@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thought for food... &#187; Dear Amazon, Barnes &amp; Noble</title>
+	<atom:link href="http://androw.is/blog/category/dear-amazon-barnes-and-noble/feed" rel="self" type="application/rss+xml" />
+	<link>http://androw.is/blog</link>
+	<description>...ideas for life</description>
+	<lastBuildDate>Wed, 19 Oct 2011 10:43:38 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9</generator>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+			<item>
+		<title>Dear Amazon, Barnes &amp; Noble, please give us book rental</title>
+		<link>http://androw.is/blog/dear-amazon-barnes-noble-please-give-us-book-rental</link>
+		<comments>http://androw.is/blog/dear-amazon-barnes-noble-please-give-us-book-rental#comments</comments>
+		<pubDate>Tue, 22 Dec 2009 13:58:16 +0000</pubDate>
+		<dc:creator>Andrew AbuMoussa</dc:creator>
+				<category><![CDATA[Dear Amazon, Barnes & Noble]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[barnes and noble]]></category>
+		<category><![CDATA[ereaders]]></category>
+
+		<guid isPermaLink="false">http://androwis.com/blog/?p=14</guid>
+		<description><![CDATA[Let's change the way books are read by providing a subscription service... Here's why:]]></description>
+			<content:encoded><![CDATA[<p>I&#8217;ve been using ereaders for quite some time now.  I absolutely love the idea of reading a book on a dedicated handheld though I&#8217;m using iphone apps and not the actual hardware.  Anywhoo, the concepts I&#8217;ll be discussing translate.  Here&#8217;s what I would love to see: book rentals&#8230;</p>
+<p>Let&#8217;s take a step back and rethink this through before we begin.  Media is meant to be enjoyed by as wide a following as possible.  It&#8217;s also meant to be a source of income for everyone involved (theoretically minus the consumer).  Music, movies, and books are really the most established mass produced media of which two have a pretty saturated model of distribution.</p>
+<p>Music makes a profit from single track sales, cd distributions, radio play, and concerts.  Movies make a profit from cinemas, dvd/blu-ray production, and rentals.  Books though, have one source of income, sale (I&#8217;m not sure about libraries?) and magazines from subscriptions.</p>
+<p>Now, imagining that we are a product manager for say, Amazon or B&amp;N&#8217;s digital book edition, it would make almost perfect sense to follow up the release of said ereaders with a rental and/or subscription policy.  I believe this would have perhaps the most profound effect on the use case for ereaders while launching these products to stardom&#8230; here&#8217;s why:</p>
+<p style="text-align: center;"><strong>As the consumer</strong></p>
+<p><strong></strong>I love reading but I hate buying books and keeping them, much less so digital ones.  My consumption patterns follow the same concept as movies, albeit a little more convoluted.  After watching a movie, I feel there&#8217;s no point in me having the dvd and it&#8217;s accompanying case lying around gathering dust, so I rent (God bless redbox/netflix).  The situation is convoluted by the process by which I consume books, first I search the local libraries collection&#8230; if it&#8217;s not there, I buy a used copy and when I&#8217;m done I can actually reclaim some of the value by reselling it.  (I&#8217;ve actually made almost $1500s on old books this year alone.)</p>
+<p>The reason I&#8217;ve steered clear of digital copies is that I feel they will do nothing but consume space on a digital reader.  The argument against them is compounded given that I can&#8217;t reclaim any of the books value.  That infuriates me as these digital copies cost the same as the actual physical book and as the potential for having a truly limitless access to literature is pissed away.<br />
+But, I understand as a work, royalties should be paid to everyone involved in the making and distribution of said books.</p>
+<p style="text-align: center;"><strong>As the author</strong></p>
+<p>Firstly, being an amateur author raised in a generation of immediate gratification, this type of service would be spectacular (effectively removing all barriers to entry while entertaining the possibility of turning a profit).   Limited by my ability to produce a digital copy of my text in a supported format of the ereader, I now have access to a wide consumer base.  Granted Amazon, B&amp;N have the ability to censor the &#8220;quality&#8221; of their texts, they can just as easily impose the barriers (topic of another discussion).  Anywhoo, let&#8217;s say Amazon and B&amp;N decide to have a subscription policy.  What has happened is that the profit potential becomes unbound.  Instead of selling books, what I would be selling is the time that my book consumes on an ereader.  I would in a sense, be renting my text to the subscriber.</p>
+<p style="text-align: center;"><strong>As Amazon, Barnes &amp; Noble</strong></p>
+<p>A rental model seems to make most sense to these players.  The Kindle and Nook may make a one time profit during a sale, and maybe another transaction profit from a sale&#8230; but a guaranteed monthly profit from this kind of service (at least in theory) seems spectacular.  Let&#8217;s say that tiered rental services are provided and these providers are able to extract 20% after maintenance and service costs.  Then it would seem that these ereaders would be a source of continuing revenue.  I don&#8217;t know how giants like these don&#8217;t pursue this type of service considering the success of redbox and netflix.</p>
+<p>Let me know what you think below.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://androw.is/blog/dear-amazon-barnes-noble-please-give-us-book-rental/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

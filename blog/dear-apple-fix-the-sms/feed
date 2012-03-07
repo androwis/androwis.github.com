@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+		>
+<channel>
+	<title>Comments on: Dear Apple: Fix the SMS</title>
+	<atom:link href="http://androw.is/blog/dear-apple-fix-the-sms/feed" rel="self" type="application/rss+xml" />
+	<link>http://androw.is/blog/dear-apple-fix-the-sms</link>
+	<description>...ideas for life</description>
+	<lastBuildDate>Tue, 06 Apr 2010 19:27:06 +0000</lastBuildDate>
+	<generator>http://wordpress.org/?v=2.9</generator>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<item>
+		<title>By: L</title>
+		<link>http://androw.is/blog/dear-apple-fix-the-sms/comment-page-1#comment-14</link>
+		<dc:creator>L</dc:creator>
+		<pubDate>Mon, 22 Feb 2010 16:17:25 +0000</pubDate>
+		<guid isPermaLink="false">http://androwis.com/blog/?p=435#comment-14</guid>
+		<description>Hitler responds to the iPad - http://techcrunch.com/2010/01/28/the-meme-that-will-never-die-hitler-debunks-the-ipad/</description>
+		<content:encoded><![CDATA[<p>Hitler responds to the iPad &#8211; <a href="http://techcrunch.com/2010/01/28/the-meme-that-will-never-die-hitler-debunks-the-ipad/" rel="nofollow">http://techcrunch.com/2010/01/28/the-meme-that-will-never-die-hitler-debunks-the-ipad/</a></p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
