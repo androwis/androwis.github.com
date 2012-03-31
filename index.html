@@ -85,7 +85,17 @@
             repo.hotness += weightForWatchers * repo.watchers / createdDelta;
           });
 
-        
+                 // Sort by highest # of watchers.
+          repos.sort(function (a, b) {
+            if (a.hotness < b.hotness) return 1;
+            if (b.hotness < a.hotness) return -1;
+            return 0;
+          });
+
+          $.each(repos, function (i, repo) {
+            addRepo(repo);
+          });
+
           // Sort by most-recently pushed to.
           repos.sort(function (a, b) {
             if (a.pushed_at < b.pushed_at) return 1;
@@ -98,6 +108,7 @@
           });
         });
       });
+
 
       function randomItem(array) {
         return array[Math.floor(Math.random() * array.length)];
