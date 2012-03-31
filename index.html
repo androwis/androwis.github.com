@@ -1,15 +1,22 @@
 <html id="about">
   <head>
-<meta name="google-site-verification" content="dOvj-ERK4lelaGz3SJo0qiHN0YbNn8jsp2T9sanRKEU" />
-<link rel="stylesheet" type="text/css" href="http://scenedipity.com/resources/styles/bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="http://scenedipity.com/resources/styles/styles.css">
-        <link rel="stylesheet" type="text/css" href="http://github.scenedipity.com/assets/reset.css">
-    <link rel="stylesheet" type="text/css" href="http://github.scenedipity.com/assets/grid.css">
-    <link rel="stylesheet" type="text/css" href="http://github.scenedipity.com/assets/style.css">
-    <script type="text/javascript" src="http://github.scenedipity.com/assets/jquery-1.7.1.min.js"></script>
-    <script type="text/javascript" src="http://github.scenedipity.com/assets/strftime.js"></script>
+	<meta name="google-site-verification" content="dOvj-ERK4lelaGz3SJo0qiHN0YbNn8jsp2T9sanRKEU" />
+	<link rel="stylesheet" type="text/css" href="http://scenedipity.com/resources/styles/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="http://scenedipity.com/resources/styles/styles.css">
+	<link rel="stylesheet" type="text/css" href="http://github.scenedipity.com/assets/reset.css">
+	<link rel="stylesheet" type="text/css" href="http://github.scenedipity.com/assets/grid.css">
+	<link rel="stylesheet" type="text/css" href="http://github.scenedipity.com/assets/style.css">
+	<script type="text/javascript" src="http://github.scenedipity.com/assets/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="http://github.scenedipity.com/assets/strftime.js"></script>
     <script type="text/javascript">
     (function ($, undefined) {
+
+      // Put custom repo URL's in this object, keyed by repo name.
+      var repoUrls = {
+        "bootstrap": "http://scenedipity.github.com/bootstrap/",
+        "finagle": "http://scenedipity.github.com/finagle/",
+        "hogan.js": "http://scenedipity.github.com/hogan.js/"
+      };
 
       function repoUrl(repo) {
         return repoUrls[repo.name] || repo.html_url;
@@ -244,7 +251,7 @@
             <br>
             <a href="https://github.com/androwis"><span id="num-members">&nbsp;</span> members</a>
           </p>
-          <p class="email"><a href="mailto:androwis@androw.is">email me!</a></p>
+          <p class="email"><a href="mailto:androwis@androw.is">androwis@androw.is</a></p>
         </div>
 
         <div id="recently-updated" class="grid-2 omega header">
@@ -256,18 +263,20 @@
       <ol id="repos"></ol>
     </div>
     
- 			<div class="container"><div class="row"><div class="span12 footer">
-      <ul>
-		<li><a class="url" target="blank" rel="me" href="http://facebook.com/il.bringy" title="Friend me on facebook">facebook</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.flickr.com/photos/androwis/" title="Flickr">flickr</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.github.com/androwis" title="My Public Repos">github</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.goodreads.com/user/show/4071543-andrew-abumoussa" title="See what I'm reading">goodreads </a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.jolkona.org/members/index/a4d2f0d23dcc84ce983ff9157f8b7f88" title="What I feel passionate about">jolkona</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://pandora.com/people/aphrofellow" title="what i'm listening to">pandora</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.google.com/reader/shared/aphrofellow" title="what i'm reading">reader</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://twitter.com/androwis" rel="me" title="Follow me on Twitter">twitter</a></li>
-		<li><a class="url" target="blank" rel="me" href="tel:+1-828-290-5939" title="call me">phone</a></li>
-	<li>&copy; Andrew AbuMoussa 2012</li>        </ul></div></div></div>
+<div class="container"><div class="row"><div class="span12 footer">
+<ul>
+<li>&copy; Andrew AbuMoussa | here i am: </li>    
+<li><a class="url" target="blank" rel="me" href="http://facebook.com/il.bringy" title="Friend me on facebook">facebook</a></li>
+<li><a class="url" target="blank" rel="me" href="http://www.flickr.com/photos/androwis/" title="Flickr">flickr</a></li>
+<li><a class="url" target="blank" rel="me" href="http://www.github.com/androwis" title="My Public Repos">github</a></li>
+<li><a class="url" target="blank" rel="me" href="http://www.goodreads.com/user/show/4071543-andrew-abumoussa" title="See what I'm reading">goodreads </a></li>
+<li><a class="url" target="blank" rel="me" href="http://www.jolkona.org/members/index/a4d2f0d23dcc84ce983ff9157f8b7f88" title="What I feel passionate about">jolkona</a></li>
+<li><a class="url" target="blank" rel="me" href="http://pandora.com/people/aphrofellow" title="what i'm listening to">pandora</a></li>
+<li><a class="url" target="blank" rel="me" href="http://www.google.com/reader/shared/aphrofellow" title="what i'm reading">reader</a></li>
+<li><a class="url" target="blank" rel="me" href="http://twitter.com/androwis" rel="me" title="Follow me on Twitter">twitter</a></li>
+<li><a class="url" target="blank" rel="me" href="tel:+1-828-290-5939" title="call me">phone</a></li>
+</ul>
+</div></div></div>
 
 	
 <script type="text/javascript">
