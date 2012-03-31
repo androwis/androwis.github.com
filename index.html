@@ -63,7 +63,7 @@
         $item.appendTo("#repos");
       }
 
-      $.getJSON("https://api.github.com/androwis/repos?callback=?", function (result) {
+      $.getJSON("https://api.github.com/users/androwis/repos?callback=?", function (result) {
         var repos = result.data;
 
         $(function () {
