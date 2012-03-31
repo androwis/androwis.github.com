@@ -63,7 +63,7 @@
         $item.appendTo("#repos");
       }
 
-      $.getJSON("https://api.github.com/orgs/androwis/repos?callback=?", function (result) {
+      $.getJSON("https://api.github.com/androwis/repos?callback=?", function (result) {
         var repos = result.data;
 
         $(function () {
@@ -96,14 +96,6 @@
           $.each(repos.slice(0, 3), function (i, repo) {
             addRecentlyUpdatedRepo(repo);
           });
-        });
-      });
-
-      $.getJSON("https://api.github.com/orgs/androwis/members?callback=?", function (result) {
-        var members = result.data;
-
-        $(function () {
-          $("#num-members").text(members.length);
         });
       });
 
