@@ -1,19 +1,45 @@
-<a href="../blog">/blog</a>
-| <a href="../resume">/resume</a>
-| <a href="../mentoring">/mentoring</a>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title> Androwis AbuMoussa's Resume (androwis)</title>
+</head>
 
-Androwis AbuMoussa
-  Current Address: 57 Glasgow St. Rochester, NY 14620
-  Email: <a href="mailto:androwis@androw.is">androwis@androw.is</a>
-  Permanent Address: 100 Tarnhill Dr, Flat Rock, NC 28731
-  Phone Number: <a href="tel:+828.393.5939"> 828.393.5939</a>	
+<body>
+  <div class="links">
+		<a href="../blog">/blog</a>
+		<a href="../resume">/resume</a>
+		<a href="../mentoring">/mentoring</a>
+	</div>
 
-Papers:
-    <a href="AndrewAbuMoussaHonorsThesis.pdf">Honors Thesis: Irys</a>
+    <div id="title">
+			<a href="../">//androwis</a>/resume
+	</div>
+
+<center> Download:
+    <a href="AndrewAbuMoussaResumeHTML.pdf">Nerdy Resume</a> |
+    <a href="AndrewAbuMoussaResumeBasic.pdf">Boring Resume</a> ||
+    <a href="AndrewAbuMoussaTranscript.pdf">Unofficial Transcript</a> |
+    <a href="AndrewAbuMoussaResume.pdf">Old Resume</a>
+</center>
+
+<center> Papers:
+    <a href="AndrewAbuMoussaHonorsThesis.pdf">Honors Thesis: Irys</a> ||
     <a href="AndrewAbuMoussaMathModeling.pdf">Analysis of the Stock Market</a>
+</center>
 
-Employment History
-  Head of Engineering [SimplyHome] </h3><h4>Asheville, NC </h4><div class="d">Oct. 2010 – Mar 2012</div>
+<div id="r">
+    <div id="n">Androwis AbuMoussa</div>
+    <div class="tl">Current Address</div>
+    <div class="t"><a href="mailto:androwis@androw.is">androwis@androw.is</a></div>
+    <div class="tr"> Permanent Address</div>
+    <div class="tl">55 E Main Street, Chattanooga, TN 37408</div>
+    <div class="t"> 828.290.5939 </div>
+    <div class="tr">100 Tarnhill Dr, Flat Rock, NC 28731</div>
+
+
+<div class="s"><h1>Employment History</h1>
+<pre><h2>Head of Engineering </h2><h3>SimplyHome </h3><h4>Asheville, NC </h4><div class="d">Oct. 2010 – Mar 2012</div></pre>
 
 <h2>Lead Developer / Sys Admin </h2><h3>IWANNA, USA, LLC, </h3><h4>Asheville, NC </h4><div class="d">Jan. 2010 – June 2011</div>
 <ul><li>Managed the complete rebuild of a classified website that serves over 25,000 classifieds weekly
