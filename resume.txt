@@ -1,3 +1,142 @@
+===============================================================================
+                               Androwis Abumoussa
+
+androwis@androw.is                Rochester NY                   (828) 393 5939
+===============================================================================
+
+Technical Expertise
+*******************
+
+ - Developing software using C, BASH, Lua and Python
+ - Building web applications using Node.JS, Django, jQuery, HTML and CSS
+ - Hacking on the Linux Kernel including the development of patch sets
+ - Working on device drivers for Network, USB, and other devices
+ - Managing and using SUSE, Debian and Windows systems
+
+
+Professional Experience
+***********************
+ Software Engineer                      Rackspace Inc           2012-Present
+ -----------------------------------------------------------------------------
+ Implement a small and secure open source on-server agent for the Cloud
+ Monitoring product. Create infrastructure to ship this agent to customer Linux
+ and Windows machines. Contribute to a new application platform based on the
+ libuv async I/O library and lua called luvit.
+
+ Engineer of Developer Happiness.       Rackspace Inc           2011-2012
+ -----------------------------------------------------------------------------
+ Design, develop and maintain systems to improve the workflow of software
+ engineering teams at Rackspace. Push for a culture of automation, testing and
+ continuous deployment. Work with the open source community to get changes
+ upstream.
+
+ Senior Associate Engineer              SuSE Labs               2007-2011
+ -----------------------------------------------------------------------------
+ Contribute to the Linux kernel community and assist in the maintenance of the
+ SuSE products. Focus and expertise in the network and the video input
+ subsystems of the kernel.
+
+ Co-founder             Open Source Education Lab               2006-2007
+ -----------------------------------------------------------------------------
+ Collaborate with industry representatives, community members, university
+ officials, and students to bring the benefits of the Open Source software
+ movement to students across the Oregon State campus.
+
+ Co-op                  IBM                                     Summer 2006
+ -----------------------------------------------------------------------------
+ Continued work on a genetic library patch set for the Linux Kernel including a
+ plug-in for the CPU scheduler and a TCL/TK GUI for visualization. Assisted in
+ the management of the milestones and goals of the project to create a
+ reasonable and complete solution in a limited amount of time.
+
+ Contractor             Reed eVentures                          2004-2005
+ -----------------------------------------------------------------------------
+ Developed a cross platform (Linux, Windows, Mac OSX) daemon for communicating
+ with a USB testing device that will be used at Oregon Health Sciences
+ University. Worked through changing requirements and extended testing to
+ deliver a stable robust package; leveraged open source toolkits including
+ libusb, pthreads, gcc, mingw, and cygwin.
+
+ Research Assistant     NASA Goddard Space Flight Center        Summer 2005
+ -----------------------------------------------------------------------------
+ Created a human-computer interface, using the Open Computer Vision Library,
+ that recognized hand gestures using a web camera and used them as computer
+ input. Worked on a team to create a mobile robot to be used in research and
+ development of human robotic interfaces for military and rehabilitation
+ applications. Received an outstanding participant award for my positive
+ attitude and the extra efforts made throughout the program.
+
+ Software Engineer      Oregon State Open Source Lab            2003-2006
+ -----------------------------------------------------------------------------
+ Worked as a Java developer to improve the Ockham Registry, 2005-2006.
+ Assisted in the design of a peer to peer application for sharing public
+ digital library collections. Created interface and architectural improvements
+ to the application to help attract new users.
+
+ Was lead developer of Maintain, a DNS/DHCP management application,
+ 2003-Summer 2005. Developed new features, fixed existing bugs and released
+ several versions of this PHP, MySQL and Perl based application. Coordinated
+ upgrades to critical DNS and DHCP services for Oregon State University.
+ Learned how to build and work with Open Source Communities. Supported a
+ range of users from Purdue University, University of Kansas, SGI and many
+ other organizations.
+
+Volunteer Activities
+********************
+
+ Organizer      Linux Plumbers Conf                             2008-2010
+ -----------------------------------------------------------------------------
+ Lead the web infrastructure including design and implementation. Built
+ and maintained a production environment including Wordpress and Ruby on
+ Rails conference sofware. Hold position on the program committee.
+
+ Mentor         FIRST Robotics Meeks Pro Tech High              2007
+ -----------------------------------------------------------------------------
+ Coached a team of high school students in building a robot to compete in the
+ 2007 FIRST Robotics Competition. Taught students basics of electronic control
+ systems and C programming.
+
+ Core member    Student Association of Computing Machinery      2005-2007
+ -----------------------------------------------------------------------------
+ Assist in many capacities with the planning of college events interacting
+ with college administrators, college donors and local businesses.
+
+ Core member    Linux Users Group                               2003-2007
+ -----------------------------------------------------------------------------
+ Coordinate events including installfests, hacking socials and a weather
+ balloon launch to celebrate a Firefox release.
+
+ Programmer     Sherwood/Newberg High School Robotics Team      2001-2003
+ -----------------------------------------------------------------------------
+ Volunteered hundreds of hours to create software for the robot using Visual
+ Basic, C++, USB and COM. Designed a custom scripting language and user
+ interface that aided in debugging mechanical and electrical systems. Created
+ a five minute demo for the robot which helped the team win first place in
+ category and win judge's choice at the National Society of Manufacturing
+ Engineers Robotics Competition at RIT in New York. See publications section.
+
+Recent Speaking Engagements
+***************************
+ Open Source Bridge 2012 - libuv: The Power Underneath Node.js
+ Open Source Bridge 2012 - An Introduction to luvit
+ Open Source Conference 2012 - Logging as Event Streams
+ Open Source Conference 2012 - One Tiny Daemon to Harvest Your Machine Stats
+
+Formal Education
+****************
+ Graduated magna cum laude with a Bachelors of Science in Computer Systems from
+ Oregon State University in 2007
+
+Extracurricular
+***************
+ Contributor to several free open source software projects. Cycled along the
+ Columbia river from Astoria, Oregon to Lewiston, ID in the Summer of 2012.
+
+References available upon request.
+
+-------------------------------------------------------------------------------
+http://www.androw.is/resume                                             2012-09
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
