@@ -53,7 +53,7 @@
         var $forks = $("<a>").attr("href", repo.html_url + "/network").text(repo.forks + " forks");
         $item.append($("<span>").addClass("forks").append($forks));
 
-        $item.appendTo("#recently-updated-repos");
+        $item.appendTo("#repos");
       }
 
       $.getJSON("https://api.github.com/users/androwis/repos?callback=?", function (result) {
