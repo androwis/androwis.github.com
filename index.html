@@ -37,8 +37,7 @@
 
         var $name = $("<a>").attr("href", repo.html_url).text(repo.name);
         $item.append($("<span>").addClass("name").append($name));
-	$item.append($("<span>").text(repo.language || "")+" | ");
-        $item.append($("<span>").text(repoDescription(repo)));
+        $item.append($("<span>").text(+": "repoDescription(repo)));
         
         var $time = $("<a>").attr("href", repo.html_url + "/commits").text(strftime("%h %e, %Y", repo.pushed_at));
         $item.append($("<span>").addClass("time").append($time));
