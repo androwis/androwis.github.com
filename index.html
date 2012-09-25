@@ -37,7 +37,7 @@
 
         var $name = $("<a>").attr("href", repo.html_url).text(repo.name);
         $item.append($("<span>").addClass("name").append($name));
-	$item.append($("<span>").text(repo.language)+" | ");
+	$item.append($("<span>").text(repo.language || "")+" | ");
         $item.append($("<p>").text(repoDescription(repo)));
         
         var $time = $("<a>").attr("href", repo.html_url + "/commits").text(strftime("%h %e, %Y", repo.pushed_at));
@@ -219,42 +219,22 @@
  		</div>
  		<br/><br/><br/>
  			
-      <div id="main" class="grid-1" style="clear:both; float:left;">
-        <h1>I'm built on open source software.</h1>
-      </div>
-
-      <div class="grid grid-3">
-        <div id="statistics" class="grid-1 alpha header">
-          <h1>Statistics</h1>
-          <p>
-            <a href="https://github.com/androwis/repositories"><span id="num-repos">&nbsp;</span> public repos</a>
-          </p>
-          <p class="email"><a href="mailto:androwis@androw.is">androwis@androw.is</a></p>
-        </div>
-
-        <div id="recently-updated" class="grid-2 omega header">
-          <h1>Recently updated <a href="https://github.com/androwis/repositories">View All on GitHub</a></h1>
-          <ol id="recently-updated-repos"></ol>
-        </div>
-      </div>
-
       <ol id="repos"></ol>
-    </div>
     
 <div class="container"><div class="row"><div class="span12 footer">
-<ul>
-<li>&copy; Andrew AbuMoussa | here i am: </li>    
-<li><a class="url" target="blank" rel="me" href="http://facebook.com/il.bringy" title="Friend me on facebook">facebook</a></li>
-<li><a class="url" target="blank" rel="me" href="http://www.flickr.com/photos/androwis/" title="Flickr">flickr</a></li>
-<li><a class="url" target="blank" rel="me" href="http://www.github.com/androwis" title="My Public Repos">github</a></li>
-<li><a class="url" target="blank" rel="me" href="http://www.goodreads.com/user/show/4071543-andrew-abumoussa" title="See what I'm reading">goodreads </a></li>
-<li><a class="url" target="blank" rel="me" href="http://www.jolkona.org/members/index/a4d2f0d23dcc84ce983ff9157f8b7f88" title="What I feel passionate about">jolkona</a></li>
-<li><a class="url" target="blank" rel="me" href="http://pandora.com/people/aphrofellow" title="what i'm listening to">pandora</a></li>
-<li><a class="url" target="blank" rel="me" href="http://www.google.com/reader/shared/user%2F14331689106161445344%2Fstate%2Fcom.google%2Fstarred" title="what i'm reading">reader</a></li>
-<li><a class="url" target="blank" rel="me" href="http://twitter.com/androwis" rel="me" title="Follow me on Twitter">twitter</a></li>
-<li><a class="url" target="blank" rel="me" href="http://www.amazon.com/shops/androwis">amazon</a></li>
-<li><a class="url" target="blank" rel="me" href="tel:+1-828-393-5939" title="call me">phone</a></li>
-</ul>
+	<ul>
+		<li>&copy; Andrew AbuMoussa | here i am: </li>    
+		<li><a class="url" target="blank" rel="me" href="http://facebook.com/il.bringy" title="Friend me on facebook">facebook</a></li>
+		<li><a class="url" target="blank" rel="me" href="http://www.flickr.com/photos/androwis/" title="Flickr">flickr</a></li>
+		<li><a class="url" target="blank" rel="me" href="http://www.github.com/androwis" title="My Public Repos">github</a></li>
+		<li><a class="url" target="blank" rel="me" href="http://www.goodreads.com/user/show/4071543-andrew-abumoussa" title="See what I'm reading">goodreads </a></li>
+		<li><a class="url" target="blank" rel="me" href="http://www.jolkona.org/members/index/a4d2f0d23dcc84ce983ff9157f8b7f88" title="What I feel passionate about">jolkona</a></li>
+		<li><a class="url" target="blank" rel="me" href="http://pandora.com/people/aphrofellow" title="what i'm listening to">pandora</a></li>
+		<li><a class="url" target="blank" rel="me" href="http://www.google.com/reader/shared/user%2F14331689106161445344%2Fstate%2Fcom.google%2Fstarred" title="what i'm reading">reader</a></li>
+		<li><a class="url" target="blank" rel="me" href="http://twitter.com/androwis" rel="me" title="Follow me on Twitter">twitter</a></li>
+		<li><a class="url" target="blank" rel="me" href="http://www.amazon.com/shops/androwis">amazon</a></li>
+		<li><a class="url" target="blank" rel="me" href="tel:+1-828-393-5939" title="call me">phone</a></li>
+	</ul>
 </div></div></div>
 
 	
