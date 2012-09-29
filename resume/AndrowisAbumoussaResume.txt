@@ -57,7 +57,7 @@ professional experience
  designs.  Architectural draftsman for 10 projects in excess value of $15 million
  Trained another intern.
 
-Architect Intern   Shamburger Design Studio (Hendersonville, NC) 5/2006–8/2006
+Architect Intern   Shamburger Design Studio (Hendersonville, NC) 5/2006-8/2006
  -----------------------------------------------------------------------------
  Apprenticed architect through all stages of design, from initial meeting with 
  clients, to sketching the ideas, to final presentation of plans and bidding of
@@ -82,18 +82,18 @@ Crowd sourced captioning to power mobile interfaces for the deaf
 education
 ****************
 
-CS Ph.D. Student           University of Rochester             1/2012–present
+CS Ph.D. Student           University of Rochester             1/2012-present
 -----------------------------------------------------------------------------
 Accessibile User Interfaces for the Blind and DHH  [under Dr. Jeffrey Bigham] 
 Artificial Intelligence                               [under Dr. Henry Kautz] 
 
-Double Major     University of North Carolina at Chapel Hill    8/2005–5/2009
+Double Major     University of North Carolina at Chapel Hill    8/2005-5/2009
 -----------------------------------------------------------------------------
 B.Sc. in Applied Mathematics                         [under Dr. Sorin Mitran]
 B.Sc. w/ Honors in Computer Science                   [under Dr. Gary Bishop]
 Mathematics GPA – 3.69/4.00 Overall–3.42/4.00 
 
-North Carolina School of Science & Mathematics                  8/2003–5/2005
+North Carolina School of Science & Mathematics                  8/2003-5/2005
 -----------------------------------------------------------------------------
 Fell in love with Fractals and Chaos, exhausted biology and maths curriculums,
 & surprisingly, did 0 programming.
