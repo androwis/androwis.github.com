@@ -1,0 +1,106 @@
+===============================================================================
+@androwis                     androwis abumoussa            github.com/androwis
+
+androwis@androw.is               Rochester NY                    (828) 393 5939
+===============================================================================
+
+technical expertise
+*******************
+
+ - Developing software w Java, Python, C, Puppet, various DBs, & the cloud
+ - Building web applications using Jetty, Spring, jQuery, HTML and CSS
+ - Working knowledge of Scala, Lisp, Prolog, Clojure, iOS/Android and Ruby
+ - Hacking on the Linux Kernel building home automation/monitoring systems
+ - Managing and using SUSE, Debian, Mac and Windows systems
+
+
+professional experience
+***********************
+
+ Co-Founder/CTO          Fount.in Inc (Rochester, NY)           5/2012-Present
+ -----------------------------------------------------------------------------
+ Artificial Intelligence as a Service.  Using AI and Machine Learning, we track
+ how and where diseases are spreading in real time using twitter data.  We 
+ provide clients with systems to monitor consumer health for product placement.
+ 
+ Head of Engineering       SimplyHome (Asheville, NC)           10/2010-5/2012
+ -----------------------------------------------------------------------------
+ Design, develop and maintain systems to improve the quality of life for aging
+ and handicapped populations. As the chief technologist, I built the cloud 
+ infrastructure, supervised the hardware development, and implemented solutions
+ for our customers.  Medicare approved solution in 30 states.
+
+ Founder/CEO              Scenedipity (Asheville, NC)            4/2011-4/2012
+ -----------------------------------------------------------------------------
+ Open data platform for restaurants and foodtrucks.  This personal project
+ introduced me to the open source community (specifically Github) and Twitter.
+ I learned most of my enterprise development through this project.
+
+ Lead Dev/Sys Admin     IWANNA USA, LLC (Asheville, NC)          1/2010-7/2011
+ -----------------------------------------------------------------------------
+ Managed the complete rebuild of a classifieds website that serves over 25k 
+ classifieds weekly generating more than 1 million unique hits every two weeks.
+ Largest development focus was placed on the UI and user experience. Changes
+ grew engagement and content by over 15% and 30% respectively.
+
+
+ Developer       Bishara Textile Manufacturing (Cairo, EG)       5/2008-9/2008
+ -----------------------------------------------------------------------------
+ Designed an online management tool for a 2000+ worker Egyptian textile factory.
+ The software manages the different aspects of garment production, by measuring 
+ worker output and factory capacity to scheduling design calendars. Resulted 
+ in a 12% productivity increase.
+
+ Draftsman      Shamburger Design Studio (Hendersonville, NC)    5/2007-8/2007
+ -----------------------------------------------------------------------------
+ Created my first ftp style website where clients could securely access rendered
+ designs.  Architectural draftsman for 10 projects in excess value of $15 million
+ Trained another intern.
+
+Architect Intern   Shamburger Design Studio (Hendersonville, NC) 5/2006–8/2006
+ -----------------------------------------------------------------------------
+ Apprenticed architect through all stages of design, from initial meeting with 
+ clients, to sketching the ideas, to final presentation of plans and bidding of
+ project to contractors. Became proficient with AutoCAD, archiCAD, and Google’s
+ Sketch-Up.
+
+
+publication and speaking engagements
+*************************************
+
+Real-Time Captioning by Groups of Non-Experts                       UIST 2012
+-----------------------------------------------------------------------------
+W Lasecki, C Miller, A Sadilek, A Abumoussa, D Borrello, R Kushalnagar, & J Bigham
+Crowd sourced captioning to power mobile interfaces for the deaf
+
+ CIVHC.org Health Conf   - Innovating with Open Health Data 
+ Company Lab Demo Day    - Corpora | Uncovering Health Insights in Real Time
+ Health Datapalooza 2012 - Health Insights in Real-Time
+ FoodTech 2012           - Reverse Engineering Real-Time Interfaces for Food Trucks
+ U of Alabama CSE 2011   - Innovative Engineering at SimplyHome
+
+education
+****************
+
+CS Ph.D. Student           University of Rochester             1/2012–present
+-----------------------------------------------------------------------------
+Accessibile User Interfaces for the Blind and DHH  [under Dr. Jeffrey Bigham] 
+Artificial Intelligence                               [under Dr. Henry Kautz] 
+
+Double Major     University of North Carolina at Chapel Hill    8/2005–5/2009
+-----------------------------------------------------------------------------
+B.Sc. in Applied Mathematics                         [under Dr. Sorin Mitran]
+B.Sc. w/ Honors in Computer Science                   [under Dr. Gary Bishop]
+Mathematics GPA – 3.69/4.00 Overall–3.42/4.00 
+
+North Carolina School of Science & Mathematics                  8/2003–5/2005
+-----------------------------------------------------------------------------
+Fell in love with Fractals and Chaos, exhausted biology and maths curriculums,
+& surprisingly, did 0 programming.
+
+extracurricular
+***************
+ RocHack - League of hackers at the University of Rochester
+ Skydiving, Scuba, Belay
+
+References available upon request.
