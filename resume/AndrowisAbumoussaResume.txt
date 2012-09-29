@@ -61,7 +61,7 @@ Architect Intern   Shamburger Design Studio (Hendersonville, NC) 5/2006-8/2006
  -----------------------------------------------------------------------------
  Apprenticed architect through all stages of design, from initial meeting with 
  clients, to sketching the ideas, to final presentation of plans and bidding of
- project to contractors. Became proficient with AutoCAD, archiCAD, and Google’s
+ project to contractors. Became proficient with AutoCAD, archiCAD, and Google's
  Sketch-Up.
 
 
@@ -76,7 +76,7 @@ Crowd sourced captioning to power mobile interfaces for the deaf
  CIVHC.org Health Conf   - Innovating with Open Health Data 
  Company Lab Demo Day    - Corpora | Uncovering Health Insights in Real Time
  Health Datapalooza 2012 - Health Insights in Real-Time
- FoodTech 2012           - Reverse Engineering Real-Time Interfaces for Food Trucks
+ FoodTech 2012           - Reverse Engineering Real-Time UIs for Food Trucks
  U of Alabama CSE 2011   - Innovative Engineering at SimplyHome
 
 education
@@ -91,11 +91,11 @@ Double Major     University of North Carolina at Chapel Hill    8/2005-5/2009
 -----------------------------------------------------------------------------
 B.Sc. in Applied Mathematics                         [under Dr. Sorin Mitran]
 B.Sc. w/ Honors in Computer Science                   [under Dr. Gary Bishop]
-Mathematics GPA – 3.69/4.00 Overall–3.42/4.00 
+Mathematics GPA - 3.69/4.00 Overall - 3.42/4.00 
 
 North Carolina School of Science & Mathematics                  8/2003-5/2005
 -----------------------------------------------------------------------------
-Fell in love with Fractals and Chaos, exhausted biology and maths curriculums,
+Fell in love with Fractals and Chaos, exhausted biology and maths curriculums
 & surprisingly, did 0 programming.
 
 extracurricular
@@ -103,4 +103,4 @@ extracurricular
  RocHack - League of hackers at the University of Rochester
  Skydiving, Scuba, Belay
 
-References available upon request.
+References available upon request. [http://androw.is/resume] for links
