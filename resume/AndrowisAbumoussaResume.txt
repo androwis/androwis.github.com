@@ -9,8 +9,8 @@ technical expertise
 
  - Developing w Java, Python, C, Puppet, various DBs, & the cloud
  - Building web applications w Jetty, Spring, jQuery, HTML and CSS
- - Working knowledge: Scala, Lisp, Prolog, Clojure, iOS/Android & Ruby
- - Hacking on Linux Kernel building home automation/monitoring systems
+ - Working knowledge: Scala, Lisp, Prolog, Clojure, Mobile & Ruby
+ - Hacking on Linux Kernel building home automation/monitoring sys
  - Managing and using SUSE, Debian, Mac and Windows systems
 
 
@@ -43,9 +43,9 @@ professional experience
  --------------------------------------------------------------------
  Managed the complete rebuild of a classifieds website that serves 
  over 25k classifieds weekly generating more than 1 million unique 
- visitors every two weeks. Largest development focus was placed on the
- UI and user experience. Website changes grew engagement and content 
- by over 15% and 30% respectively.
+ visitors every two weeks. Largest development focus was placed on
+ the UI and user experience. Website changes grew engagement and
+ content by over 15% and 30% respectively.
 
  Developer   Bishara Textile Manufacturing (Cairo, EG)  5/2008-9/2008
  --------------------------------------------------------------------
