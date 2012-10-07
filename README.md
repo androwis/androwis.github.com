@@ -1,6 +1,6 @@
-# androw.is
+# [androw.is](http://androw.is)
 
-My website, including my blog as well as my blog posts served via [Jekyll](http://github.com/mojombo/jekyll) (which is awesome!)
+My website, including my blog served via [Jekyll](http://github.com/mojombo/jekyll) (which is awesome!)
 
 ## License
 

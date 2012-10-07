@@ -4,7 +4,7 @@
  <title>androwis</title>
  <link href="http://androw.is/atom.xml" rel="self"/>
  <link href="http://androw.is/"/>
- <updated>2012-10-07T10:27:05-04:00</updated>
+ <updated>2012-10-07T10:58:12-04:00</updated>
  <id>http://androw.is</id>
  <author>
    <name>androwis abumoussa</name>
@@ -102,7 +102,7 @@ f(x) \propto x^3 .&lt;br /&gt;
    <link href="http://androw.is/resume"/>
    <updated>2012-10-01T00:00:00-04:00</updated>
    <id>http:/androw.is/resume</id>
-   <content type="html">&lt;div class=&quot;resume&quot; style=&quot;font-size:12px; width:80%&quot;&gt;
+   <content type="html">&lt;div class=&quot;resume&quot; style=&quot;font-size:12px; min-width:630px&quot;&gt;
 &lt;center&gt;downloads&lt;/center&gt;
 &lt;a href=&quot;/static/resume/AndrowisAbumoussaResume.txt&quot;&gt;Current Resume&lt;/a&gt;
 | &lt;a href=&quot;/static/resume/AndrewAbuMoussaTranscript.pdf&quot;&gt;Unofficial &lt;span class=&quot;caps&quot;&gt;UNC&lt;/span&gt; Transcript&lt;/a&gt;
@@ -147,7 +147,7 @@ Mathematics &lt;span class=&quot;caps&quot;&gt;GPA&lt;/span&gt; – 3.69/4.00 Ov
 &lt;a href=&quot;/static/papers/Real-Time_Captioning_by_Groups_of_Non-Experts_UIST-12.pdf&quot;&gt; &lt;strong&gt;Real-Time Captioning by Groups of Non-Experts&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
 W Lasecki, C Miller, A Sadilek, A Abumoussa, D Borrello, R Kushalnagar, &amp;amp; J Bigham&lt;br&gt;
 &lt;i&gt;in 25th &lt;span class=&quot;caps&quot;&gt;ACM&lt;/span&gt; Symposium on User Interface Software and Technology (&lt;span class=&quot;caps&quot;&gt;UIST&lt;/span&gt;) 2012&lt;/i&gt;&lt;br&gt;
-Crowd sourcing captioning to power an interface for the deaf
+Crowd sourcing captioning to power an interface for the deaf&lt;br/&gt;
 Coverage: &lt;a href=&quot;http://www.newscientist.com/article/mg21528745.200-crowdsourcing-serves-up-the-subtitles-to-your-life.html?&quot;&gt;New Scientist&lt;/a&gt; | &lt;a href=&quot;http://gizmodo.com/5928856/crowdsourcing-could-help-deaf-people-subtitle-their-everyday-life&quot;&gt;Gizmodo&lt;/a&gt;
 &lt;/dd&gt;
 &lt;br/&gt;

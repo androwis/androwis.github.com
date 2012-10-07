@@ -3,7 +3,7 @@ layout: post
 title: Androwis Abumoussa's Resume
 tweet: Androwis Abumoussa's resume can be found here
 ---
-<div class="resume" style="font-size:12px; min-width:600px">
+<div class="resume" style="font-size:12px; min-width:630px">
 <center>downloads</center>
     <a href="/static/resume/AndrowisAbumoussaResume.txt">Current Resume</a>
     | <a href="/static/resume/AndrewAbuMoussaTranscript.pdf">Unofficial UNC Transcript</a>
