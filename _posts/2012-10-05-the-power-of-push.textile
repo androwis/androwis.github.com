@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Power of Push
+tweet: Ira Glass on why making things awesome is so hard
 ---
 I love this quote from [This American Life's] Ira Glass about [pushing] something from mediocrity into the realm of something incredible: 
 <blockquote>"For me, pushing myself is way more about &quot;It's hard to make something that's interesting.&quot;<br/><br/>

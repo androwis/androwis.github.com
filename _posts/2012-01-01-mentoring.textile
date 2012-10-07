@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Mentoring
+tweet: what it means to help others
 ---
 <div class="body" style="margin:auto">
-                  <p><em>Part of a <a href="http://github.com/dianakimball/mentoring">distributed mentoring movement</a>.</em></p>
+<p><em>Part of a <a href="http://github.com/dianakimball/mentoring">distributed mentoring movement</a>.</em></p>
 <p>Every major step forward in my life so far has been inspired and encouraged by the mentors I’ve been fortunate enough to have. I believe that hopes, dreams, and advice are best shared in ongoing, personal relationships, and it’s important to me to make myself available as a mentor to others.</p>
 <p>I’ve had so many great experiences in my life, and I’d love to share them if you’re considering pursuing a similar path.</p>
 <ul>

@@ -4,7 +4,7 @@
  <title>androwis</title>
  <link href="http://androw.is/atom.xml" rel="self"/>
  <link href="http://androw.is/"/>
- <updated>2012-10-06T21:49:50-04:00</updated>
+ <updated>2012-10-07T10:27:05-04:00</updated>
  <id>http://androw.is</id>
  <author>
    <name>androwis abumoussa</name>
@@ -17,7 +17,7 @@
    <link href="http://androw.is/the-switch-to-github-pages"/>
    <updated>2012-10-06T00:00:00-04:00</updated>
    <id>http:/androw.is/the-switch-to-github-pages</id>
-   <content type="html">&lt;p&gt;I remember meeting &lt;a href=&quot;http:/lvimeo.com/50006538&quot;&gt;Gabe Carleton-Barnes&lt;/a&gt; while travelling around Europe.  Here was someone who had a laptop, 6 articles of clothing, and a wallet travelling around Europe for three months.  And there I was, lugging around 2 suitcases and a backpack like a douche.  I felt like I needed to hold on to everything. Not only was this limiting me in terms of mobility, but I was constantly worrying, about losing or forgetting my stuff.&lt;/p&gt;
+   <content type="html">&lt;p&gt;I remember meeting &lt;a href=&quot;http://vimeo.com/50006538&quot;&gt;Gabe Carleton-Barnes&lt;/a&gt; while travelling around Europe.  Here was someone who had a laptop, 6 articles of clothing, and a wallet travelling around Europe for three months.  And there I was, lugging around 2 suitcases and a backpack like a douche.  I felt like I needed to hold on to everything. Not only was this limiting me in terms of mobility, but I was constantly worrying, about losing or forgetting my stuff.&lt;/p&gt;
 &lt;p&gt;As I was packing for grad school, I realized the metaphor still haunted me; I owned too many things.  It was becoming a pain not only to manage my digital life (synching files between four computers), but I didn&amp;#8217;t have the luxury of easily transporting from place to place.&lt;/p&gt;
 &lt;p&gt;A few months back, I decided to finally let go of everything.  I put up a digital store on &lt;a href=&quot;amazon.com/shops/androwis&quot;&gt;Amazon&lt;/a&gt; and I&amp;#8217;ve slowly been shedding since.  It&amp;#8217;s turned out to put some money in my pocket, but more importantly I feel free, not dragged down by all my crap.&lt;/p&gt;
 &lt;p&gt;Once you start shedding, you become addicted.  I realized I was still shuffling files between machines, even though I had &lt;a href=&quot;http://db.tt/NOFhHqZw&quot;&gt;Dropbox&lt;/a&gt; (which I love!). So, I started selling my computers and put everything up at &lt;a href=&quot;http://github.com&quot;&gt;Github&lt;/a&gt;.  Discovering &lt;a href=&quot;http://pages.github.com&quot;&gt;Github Pages&lt;/a&gt;: changed my life, &lt;a href=&quot;http://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;: made it easy.&lt;/p&gt;
@@ -102,131 +102,79 @@ f(x) \propto x^3 .&lt;br /&gt;
    <link href="http://androw.is/resume"/>
    <updated>2012-10-01T00:00:00-04:00</updated>
    <id>http:/androw.is/resume</id>
-   <content type="html">&lt;div class=&quot;resume&quot; style=&quot;font-size:12px&quot;&gt;
+   <content type="html">&lt;div class=&quot;resume&quot; style=&quot;font-size:12px; width:80%&quot;&gt;
 &lt;center&gt;downloads&lt;/center&gt;
 &lt;a href=&quot;/static/resume/AndrowisAbumoussaResume.txt&quot;&gt;Current Resume&lt;/a&gt;
 | &lt;a href=&quot;/static/resume/AndrewAbuMoussaTranscript.pdf&quot;&gt;Unofficial &lt;span class=&quot;caps&quot;&gt;UNC&lt;/span&gt; Transcript&lt;/a&gt;
 &lt;center&gt; contact&lt;/center&gt;
 &lt;div id=&quot;r&quot;&gt;
     &lt;div id=&quot;n&quot;&gt;Androwis Abumoussa&lt;/div&gt;
-    &lt;div class=&quot;tl&quot;&gt; &lt;b&gt; current address :&lt;/b&gt; 57 Glasgow Street, Rochester NY 14608&lt;/div&gt;
-    &lt;div class=&quot;tr&quot;&gt; &lt;b&gt; permanent address :&lt;/b&gt; 100 Tarnhill Dr, Flat Rock, NC 28731&lt;/div&gt;
-    &lt;div class=&quot;t&quot;&gt;&lt;b&gt;twitter&lt;/b&gt;.com/&lt;a href=&quot;http://twitter.com/androwis&quot;&gt;androwis&lt;/a&gt;&lt;/div&gt;
-    &lt;div class=&quot;t&quot;&gt;&lt;b&gt;github&lt;/b&gt;.com/&lt;a href=&quot;http://github.com/androwis&quot;&gt;androwis&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&quot;tl&quot;&gt; &lt;strong&gt; current address :&lt;/strong&gt; 57 Glasgow Street, Rochester NY 14608&lt;/div&gt;
+    &lt;div class=&quot;tr&quot;&gt; &lt;strong&gt; permanent address :&lt;/strong&gt; 100 Tarnhill Dr, Flat Rock, NC 28731&lt;/div&gt;
+    &lt;div class=&quot;t&quot;&gt;&lt;strong&gt;twitter&lt;/strong&gt;.com/&lt;a href=&quot;http://twitter.com/androwis&quot;&gt;androwis&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&quot;t&quot;&gt;&lt;strong&gt;github&lt;/strong&gt;.com/&lt;a href=&quot;http://github.com/androwis&quot;&gt;androwis&lt;/a&gt;&lt;/div&gt;
     &lt;div class=&quot;t&quot;&gt;&lt;a href=&quot;mailto:androwis@androw.is&quot;&gt;androwis@androw.is&lt;/a&gt;&lt;/div&gt;
     &lt;div class=&quot;t&quot;&gt;&lt;a href=&quot;tel:8283935939&quot;&gt;828.393.5939&lt;/a&gt; &lt;/div&gt;
 
 &lt;center&gt;education&lt;/center&gt;
 &lt;dl&gt;
-&lt;dd&gt;
-&lt;p&gt;&lt;b&gt;The University of Rochester&lt;/b&gt; | &lt;span class=&quot;d&quot;&gt;1 / 2012 – present&lt;/span&gt;&lt;br&gt;
+&lt;dd&gt;&lt;strong&gt;The University of Rochester&lt;/strong&gt; | &lt;span class=&quot;d&quot;&gt;1 / 2012 – present&lt;/span&gt;&lt;br&gt;
 Computer Science Ph.D. Candidate&lt;br&gt;
 Accessibile User Interfaces [under &lt;a href=&quot;http://www.cs.rochester.edu/~jbigham/&quot;&gt;Dr. Jeffrey Bigham&lt;/a&gt;] &lt;br&gt;
-Artificial Intelligence [under &lt;a href=&quot;http://www.cs.rochester.edu/u/kautz/&quot;&gt;Dr. Henry Kautz&lt;/a&gt;]&lt;/p&gt;
-&lt;p&gt;&lt;/dd&gt;&lt;dd&gt;&lt;br /&gt;
-&lt;b&gt;The University of North Carolina at Chapel Hill&lt;/b&gt; | &lt;span class=&quot;d&quot;&gt;8 / 2005 – 5 / 2009&lt;/span&gt;&lt;br&gt;
+Artificial Intelligence [under &lt;a href=&quot;http://www.cs.rochester.edu/u/kautz/&quot;&gt;Dr. Henry Kautz&lt;/a&gt;]&lt;/dd&gt;
+&lt;p&gt;&lt;br/&gt;
+&lt;dd&gt;&lt;strong&gt;The University of North Carolina at Chapel Hill&lt;/strong&gt; | &lt;span class=&quot;d&quot;&gt;8 / 2005 – 5 / 2009&lt;/span&gt;&lt;br&gt;
 B.Sc. in Applied Mathematics [under &lt;a href=&quot;http://mitran.web.unc.edu/&quot;&gt;Dr. Sorin Mitran&lt;/a&gt;]&lt;br&gt;
 B.Sc. w/ Honors in Computer Science [under &lt;a href=&quot;http://www.cs.unc.edu/~gb/&quot;&gt;Dr. Gary Bishop&lt;/a&gt;]&lt;br&gt;
-Mathematics &lt;span class=&quot;caps&quot;&gt;GPA&lt;/span&gt; – 3.69/4.00 Overall–3.42/4.00&lt;/p&gt;
-&lt;p&gt;&lt;/dd&gt;&lt;dd&gt;&lt;br /&gt;
-&lt;b&gt;The North Carolina School of Science and Mathematics&lt;/b&gt; | &lt;span class=&quot;d&quot;&gt;8 / 2003 – 5 / 2005&lt;/span&gt;&lt;br&gt;
-Fell in love with Fractals and Chaos, exhausted biology and maths curriculums, &amp;amp; surprisingly, did 0 programming.&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;br /&gt;
-&lt;center&gt;employment history&lt;/center&gt;&lt;br /&gt;
-&lt;dl&gt;&lt;/p&gt;
-&lt;dd&gt;
-&lt;p&gt;&lt;b&gt;Co-founder / &lt;span class=&quot;caps&quot;&gt;CTO&lt;/span&gt;&lt;/b&gt; at &lt;a href=&quot;http://fount.in&quot;&gt;&lt;b&gt;Fount.in&lt;/b&gt;&lt;/a&gt; | &lt;i&gt;Rochester, NY&lt;/i&gt; &lt;span class=&quot;d&quot;&gt;[May 2012 – Present]&lt;/span&gt;&lt;br /&gt;
-&lt;br&gt;Artificial Intelligence as a Service.&lt;br /&gt;
-&lt;br&gt;Coverage: &lt;a href=&quot;http://www.popsci.com/science/article/2012-07/algorithm-scans-your-tweets-tell-you-if-youre-about-get-sick&quot;&gt;PopSci&lt;/a&gt; | &lt;a href=&quot;http://gizmodo.com/5929196/how-twitter-can-predict-when-individuals-will-get-sick&quot;&gt;Gizmodo&lt;/a&gt; | &lt;a href=&quot;http://www.newscientist.com/blogs/onepercent/2012/07/ai-predicts-when-youre-about-t.html&quot;&gt;New Scientist&lt;/a&gt; | &lt;a href=&quot;http://www.businessinsider.com/researchers-use-twitter-to-predict-when-new-yorkers-will-catch-the-flu-with-90-accuracy-2012-8&quot;&gt;Business Insider&lt;/a&gt; | &lt;a href=&quot;http://news.discovery.com/tech/twitter-predicts-sickness-120726.html&quot;&gt;Discovery News&lt;/a&gt; | &lt;a href=&quot;http://www.medicaldaily.com/news/20120726/11111/twitter-algorithm-know-flu-influenza-artificial-intelligence.htm&quot;&gt; MedicalDaily&lt;/a&gt; | &lt;a href=&quot;http://www.bild.de/digital/internet/twitter/twitter-sagt-krankheit-voraus-25416408.bild.html&quot;&gt;Bild.de&lt;/a&gt; | &lt;a href=&quot;http://www.sfgate.com/technology/businessinsider/article/Researchers-Use-Twitter-To-Predict-When-New-3754629.php&quot;&gt;SFGate&lt;/a&gt; | &lt;a href=&quot;http://www.fiercehealthit.com/story/twitter-helps-predict-flu-trends-new-york/2012-08-01?utm_source=rss&quot;&gt;Fierce Health&lt;/a&gt; | &lt;a href=&quot;http://www.npr.org/templates/rundowns/rundown.php?prgId=35&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NPR&lt;/span&gt;&lt;/a&gt; (panel round 2, 5 minutes in)  | &lt;a href=&quot;http://colab.is/2012/gigtank-goes-to-washington/&quot;&gt;[video] Health Data Palooza Keynote&lt;/a&gt; |&lt;a href=&quot;http://vimeo.com/48183729&quot;&gt;GigTank Demo Day&lt;/a&gt;&lt;/p&gt;
+Mathematics &lt;span class=&quot;caps&quot;&gt;GPA&lt;/span&gt; – 3.69/4.00 Overall–3.42/4.00&lt;/dd&gt;&lt;br /&gt;
+&lt;br/&gt;
+&lt;dd&gt;&lt;strong&gt;The North Carolina School of Science and Mathematics&lt;/strong&gt; | &lt;span class=&quot;d&quot;&gt;8 / 2003 – 5 / 2005&lt;/span&gt;&lt;br&gt;Fell in love with Fractals and Chaos, exhausted biology and maths curriculums, &amp;amp; surprisingly, did 0 programming.&lt;br&gt;&lt;br&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/p&gt;
+&lt;center&gt;employment history&lt;/center&gt;
+&lt;dl&gt;
+&lt;dd&gt;&lt;strong&gt;Co-founder / &lt;span class=&quot;caps&quot;&gt;CTO&lt;/span&gt;&lt;/strong&gt; at &lt;a href=&quot;http://fount.in&quot;&gt;&lt;strong&gt;Fount.in&lt;/strong&gt;&lt;/a&gt; | &lt;i&gt;Rochester, NY&lt;/i&gt; &lt;span class=&quot;d&quot;&gt;[May 2012 – Present]&lt;/span&gt;&lt;br&gt;Artificial Intelligence as a Service.&lt;br&gt;Coverage: &lt;a href=&quot;http://www.popsci.com/science/article/2012-07/algorithm-scans-your-tweets-tell-you-if-youre-about-get-sick&quot;&gt;PopSci&lt;/a&gt; | &lt;a href=&quot;http://gizmodo.com/5929196/how-twitter-can-predict-when-individuals-will-get-sick&quot;&gt;Gizmodo&lt;/a&gt; | &lt;a href=&quot;http://www.newscientist.com/blogs/onepercent/2012/07/ai-predicts-when-youre-about-t.html&quot;&gt;New Scientist&lt;/a&gt; | &lt;a href=&quot;http://www.businessinsider.com/researchers-use-twitter-to-predict-when-new-yorkers-will-catch-the-flu-with-90-accuracy-2012-8&quot;&gt;Business Insider&lt;/a&gt; | &lt;a href=&quot;http://news.discovery.com/tech/twitter-predicts-sickness-120726.html&quot;&gt;Discovery News&lt;/a&gt; | &lt;a href=&quot;http://www.medicaldaily.com/news/20120726/11111/twitter-algorithm-know-flu-influenza-artificial-intelligence.htm&quot;&gt; MedicalDaily&lt;/a&gt; | &lt;a href=&quot;http://www.bild.de/digital/internet/twitter/twitter-sagt-krankheit-voraus-25416408.bild.html&quot;&gt;Bild.de&lt;/a&gt; | &lt;a href=&quot;http://www.sfgate.com/technology/businessinsider/article/Researchers-Use-Twitter-To-Predict-When-New-3754629.php&quot;&gt;SFGate&lt;/a&gt; | &lt;a href=&quot;http://www.fiercehealthit.com/story/twitter-helps-predict-flu-trends-new-york/2012-08-01?utm_source=rss&quot;&gt;Fierce Health&lt;/a&gt; | &lt;a href=&quot;http://www.npr.org/templates/rundowns/rundown.php?prgId=35&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NPR&lt;/span&gt;&lt;/a&gt; (panel round 2, 5 minutes in)  | &lt;a href=&quot;http://colab.is/2012/gigtank-goes-to-washington/&quot;&gt;[video] Health Data Palooza Keynote&lt;/a&gt; |&lt;a href=&quot;http://vimeo.com/48183729&quot;&gt;GigTank Demo Day&lt;/a&gt;&lt;/dd&gt;&lt;p&gt;&lt;br/&gt;
+&lt;dd&gt;&lt;strong&gt; Head of Engineering&lt;/strong&gt; at &lt;a href=&quot;http://simply-home.com&quot;&gt;&lt;strong&gt;Simply Home&lt;/strong&gt;&lt;/a&gt; | &lt;i&gt;Asheville, NC&lt;/i&gt; &lt;span class=&quot;d&quot;&gt;[Oct. 2010 – Apr. 2012]&lt;/span&gt;&lt;br&gt;As the chief technologist at SimplyHome, I was responsible for building the infrastructure behind our solutions that allowed families to monitor aging or disabled loved ones with technology instead of live at home caregivers.&lt;ul&gt; &lt;li&gt;Restructured and rewrote the distributed systems and cloud architecture&lt;/li&gt;&lt;li&gt;Learned about hardware manufacturing through the design of ~12 devices (&lt;span class=&quot;caps&quot;&gt;FCC&lt;/span&gt; certifications, hardware tooling, &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt;)&lt;/li&gt;&lt;li&gt;Heavy scaling and growth focus&lt;/li&gt;&lt;/ul&gt;Coverage:&lt;a href=&quot;http://www.simply-home.com/extreme/&quot;&gt;Extreme Makeover: Home Edition&lt;/a&gt;&lt;/dd&gt;&lt;br /&gt;
+&lt;dd&gt;&lt;strong&gt;Founder / President&lt;/strong&gt; at &lt;a href=&quot;http://scenedipity.com&quot;&gt;&lt;strong&gt;Scenedipity&lt;/strong&gt;&lt;/a&gt; | &lt;i&gt;Asheville, NC&lt;/i&gt;&lt;span class=&quot;d&quot;&gt;[Apr. 2011 – Apr. 2012]&lt;/span&gt;&lt;ul&gt;&lt;li&gt;Open data platform for restaurant and foodtrucks &lt;/li&gt;&lt;li&gt;Introduction to open source community (specifically &lt;a href=&quot;http://github.scenedipity.com&quot;&gt;Github&lt;/a&gt;) and twitter.&lt;/li&gt;&lt;li&gt;&lt;i&gt;[Toolkit Growth]&lt;/i&gt;  &lt;a href=&quot;http://d.scndp.it:5984/_utils&quot;&gt;CouchDB&lt;/a&gt; | &lt;a href=&quot;https://github.com/Scenedipity/embedded-jetty-archetype&quot;&gt;Embedded jetty&lt;/a&gt; w/ Virtual Hosts | Graphiti | built a &lt;a href=&quot;http://scndp.it&quot;&gt;&lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt; Shortener&lt;/a&gt; (&lt;a href=&quot;https://github.com/Scenedipity/scnd.pt&quot;&gt;source&lt;/a&gt;) &amp;amp; [&lt;a href=&quot;https://github.com/androwis/j&quot;&gt;one in JS!&lt;/a&gt;] | tech basis for &lt;a href=&quot;http://www.timesfreepress.com/news/2012/may/15/tech-challenge/?print&quot;&gt;Fount.in&lt;/a&gt; | open sourced &lt;a href=&quot;https://github.com/androwis/androwis.github.com&quot;&gt;http://androw.is&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;br /&gt;
+&lt;dd&gt;&lt;strong&gt; Lead Dev / Sys Admin &lt;/strong&gt; at &lt;a href=&quot;http://iwanna.com&quot;&gt;&lt;strong&gt;&lt;span class=&quot;caps&quot;&gt;IWANNA&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;LLC&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt; | &lt;i&gt;Asheville, NC &lt;/i&gt;&lt;span class=&quot;d&quot;&gt;[Jan. 2010 – July 2011]&lt;/span&gt; &lt;ul&gt;&lt;li&gt;Managed the complete rebuild of a classified website that serves over 25,000 classifieds weekly and generates over 1 million hits a month.  The largest developmental focus was placed on the user-interfaces and the networking of the individual advertiser&amp;#8217;s classifieds.&lt;/li&gt;&lt;li&gt;Proposed/developed an expansion that focuses on and supports socially aware projects and programs in the local community&lt;/li&gt;&lt;li&gt;Proposed/developed a marketplace for local businesses to manage and brand their inventories.&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;br /&gt;
+&lt;dd&gt;&lt;strong&gt;Programming Consultant&lt;/strong&gt; at &lt;a href=&quot;http://www.bishara.com.eg/&quot;&gt;&lt;strong&gt;Bishara Textile Manufacturing&lt;/strong&gt;&lt;/a&gt; &lt;i&gt; Cairo, Egypt&lt;/i&gt; &lt;span class=&quot;d&quot;&gt;[May 2008 –  Sept. 2008] &lt;/span&gt;&lt;ul&gt;&lt;li&gt;Designed an online management tool for a 2000+ worker textile factory. The software manages all aspects of garment production, from worker output and factory capacity to scheduling design calendars while using a database back-end. Resulted in a 12% productivity increase.&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;br /&gt;
+&lt;dd&gt;&lt;strong&gt;Programmer &amp;amp; Draftsman,&lt;/strong&gt; at &lt;a href=&quot;http://shamburgerarchitecture.com/&quot;&gt;&lt;strong&gt;Shamburger Design Studio&lt;/strong&gt;&lt;/a&gt;,&lt;i&gt; Hendersonville, NC&lt;/i&gt; &lt;span class=&quot;d&quot;&gt; [May 2007 – Aug. 2007]&lt;/span&gt;&lt;br /&gt;
+ &lt;ul&gt;&lt;li&gt;Web Programmer: created an ftp style page so clients could securely access rendered designs&lt;/li&gt;&lt;li&gt; Architectural draftsman for 10 projects in excess value of $15 million&lt;/li&gt;&lt;li&gt;Trained a new intern.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
 &lt;/dd&gt;
 &lt;dd&gt;
-&lt;p&gt;&lt;b&gt; Head of Engineering&lt;/b&gt; at &lt;a href=&quot;http://simply-home.com&quot;&gt;&lt;b&gt;Simply Home&lt;/b&gt;&lt;/a&gt; | &lt;i&gt;Asheville, NC&lt;/i&gt; &lt;span class=&quot;d&quot;&gt;[Oct. 2010 – Apr. 2012]&lt;/span&gt;&lt;br /&gt;
-&lt;br&gt;As the chief technologist at SimplyHome, I was responsible for building the infrastructure behind our solutions that allowed families to monitor aging or disabled loved ones&lt;br /&gt;
-with technology instead of live at home caregivers.&lt;br /&gt;
-&lt;ul&gt; &lt;br /&gt;
-    &lt;li&gt;Restructured and rewrote the distributed systems and cloud architecture&lt;/li&gt;&lt;br /&gt;
-    &lt;li&gt;Learned about hardware manufacturing through the design of ~12 devices (&lt;span class=&quot;caps&quot;&gt;FCC&lt;/span&gt; certifications, hardware tooling, &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt;)&lt;/li&gt;&lt;br /&gt;
-    &lt;li&gt;Heavy scaling and growth focus&lt;/li&gt;&lt;/p&gt;
-&lt;/ul&gt;
-&lt;p&gt;Coverage:&lt;br /&gt;
-&lt;a href=&quot;http://www.simply-home.com/extreme/&quot;&gt;Extreme Makeover: Home Edition&lt;/a&gt;&lt;/p&gt;
-&lt;/dd&gt;
-&lt;dd&gt;
-&lt;p&gt;&lt;b&gt;Founder / President&lt;/b&gt; at &lt;a href=&quot;http://scenedipity.com&quot;&gt;&lt;b&gt;Scenedipity&lt;/b&gt;&lt;/a&gt; | &lt;i&gt;Asheville, NC&lt;/i&gt;&lt;span class=&quot;d&quot;&gt;[Apr. 2011 – Apr. 2012]&lt;/span&gt;&lt;br /&gt;
-&lt;ul&gt;&lt;br /&gt;
-    &lt;li&gt;Open data platform for restaurant and foodtrucks &lt;/li&gt;&lt;br /&gt;
-    &lt;li&gt;Introduction to open source community (specifically &lt;a href=&quot;http://github.scenedipity.com&quot;&gt;Github&lt;/a&gt;) and twitter.&lt;/li&gt;&lt;br /&gt;
-    &lt;li&gt;&lt;i&gt;[Toolkit Growth]&lt;/i&gt;  &lt;a href=&quot;http://d.scndp.it:5984/_utils&quot;&gt;CouchDB&lt;/a&gt; | &lt;a href=&quot;https://github.com/Scenedipity/embedded-jetty-archetype&quot;&gt;Embedded jetty&lt;/a&gt; w/ Virtual Hosts | Graphiti | built a &lt;a href=&quot;http://scndp.it&quot;&gt;&lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt; Shortener&lt;/a&gt; (&lt;a href=&quot;https://github.com/Scenedipity/scnd.pt&quot;&gt;source&lt;/a&gt;) &amp;amp; [&lt;a href=&quot;https://github.com/androwis/j&quot;&gt;one in JS!&lt;/a&gt;] | tech basis for &lt;a href=&quot;http://www.timesfreepress.com/news/2012/may/15/tech-challenge/?print&quot;&gt;Fount.in&lt;/a&gt; | open sourced &lt;a href=&quot;https://github.com/androwis/androwis.github.com&quot;&gt;http://androw.is&lt;/a&gt;.&lt;/li&gt;&lt;/p&gt;
-&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;dd&gt;
-&lt;p&gt;&lt;b&gt; Lead Dev / Sys Admin &lt;/b&gt; at &lt;a href=&quot;http://iwanna.com&quot;&gt;&lt;b&gt;&lt;span class=&quot;caps&quot;&gt;IWANNA&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;LLC&lt;/span&gt;&lt;/b&gt;&lt;/a&gt; | &lt;i&gt;Asheville, NC &lt;/i&gt;&lt;span class=&quot;d&quot;&gt;[Jan. 2010 – July 2011]&lt;/span&gt;&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;Managed the complete rebuild of a classified website that serves over 25,000 classifieds weekly&lt;br /&gt;
-and generates over 1 million hits a month.  The largest developmental focus was placed on the&lt;br /&gt;
-user-interfaces and the networking of the individual advertiser&amp;#8217;s classifieds.&lt;a href=&quot;”http://test.iwanna.com”&quot;&gt;iwanna.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Proposed/developed an expansion that focuses on and supports socially aware projects and programs in the local community (http://iwanna.com/help)&lt;/li&gt;
-&lt;li&gt;Proposed/developed a marketplace for local businesses to manage and brand their inventories. (http://iwanna.com/marketplace)&lt;/li&gt;&lt;/ul&gt;
-&lt;/dd&gt;
-&lt;dd&gt;
-&lt;p&gt;&lt;b&gt;Programming Consultant&lt;/b&gt; at &lt;a href=&quot;http://www.bishara.com.eg/&quot;&gt;&lt;b&gt;Bishara Textile Manufacturing&lt;/b&gt;&lt;/a&gt; &lt;i&gt; Cairo, Egypt&lt;/i&gt; &lt;span class=&quot;d&quot;&gt;[May 2008 –  Sept. 2008] &lt;/span&gt;&lt;br /&gt;
-&lt;ul&gt;&lt;li&gt;Designed an online management tool for a 2000+ worker textile factory. The software manages all aspects of garment production, from worker output and factory capacity to scheduling design calendars while using a database back-end. Resulted in a 12% productivity increase.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
-&lt;/dd&gt;
-&lt;dd&gt;
-&lt;p&gt;&lt;b&gt;Programmer &amp;amp; Draftsman,&lt;/b&gt; at &lt;a href=&quot;http://shamburgerarchitecture.com/&quot;&gt;&lt;b&gt;Shamburger Design Studio&lt;/b&gt;&lt;/a&gt;,&lt;i&gt; Hendersonville, NC&lt;/i&gt; &lt;span class=&quot;d&quot;&gt; [May 2007 – Aug. 2007]&lt;/span&gt;&lt;br /&gt;
- &lt;ul&gt;&lt;li&gt;Web Programmer: created an ftp style page so clients could securely access rendered designs&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt; Architectural draftsman for 10 projects in excess value of $15 million&lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Trained a new intern.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
-&lt;/dd&gt;
-&lt;dd&gt;
-&lt;p&gt;&lt;b&gt;Architectural Intern, &lt;/b&gt; at &lt;a href=&quot;http://shamburgerarchitecture.com/&quot;&gt;&lt;b&gt;Shamburger Design Studio&lt;/b&gt;&lt;/a&gt; &lt;i&gt; Hendersonville, NC &lt;/i&gt;&lt;span class=&quot;d&quot;&gt;[May 2006 – Aug. 2006]&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;br /&gt;
-Apprenticed architect through all stages of design, from initial meeting with clients, to sketching the ideas, to final presentation of plans and bidding of project to contractor &lt;/li&gt;&lt;br /&gt;
-&lt;li&gt;Draftsman using AutoCAD 2005, archiCAD, and Google’s Sketch-Up.&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
-&lt;/dd&gt;&lt;/dl&gt;
+&lt;p&gt;&lt;strong&gt;Architectural Intern, &lt;/strong&gt; at &lt;a href=&quot;http://shamburgerarchitecture.com/&quot;&gt;&lt;strong&gt;Shamburger Design Studio&lt;/strong&gt;&lt;/a&gt; &lt;i&gt; Hendersonville, NC &lt;/i&gt;&lt;span class=&quot;d&quot;&gt;[May 2006 – Aug. 2006]&lt;/span&gt;&lt;ul&gt;&lt;li&gt;Apprenticed architect through all stages of design, from initial meeting with clients, to sketching the ideas, to final presentation of plans and bidding of project to contractor &lt;/li&gt;&lt;li&gt;Draftsman using AutoCAD 2005, archiCAD, and Google’s Sketch-Up.&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;/dl&gt;&lt;/p&gt;
 &lt;center&gt;publications&lt;/center&gt;
 &lt;dl&gt;
 &lt;dd&gt;
-&lt;a href=&quot;/static/papers/Real-Time_Captioning_by_Groups_of_Non-Experts_UIST-12.pdf&quot;&gt; &lt;b&gt;Real-Time Captioning by Groups of Non-Experts&lt;/b&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;/static/papers/Real-Time_Captioning_by_Groups_of_Non-Experts_UIST-12.pdf&quot;&gt; &lt;strong&gt;Real-Time Captioning by Groups of Non-Experts&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
 W Lasecki, C Miller, A Sadilek, A Abumoussa, D Borrello, R Kushalnagar, &amp;amp; J Bigham&lt;br&gt;
 &lt;i&gt;in 25th &lt;span class=&quot;caps&quot;&gt;ACM&lt;/span&gt; Symposium on User Interface Software and Technology (&lt;span class=&quot;caps&quot;&gt;UIST&lt;/span&gt;) 2012&lt;/i&gt;&lt;br&gt;
 Crowd sourcing captioning to power an interface for the deaf
 Coverage: &lt;a href=&quot;http://www.newscientist.com/article/mg21528745.200-crowdsourcing-serves-up-the-subtitles-to-your-life.html?&quot;&gt;New Scientist&lt;/a&gt; | &lt;a href=&quot;http://gizmodo.com/5928856/crowdsourcing-could-help-deaf-people-subtitle-their-everyday-life&quot;&gt;Gizmodo&lt;/a&gt;
 &lt;/dd&gt;
+&lt;br/&gt;
 &lt;dd&gt;
-&lt;a href=&quot;/MotionVideo.js&quot; alt=&quot;distributed, realtime video processing using HTML5 &amp;amp; Javascript&quot;&gt;&lt;b&gt;Distributed, Real-Time Video Processing Using HTML5 &amp;amp; Javascript&lt;/b&gt;&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;/MotionVideo.js&quot; alt=&quot;distributed, realtime video processing using HTML5 &amp;amp; Javascript&quot;&gt;&lt;strong&gt;Distributed, Real-Time Video Processing Using HTML5 &amp;amp; Javascript&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
 Tutorial for using HTML5&amp;#8217;s canvas to simultaneously play and process video for computer vision processing.
 &lt;/dd&gt;
-    &lt;dd&gt;&lt;a href=&quot;/static/resume/AndrewAbuMoussaHonorsThesis.pdf&quot;&gt;&lt;b&gt;Irys: : The Focus Oriented, Auditory Online User Interface&lt;/b&gt;&lt;/a&gt;&lt;br&gt; cs undergraduate honors thesis in accessible interfaces for the blind.    &lt;/dd&gt;
+&lt;br/&gt;
+    &lt;dd&gt;&lt;a href=&quot;/static/resume/AndrewAbuMoussaHonorsThesis.pdf&quot;&gt;&lt;strong&gt;Irys: : The Focus Oriented, Auditory Online User Interface&lt;/strong&gt;&lt;/a&gt;&lt;br&gt; cs undergraduate honors thesis in accessible interfaces for the blind.    &lt;/dd&gt;
+&lt;br/&gt;
 &lt;dd&gt;
-&lt;a href=&quot;/static/resume/AndrewAbuMoussaMathModeling.pdf&quot;&gt;&lt;b&gt;Analysis of the Stock Market&lt;/b&gt;&lt;/a&gt; &lt;br&gt;
+&lt;a href=&quot;/static/resume/AndrewAbuMoussaMathModeling.pdf&quot;&gt;&lt;strong&gt;Analysis of the Stock Market&lt;/strong&gt;&lt;/a&gt; &lt;br&gt;
 maths undergraduate honors thesis exploring possible models for stock market performance
 &lt;/dd&gt;
 &lt;/dl&gt;
 &lt;center&gt;skills &lt;/center&gt;
-&lt;dl&gt;&lt;dd&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;b&gt;Languages&lt;/b&gt; | Java, Scala, Python, C, C++, lisp, prolog, ruby&lt;br&gt;
-&lt;b&gt;Web Technologies&lt;/b&gt; |  Spring, J2EE, &lt;span class=&quot;caps&quot;&gt;EJB&lt;/span&gt;, Node.js, &lt;span class=&quot;caps&quot;&gt;PHP&lt;/span&gt;, Javascript/jQuery, rails&lt;br&gt;
-&lt;b&gt;Mobile&lt;/b&gt; | HTML5/JS, Android, iOS, WP7&lt;br&gt;
-&lt;b&gt;Databases&lt;/b&gt; | CouchDB, Cassandra, &lt;span class=&quot;caps&quot;&gt;SQL&lt;/span&gt;, memchached&lt;br&gt;
-&lt;b&gt;Symbolic Computing&lt;/b&gt; | Mathematica, Matlab, Maple&lt;br&gt;
-&lt;b&gt;Graphic Suites&lt;/b&gt; | Photoshop &amp;amp; Gimp, Sketch-Up&lt;br&gt;
-&lt;b&gt;Drafting and Architectural&lt;/b&gt; | autoCAD, archiCAD&lt;/dd&gt;
-&lt;p&gt;&lt;br&gt;
-&lt;dd&gt;&lt;b&gt;Spoken Languages&lt;/b&gt;&lt;br&gt;
-&lt;i&gt;Bilingual in English and Arabic. (U.S. citizen)&lt;br&gt;Advanced French. Basic Spanish &amp;amp; German.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
-&lt;/dd&gt;
+&lt;dl&gt;&lt;dd&gt;&lt;strong&gt;Languages&lt;/strong&gt; | Java, Scala, Python, C, C++, lisp, prolog, ruby&lt;br&gt;&lt;strong&gt;Web Technologies&lt;/strong&gt; |  Spring, J2EE, &lt;span class=&quot;caps&quot;&gt;EJB&lt;/span&gt;, Node.js, &lt;span class=&quot;caps&quot;&gt;PHP&lt;/span&gt;, Javascript/jQuery, rails&lt;br&gt;&lt;strong&gt;Mobile&lt;/strong&gt; | HTML5/JS, Android, iOS, WP7&lt;br&gt;&lt;strong&gt;Databases&lt;/strong&gt; | CouchDB, Cassandra, &lt;span class=&quot;caps&quot;&gt;SQL&lt;/span&gt;, memchached&lt;br&gt;&lt;strong&gt;Symbolic Computing&lt;/strong&gt; | Mathematica, Matlab, Maple&lt;br&gt;&lt;strong&gt;Graphic Suites&lt;/strong&gt; | Photoshop &amp;amp; Gimp, Sketch-Up&lt;br&gt;&lt;strong&gt;Drafting and Architectural&lt;/strong&gt; | autoCAD, archiCAD&lt;/dd&gt;
+&lt;dd&gt;&lt;strong&gt;Spoken Languages&lt;/strong&gt;&lt;br&gt;&lt;i&gt;Bilingual in English and Arabic. (U.S. citizen)&lt;br&gt;Advanced French. Basic Spanish &amp;amp; German.&lt;/i&gt;&lt;br&gt;&lt;br&gt;&lt;/dd&gt;
+&lt;dd&gt;&lt;strong&gt;Honors&lt;/strong&gt;&lt;br&gt;
+University of Rochester Hajim School of Engineering Dean&amp;#8217;s Fellowship [ 2011-2012 ]&lt;br /&gt;
+Semifinalist in Carolina Entrepreneurial Challenge, Kenan-Flagler Business School at &lt;span class=&quot;caps&quot;&gt;UNC&lt;/span&gt;-CH [ 2010 ]&lt;br /&gt;
+University of North Carolina Honors Program [ 2005 – 2009 ]&lt;br /&gt;
+State of North Carolina Tuition Scholarship [ 2005 – 2009 ]&lt;br /&gt;
+Western North Carolina Regional Scholar, The Community Foundation of &lt;span class=&quot;caps&quot;&gt;WNC&lt;/span&gt; [ 2005 ]&lt;br /&gt;
+Glaxo-Smith-Kline Scholar and Research Grant [ 2004 ]&lt;/dd&gt;
 &lt;dd&gt;
-&lt;b&gt;Honors&lt;/b&gt;&lt;br&gt;
-&lt;p&gt;University of Rochester Hajim School of Engineering Dean&amp;#8217;s Fellowship [2011-2012] &lt;br&gt;
-Semifinalist in Carolina Entrepreneurial Challenge, Kenan-Flagler Business School at &lt;span class=&quot;caps&quot;&gt;UNC&lt;/span&gt;-CH &lt;sup class=&quot;footnote&quot; id=&quot;fnr2010&quot;&gt;&lt;a href=&quot;#fn2010&quot;&gt;2010&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
-University of North Carolina Honors Program [2005 – 2009]&lt;br&gt;
-State of North Carolina Tuition Scholarship [2005 – 2009]&lt;br&gt;
-Western North Carolina Regional Scholar, The Community Foundation of &lt;span class=&quot;caps&quot;&gt;WNC&lt;/span&gt; &lt;sup class=&quot;footnote&quot; id=&quot;fnr2005&quot;&gt;&lt;a href=&quot;#fn2005&quot;&gt;2005&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
-Glaxo-Smith-Kline Scholar and Research Grant &lt;sup class=&quot;footnote&quot; id=&quot;fnr2004&quot;&gt;&lt;a href=&quot;#fn2004&quot;&gt;2004&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/dd&gt;
-&lt;p&gt;&lt;br&gt;
-&lt;dd&gt;&lt;br /&gt;
-&lt;b&gt;Other Certifications:&lt;/b&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;Other Certifications:&lt;/strong&gt;&lt;br /&gt;
 Skydiving, Scuba, Belay&lt;/p&gt;
 &lt;/dd&gt;
 &lt;/dl&gt;
@@ -239,7 +187,7 @@ Skydiving, Scuba, Belay&lt;/p&gt;
    <updated>2012-01-01T00:00:00-05:00</updated>
    <id>http:/androw.is/mentoring</id>
    <content type="html">&lt;div class=&quot;body&quot; style=&quot;margin:auto&quot;&gt;
-                  &lt;p&gt;&lt;em&gt;Part of a &lt;a href=&quot;http://github.com/dianakimball/mentoring&quot;&gt;distributed mentoring movement&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Part of a &lt;a href=&quot;http://github.com/dianakimball/mentoring&quot;&gt;distributed mentoring movement&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Every major step forward in my life so far has been inspired and encouraged by the mentors I’ve been fortunate enough to have. I believe that hopes, dreams, and advice are best shared in ongoing, personal relationships, and it’s important to me to make myself available as a mentor to others.&lt;/p&gt;
 &lt;p&gt;I’ve had so many great experiences in my life, and I’d love to share them if you’re considering pursuing a similar path.&lt;/p&gt;
 &lt;ul&gt;

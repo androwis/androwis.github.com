@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Androwis Abumoussa's Resume
+tweet: Androwis Abumoussa's resume can be found here
 ---
 <div class="resume" style="font-size:12px; width:80%">
 <center>downloads</center>

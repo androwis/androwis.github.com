@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The switch to Github Pages
+tweet: .@github and the beauty of github pages.
 ---
 I remember meeting "Gabe Carleton-Barnes":gabe while travelling around Europe.  Here was someone who had a laptop, 6 articles of clothing, and a wallet travelling around Europe for three months.  And there I was, lugging around 2 suitcases and a backpack like a douche.  I felt like I needed to hold on to everything. Not only was this limiting me in terms of mobility, but I was constantly worrying, about losing or forgetting my stuff.
 

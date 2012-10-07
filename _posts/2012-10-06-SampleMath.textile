@@ -1,6 +1,7 @@
 ---
 layout: math
 title: sample math file
+tweet: example site that renders math on web pages
 ---
 
 you can do awesome things with maths:
