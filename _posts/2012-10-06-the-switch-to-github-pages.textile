@@ -15,7 +15,7 @@ The best thing about Github Pages is, that it's free, allows me to direct conten
 
 My entire site is open source, -- of course. Perhaps it could help you get started!  
 
-[gabe]http:/lvimeo.com/50006538
+[gabe]http://vimeo.com/50006538
 [github]http://github.com
 [github_pages]http://pages.github.com
 [jekyll]http://github.com/mojombo/jekyll

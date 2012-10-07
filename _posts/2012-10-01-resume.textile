@@ -2,7 +2,7 @@
 layout: post
 title: Androwis Abumoussa's Resume
 ---
-<div class="resume" style="font-size:12px">
+<div class="resume" style="font-size:12px; width:80%">
 <center>downloads</center>
     <a href="/static/resume/AndrowisAbumoussaResume.txt">Current Resume</a>
     | <a href="/static/resume/AndrewAbuMoussaTranscript.pdf">Unofficial UNC Transcript</a>
