@@ -1,68 +1,22 @@
-<html id="about">
-  <head>
-	<meta name="google-site-verification" content="dOvj-ERK4lelaGz3SJo0qiHN0YbNn8jsp2T9sanRKEU" />
-	<link rel="stylesheet" type="text/css" href="http://scenedipity.com/resources/styles/bootstrap.css">
-	<link rel="stylesheet" type="text/css" href="http://scenedipity.com/resources/styles/styles.css">
-	<link rel="stylesheet" type="text/css" href="http://github.scenedipity.com/assets/reset.css">
-	<link rel="stylesheet" type="text/css" href="http://github.scenedipity.com/assets/grid.css">
-	<link rel="stylesheet" type="text/css" href="http://github.scenedipity.com/assets/style.css">
-	<script type="text/javascript" src="http://github.scenedipity.com/assets/jquery-1.7.1.min.js"></script>
-	<script type="text/javascript" src="http://github.scenedipity.com/assets/strftime.js"></script>
-    <title>andrew abumoussa (androwis)</title>
-  </head>
-	
-    <body>
+---
+layout: default
+title: androwis abumoussa (androwis)
+---
 
-    <div style="margin-top:60px" id="wrapper" class="grid clearfix">
-		<div class="links">
-			<a href="../blog">/blog</a>
-			<a href="../resume">/resume</a>
-			<a href="../mentoring">/mentoring</a>
-                       <a href="../push">/push</a>
-			                       <a href="../NSFAssignment.pdf">/nsf-assignment</a>
+<ul id="posts">
 
-		</div>
-        <img src="https://secure.gravatar.com/avatar/69aa754bed895457524683ea9323dbc5?s=140"/>
-        <div id="title">//androwis</div>
-	    <div style="float:left; clear:both">
+  	<li><strong class="nine columns offset-by-four">passions </strong></li>
+	<li><a class="nine columns offset-by-four" href="https://github.com/dianakimball/mentoring">distributed mentoring movement</a></li>
+	<li><a class="nine columns offset-by-four" href="http://dvzine.org">dvorak</a></li>
+	<li><a class="nine columns offset-by-four" href="http://microformats.org/">microformats.org</a></li>
+  	<li class="nine columns offset-by-four"> <hr/></li>
 
-		<dl style="float:left; clear:both">
-		<dt><strong>Interests: </strong> <i>accessibility, open data, ideas, culture, efficiency, structured information</i></dt>
-			<dd><a href="https://github.com/dianakimball/mentoring">distributed mentoring movement</a></dd>	
-			<dd><a href="http://dvzine.org">dvorak</a></dd>
-			<dd><a href="http://microformats.org/">microformats.org</a></dd>
-		</dl>
- 		</div>
- 		<br/><br/><br/>
- 			
-      <ol style="float:left;clear:both" id="repos"></ol>
-    
-<div class="container"><div class="row"><div class="span12 footer">
-	<ul>
-		<li>&copy; Andrew AbuMoussa | here i am: </li>    
-		<li><a class="url" target="blank" rel="me" href="http://facebook.com/androwis" title="Friend me on facebook">facebook</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.flickr.com/photos/androwis/" title="Flickr">flickr</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.github.com/androwis" title="My Public Repos">github</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.goodreads.com/user/show/4071543-andrew-abumoussa" title="See what I'm reading">goodreads </a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.jolkona.org/members/index/a4d2f0d23dcc84ce983ff9157f8b7f88" title="What I feel passionate about">jolkona</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://pandora.com/people/androwis" title="what i'm listening to">pandora</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.google.com/reader/shared/user%2F14331689106161445344%2Fstate%2Fcom.google%2Fstarred" title="what i'm reading">reader</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://twitter.com/androwis" rel="me" title="Follow me on Twitter">twitter</a></li>
-		<li><a class="url" target="blank" rel="me" href="http://www.amazon.com/shops/androwis">amazon</a></li>
-		<li><a class="url" target="blank" rel="me" href="tel://+1-828-393-5939" title="call me">828.393.5939</a></li>
-	</ul>
-</div></div></div>
+	<li><strong class="nine columns offset-by-four">posts</strong></li>
+  {% for post in site.posts %}
+    <li>
+      <a class="nine columns offset-by-four" href="{{ post.url }}">{{ post.title }}</a>
+      <span class="three columns">{{ post.date | date_to_string }}</span>
+    </li>
+  {% endfor %}
 
-	
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-4608993-2");
-pageTracker._setDomainName(".androwis.com");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-	</body>
-</html>
+</ul>

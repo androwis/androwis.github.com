@@ -1,0 +1,23 @@
+html{
+	color:#555;
+	font-size: 12px; 
+	font-family: Helvetica;
+	padding:5px 0;
+	text-align: left;
+	width:100%; 
+}
+center{
+	border:dotted #555 2px; 
+	border-left:none; 
+	border-right:none; 
+	color:#555;
+	font-size: 12px; 
+	font-family: Helvetica;
+	padding:5px 0;
+	text-align: left;
+	width:100%; 
+	margin: 20px 0 5px 0;
+	
+}
+#n{font-size:20px;}
+.d{padding:0 10px;}

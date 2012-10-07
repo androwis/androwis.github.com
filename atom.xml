@@ -1,0 +1,26 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>androwis</title>
+ <link href="http://androw.is/atom.xml" rel="self"/>
+ <link href="http://androw.is/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://androw.is</id>
+ <author>
+   <name>androwis abumoussa</name>
+   <email>androwis@androw.is</email>
+ </author>
+
+ {% for post in site.posts %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://androw.is{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http:/androw.is{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+</feed>
