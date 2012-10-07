@@ -55,15 +55,15 @@ Mathematics GPA – 3.69/4.00 Overall–3.42/4.00</dd>
         Crowd sourcing captioning to power an interface for the deaf
         Coverage: <a href="http://www.newscientist.com/article/mg21528745.200-crowdsourcing-serves-up-the-subtitles-to-your-life.html?">New Scientist</a> | <a href="http://gizmodo.com/5928856/crowdsourcing-could-help-deaf-people-subtitle-their-everyday-life">Gizmodo</a>
     </dd>
-
+    <br/>
     <dd>
         <a href="/MotionVideo.js" alt="distributed, realtime video processing using HTML5 &amp; Javascript"><strong>Distributed, Real-Time Video Processing Using HTML5 &amp; Javascript</strong></a><br>
         Tutorial for using HTML5's canvas to simultaneously play and process video for computer vision processing.
     </dd>
-    
+    <br/>
     <dd><a href="/static/resume/AndrewAbuMoussaHonorsThesis.pdf"><strong>Irys: : The Focus Oriented, Auditory Online User Interface</strong></a><br> cs undergraduate honors thesis in accessible interfaces for the blind.
     </dd>
-    
+    <br/>
     <dd>
      <a href="/static/resume/AndrewAbuMoussaMathModeling.pdf"><strong>Analysis of the Stock Market</strong></a> <br>
      maths undergraduate honors thesis exploring possible models for stock market performance
