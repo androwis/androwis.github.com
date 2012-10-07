@@ -25,14 +25,12 @@ Computer Science Ph.D. Candidate<br>
 Accessibile User Interfaces [under <a href="http://www.cs.rochester.edu/~jbigham/">Dr. Jeffrey Bigham</a>] <br>
 Artificial Intelligence [under <a href="http://www.cs.rochester.edu/u/kautz/">Dr. Henry Kautz</a>]
 </dd>
-
-
+<br/>
 <dd><strong>The University of North Carolina at Chapel Hill</strong> | <span class="d">8 / 2005 – 5 / 2009</span><br>
 B.Sc. in Applied Mathematics [under <a href="http://mitran.web.unc.edu/">Dr. Sorin Mitran</a>]<br>
 B.Sc. w/ Honors in Computer Science [under <a href="http://www.cs.unc.edu/~gb/">Dr. Gary Bishop</a>]<br>
 Mathematics GPA – 3.69/4.00 Overall–3.42/4.00</dd>
-
-
+<br/>
 <dd><strong>The North Carolina School of Science and Mathematics</strong> | <span class="d">8 / 2003 – 5 / 2005</span><br>Fell in love with Fractals and Chaos, exhausted biology and maths curriculums, &amp; surprisingly, did 0 programming.<br><br></dd></dl>
 
 <center>employment history</center>
@@ -78,12 +76,12 @@ Mathematics GPA – 3.69/4.00 Overall–3.42/4.00</dd>
 <dd><strong>Spoken Languages</strong><br><i>Bilingual in English and Arabic. (U.S. citizen)<br>Advanced French. Basic Spanish &amp; German.</i><br><br></dd>
 
 <dd><strong>Honors</strong><br>
-University of Rochester Hajim School of Engineering Dean's Fellowship [2011-2012]
-Semifinalist in Carolina Entrepreneurial Challenge, Kenan-Flagler Business School at UNC-CH [2010]
-University of North Carolina Honors Program [2005 – 2009]
-State of North Carolina Tuition Scholarship [2005 – 2009]
-Western North Carolina Regional Scholar, The Community Foundation of WNC [2005]
-Glaxo-Smith-Kline Scholar and Research Grant [2004]
+University of Rochester Hajim School of Engineering Dean's Fellowship [ 2011-2012 ]
+Semifinalist in Carolina Entrepreneurial Challenge, Kenan-Flagler Business School at UNC-CH [ 2010 ]
+University of North Carolina Honors Program [ 2005 – 2009 ]
+State of North Carolina Tuition Scholarship [ 2005 – 2009 ]
+Western North Carolina Regional Scholar, The Community Foundation of WNC [ 2005 ]
+Glaxo-Smith-Kline Scholar and Research Grant [ 2004 ]
 </dd>
 <dd>
 <strong>Other Certifications:</strong>
