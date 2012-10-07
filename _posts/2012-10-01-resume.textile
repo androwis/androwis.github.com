@@ -3,7 +3,7 @@ layout: post
 title: Androwis Abumoussa's Resume
 tweet: Androwis Abumoussa's resume can be found here
 ---
-<div class="resume" style="font-size:12px; width:80%">
+<div class="resume" style="font-size:12px; min-width:650px">
 <center>downloads</center>
     <a href="/static/resume/AndrowisAbumoussaResume.txt">Current Resume</a>
     | <a href="/static/resume/AndrewAbuMoussaTranscript.pdf">Unofficial UNC Transcript</a>
@@ -53,7 +53,7 @@ Mathematics GPA – 3.69/4.00 Overall–3.42/4.00</dd>
         <a href="/static/papers/Real-Time_Captioning_by_Groups_of_Non-Experts_UIST-12.pdf"> <strong>Real-Time Captioning by Groups of Non-Experts</strong></a><br>
         W Lasecki, C Miller, A Sadilek, A Abumoussa, D Borrello, R Kushalnagar, &amp; J Bigham<br>
         <i>in 25th ACM Symposium on User Interface Software and Technology (UIST) 2012</i><br>
-        Crowd sourcing captioning to power an interface for the deaf
+        Crowd sourcing captioning to power an interface for the deaf<br/>
         Coverage: <a href="http://www.newscientist.com/article/mg21528745.200-crowdsourcing-serves-up-the-subtitles-to-your-life.html?">New Scientist</a> | <a href="http://gizmodo.com/5928856/crowdsourcing-could-help-deaf-people-subtitle-their-everyday-life">Gizmodo</a>
     </dd>
     <br/>
