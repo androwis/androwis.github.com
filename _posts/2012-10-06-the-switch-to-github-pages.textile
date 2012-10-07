@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The switch to Github Pages
+title: The Switch to Github Pages
 tweet: .@github and the beauty of github pages.
 ---
 I remember meeting "Gabe Carleton-Barnes":gabe while travelling around Europe.  Here was someone who had a laptop, 6 articles of clothing, and a wallet travelling around Europe for three months.  And there I was, lugging around 2 suitcases and a backpack like a douche.  I felt like I needed to hold on to everything. Not only was this limiting me in terms of mobility, but I was constantly worrying, about losing or forgetting my stuff.
@@ -8,7 +8,7 @@ I remember meeting "Gabe Carleton-Barnes":gabe while travelling around Europe.  
 As I was packing for grad school, I realized the metaphor still haunted me; I owned too many things.  It was becoming a pain not only to manage my digital life (synching files between four computers), but I didn't have the luxury of easily transporting from place to place.  
 
 
-A few months back, I decided to finally let go of everything.  I put up a digital store on "Amazon":amazon.com/shops/androwis and I've slowly been shedding since.  It's turned out to put some money in my pocket, but more importantly I feel free, not dragged down by all my crap. 
+A few months back, I decided to finally let go of everything.  I put up a digital store on "Amazon":amazon and I've slowly been shedding since.  It's turned out to put some money in my pocket, but more importantly I feel free, not dragged down by all my crap. 
 
 Once you start shedding, you become addicted.  I realized I was still shuffling files between machines, even though I had "Dropbox":http://db.tt/NOFhHqZw (which I love!). So, I started selling my computers and put everything up at "Github":github.  Discovering "Github Pages":github_pages: changed my life, "Jekyll":jekyll: made it easy.  
 
@@ -17,6 +17,7 @@ The best thing about Github Pages is, that it's free, allows me to direct conten
 My entire site is open source, -- of course. Perhaps it could help you get started!  
 
 [gabe]http://vimeo.com/50006538
+[amazon]http://amazon.com/shops/androwis
 [github]http://github.com
 [github_pages]http://pages.github.com
 [jekyll]http://github.com/mojombo/jekyll
