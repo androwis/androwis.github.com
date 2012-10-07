@@ -10,10 +10,10 @@ title: Androwis Abumoussa's Resume
 <center> contact</center>
 <div id="r">
     <div id="n">Androwis Abumoussa</div>
-    <div class="tl"> <b> current address :</b> 57 Glasgow Street, Rochester NY 14608</div>
-    <div class="tr"> <b> permanent address :</b> 100 Tarnhill Dr, Flat Rock, NC 28731</div>
-    <div class="t"><b>twitter</b>.com/<a href="http://twitter.com/androwis">androwis</a></div>
-    <div class="t"><b>github</b>.com/<a href="http://github.com/androwis">androwis</a></div>
+    <div class="tl"> <strong> current address :</strong> 57 Glasgow Street, Rochester NY 14608</div>
+    <div class="tr"> <strong> permanent address :</strong> 100 Tarnhill Dr, Flat Rock, NC 28731</div>
+    <div class="t"><strong>twitter</strong>.com/<a href="http://twitter.com/androwis">androwis</a></div>
+    <div class="t"><strong>github</strong>.com/<a href="http://github.com/androwis">androwis</a></div>
     <div class="t"><a href="mailto:androwis@androw.is">androwis@androw.is</a></div>
     <div class="t"><a href="tel:8283935939">828.393.5939</a> </div>
     
@@ -22,30 +22,30 @@ title: Androwis Abumoussa's Resume
 <dl>
 
 <dd>
-<b>The University of Rochester</b> | <span class="d">1 / 2012 – present</span><br>
+<strong>The University of Rochester</strong> | <span class="d">1 / 2012 – present</span><br>
 Computer Science Ph.D. Candidate<br>
 Accessibile User Interfaces [under <a href="http://www.cs.rochester.edu/~jbigham/">Dr. Jeffrey Bigham</a>] <br>
 Artificial Intelligence [under <a href="http://www.cs.rochester.edu/u/kautz/">Dr. Henry Kautz</a>]
 </dd><dd>
-<b>The University of North Carolina at Chapel Hill</b> | <span class="d">8 / 2005 – 5 / 2009</span><br>
+<strong>The University of North Carolina at Chapel Hill</strong> | <span class="d">8 / 2005 – 5 / 2009</span><br>
 B.Sc. in Applied Mathematics [under <a href="http://mitran.web.unc.edu/">Dr. Sorin Mitran</a>]<br>
 B.Sc. w/ Honors in Computer Science [under <a href="http://www.cs.unc.edu/~gb/">Dr. Gary Bishop</a>]<br>
 Mathematics GPA – 3.69/4.00 Overall–3.42/4.00
 </dd><dd>
-<b>The North Carolina School of Science and Mathematics</b> | <span class="d">8 / 2003 – 5 / 2005</span><br>
+<strong>The North Carolina School of Science and Mathematics</strong> | <span class="d">8 / 2003 – 5 / 2005</span><br>
 Fell in love with Fractals and Chaos, exhausted biology and maths curriculums, &amp; surprisingly, did 0 programming.<br><br>
 </dd></dl>
 <center>employment history</center>
 <dl>
 
 <dd>
-<b>Co-founder / CTO</b> at <a href="http://fount.in"><b>Fount.in</b></a> | <i>Rochester, NY</i> <span class="d">[May 2012 – Present]</span>
+<strong>Co-founder / CTO</strong> at <a href="http://fount.in"><strong>Fount.in</strong></a> | <i>Rochester, NY</i> <span class="d">[May 2012 – Present]</span>
 <br>Artificial Intelligence as a Service.
 <br>Coverage: <a href="http://www.popsci.com/science/article/2012-07/algorithm-scans-your-tweets-tell-you-if-youre-about-get-sick">PopSci</a> | <a href="http://gizmodo.com/5929196/how-twitter-can-predict-when-individuals-will-get-sick">Gizmodo</a> | <a href="http://www.newscientist.com/blogs/onepercent/2012/07/ai-predicts-when-youre-about-t.html">New Scientist</a> | <a href="http://www.businessinsider.com/researchers-use-twitter-to-predict-when-new-yorkers-will-catch-the-flu-with-90-accuracy-2012-8">Business Insider</a> | <a href="http://news.discovery.com/tech/twitter-predicts-sickness-120726.html">Discovery News</a> | <a href="http://www.medicaldaily.com/news/20120726/11111/twitter-algorithm-know-flu-influenza-artificial-intelligence.htm"> MedicalDaily</a> | <a href="http://www.bild.de/digital/internet/twitter/twitter-sagt-krankheit-voraus-25416408.bild.html">Bild.de</a> | <a href="http://www.sfgate.com/technology/businessinsider/article/Researchers-Use-Twitter-To-Predict-When-New-3754629.php">SFGate</a> | <a href="http://www.fiercehealthit.com/story/twitter-helps-predict-flu-trends-new-york/2012-08-01?utm_source=rss">Fierce Health</a> | <a href="http://www.npr.org/templates/rundowns/rundown.php?prgId=35">NPR</a> (panel round 2, 5 minutes in)  | <a href="http://colab.is/2012/gigtank-goes-to-washington/">[video] Health Data Palooza Keynote</a> |<a href="http://vimeo.com/48183729">GigTank Demo Day</a>
 </dd>
 
 <dd>
-<b> Head of Engineering</b> at <a href="http://simply-home.com"><b>Simply Home</b></a> | <i>Asheville, NC</i> <span class="d">[Oct. 2010 – Apr. 2012]</span>
+<strong> Head of Engineering</strong> at <a href="http://simply-home.com"><strong>Simply Home</strong></a> | <i>Asheville, NC</i> <span class="d">[Oct. 2010 – Apr. 2012]</span>
 <br>As the chief technologist at SimplyHome, I was responsible for building the infrastructure behind our solutions that allowed families to monitor aging or disabled loved ones
 with technology instead of live at home caregivers.
 <ul> 
@@ -59,7 +59,7 @@ Coverage:
 
 
 <dd>
-<b>Founder / President</b> at <a href="http://scenedipity.com"><b>Scenedipity</b></a> | <i>Asheville, NC</i><span class="d">[Apr. 2011 – Apr. 2012]</span>
+<strong>Founder / President</strong> at <a href="http://scenedipity.com"><strong>Scenedipity</strong></a> | <i>Asheville, NC</i><span class="d">[Apr. 2011 – Apr. 2012]</span>
 <ul>
     <li>Open data platform for restaurant and foodtrucks </li>
     <li>Introduction to open source community (specifically <a href="http://github.scenedipity.com">Github</a>) and twitter.</li>
@@ -67,7 +67,7 @@ Coverage:
 </ul>
 </dd>
 <dd>
-<b> Lead Dev / Sys Admin </b> at <a href="http://iwanna.com"><b>IWANNA, USA, LLC</b></a> | <i>Asheville, NC </i><span class="d">[Jan. 2010 – July 2011]</span> 
+<strong> Lead Dev / Sys Admin </strong> at <a href="http://iwanna.com"><strong>IWANNA, USA, LLC</strong></a> | <i>Asheville, NC </i><span class="d">[Jan. 2010 – July 2011]</span> 
 
 <ul><li>Managed the complete rebuild of a classified website that serves over 25,000 classifieds weekly
 and generates over 1 million hits a month.  The largest developmental focus was placed on the
@@ -76,17 +76,17 @@ user-interfaces and the networking of the individual advertiser's classifieds.<a
 <li>Proposed/developed a marketplace for local businesses to manage and brand their inventories. (http://iwanna.com/marketplace)</li></ul>
 </dd>
 <dd>
-<b>Programming Consultant</b> at <a href="http://www.bishara.com.eg/"><b>Bishara Textile Manufacturing</b></a> <i> Cairo, Egypt</i> <span class="d">[May 2008 –  Sept. 2008] </span>
+<strong>Programming Consultant</strong> at <a href="http://www.bishara.com.eg/"><strong>Bishara Textile Manufacturing</strong></a> <i> Cairo, Egypt</i> <span class="d">[May 2008 –  Sept. 2008] </span>
 <ul><li>Designed an online management tool for a 2000+ worker textile factory. The software manages all aspects of garment production, from worker output and factory capacity to scheduling design calendars while using a database back-end. Resulted in a 12% productivity increase.</li></ul>
 </dd>
 <dd>
-<b>Programmer &amp; Draftsman,</b> at <a href="http://shamburgerarchitecture.com/"><b>Shamburger Design Studio</b></a>,<i> Hendersonville, NC</i> <span class="d"> [May 2007 – Aug. 2007]</span>
+<strong>Programmer &amp; Draftsman,</strong> at <a href="http://shamburgerarchitecture.com/"><strong>Shamburger Design Studio</strong></a>,<i> Hendersonville, NC</i> <span class="d"> [May 2007 – Aug. 2007]</span>
  <ul><li>Web Programmer: created an ftp style page so clients could securely access rendered designs</li>
 <li> Architectural draftsman for 10 projects in excess value of $15 million</li>
 <li>Trained a new intern.</li></ul>
 </dd>
 <dd>
-<b>Architectural Intern, </b> at <a href="http://shamburgerarchitecture.com/"><b>Shamburger Design Studio</b></a> <i> Hendersonville, NC </i><span class="d">[May 2006 – Aug. 2006]</span><ul><li>
+<strong>Architectural Intern, </strong> at <a href="http://shamburgerarchitecture.com/"><strong>Shamburger Design Studio</strong></a> <i> Hendersonville, NC </i><span class="d">[May 2006 – Aug. 2006]</span><ul><li>
 Apprenticed architect through all stages of design, from initial meeting with clients, to sketching the ideas, to final presentation of plans and bidding of project to contractor </li>
 <li>Draftsman using AutoCAD 2005, archiCAD, and Google’s Sketch-Up.</li></ul>
         </dd></dl>
@@ -94,20 +94,20 @@ Apprenticed architect through all stages of design, from initial meeting with cl
 <center>publications</center>
 <dl>
     <dd>
-        <a href="/static/papers/Real-Time_Captioning_by_Groups_of_Non-Experts_UIST-12.pdf"> <b>Real-Time Captioning by Groups of Non-Experts</b></a><br>
+        <a href="/static/papers/Real-Time_Captioning_by_Groups_of_Non-Experts_UIST-12.pdf"> <strong>Real-Time Captioning by Groups of Non-Experts</strong></a><br>
         W Lasecki, C Miller, A Sadilek, A Abumoussa, D Borrello, R Kushalnagar, &amp; J Bigham<br>
         <i>in 25th ACM Symposium on User Interface Software and Technology (UIST) 2012</i><br>
         Crowd sourcing captioning to power an interface for the deaf
         Coverage: <a href="http://www.newscientist.com/article/mg21528745.200-crowdsourcing-serves-up-the-subtitles-to-your-life.html?">New Scientist</a> | <a href="http://gizmodo.com/5928856/crowdsourcing-could-help-deaf-people-subtitle-their-everyday-life">Gizmodo</a>
     </dd>
     <dd>
-        <a href="/MotionVideo.js" alt="distributed, realtime video processing using HTML5 &amp; Javascript"><b>Distributed, Real-Time Video Processing Using HTML5 &amp; Javascript</b></a><br>
+        <a href="/MotionVideo.js" alt="distributed, realtime video processing using HTML5 &amp; Javascript"><strong>Distributed, Real-Time Video Processing Using HTML5 &amp; Javascript</strong></a><br>
         Tutorial for using HTML5's canvas to simultaneously play and process video for computer vision processing.
     </dd>
-    <dd><a href="/static/resume/AndrewAbuMoussaHonorsThesis.pdf"><b>Irys: : The Focus Oriented, Auditory Online User Interface</b></a><br> cs undergraduate honors thesis in accessible interfaces for the blind.
+    <dd><a href="/static/resume/AndrewAbuMoussaHonorsThesis.pdf"><strong>Irys: : The Focus Oriented, Auditory Online User Interface</strong></a><br> cs undergraduate honors thesis in accessible interfaces for the blind.
     </dd>
     <dd>
-     <a href="/static/resume/AndrewAbuMoussaMathModeling.pdf"><b>Analysis of the Stock Market</b></a> <br>
+     <a href="/static/resume/AndrewAbuMoussaMathModeling.pdf"><strong>Analysis of the Stock Market</strong></a> <br>
      maths undergraduate honors thesis exploring possible models for stock market performance
     </dd>
 </dl>
@@ -115,20 +115,20 @@ Apprenticed architect through all stages of design, from initial meeting with cl
 <center>skills </center>
 <dl><dd>
 
-<b>Languages</b> | Java, Scala, Python, C, C++, lisp, prolog, ruby<br>
-<b>Web Technologies</b> |  Spring, J2EE, EJB, Node.js, PHP, Javascript/jQuery, rails<br>
-<b>Mobile</b> | HTML5/JS, Android, iOS, WP7<br>
-<b>Databases</b> | CouchDB, Cassandra, SQL, memchached<br>
-<b>Symbolic Computing</b> | Mathematica, Matlab, Maple<br>
-<b>Graphic Suites</b> | Photoshop &amp; Gimp, Sketch-Up<br>
-<b>Drafting and Architectural</b> | autoCAD, archiCAD</dd>
+<strong>Languages</strong> | Java, Scala, Python, C, C++, lisp, prolog, ruby<br>
+<strong>Web Technologies</strong> |  Spring, J2EE, EJB, Node.js, PHP, Javascript/jQuery, rails<br>
+<strong>Mobile</strong> | HTML5/JS, Android, iOS, WP7<br>
+<strong>Databases</strong> | CouchDB, Cassandra, SQL, memchached<br>
+<strong>Symbolic Computing</strong> | Mathematica, Matlab, Maple<br>
+<strong>Graphic Suites</strong> | Photoshop &amp; Gimp, Sketch-Up<br>
+<strong>Drafting and Architectural</strong> | autoCAD, archiCAD</dd>
 <br>
-<dd><b>Spoken Languages</b><br>
+<dd><strong>Spoken Languages</strong><br>
 <i>Bilingual in English and Arabic. (U.S. citizen)<br>Advanced French. Basic Spanish &amp; German.</i><br><br>
 </dd>
 
 <dd>
-    <b>Honors</b><br>
+    <strong>Honors</strong><br>
 University of Rochester Hajim School of Engineering Dean's Fellowship [2011-2012] <br>
 Semifinalist in Carolina Entrepreneurial Challenge, Kenan-Flagler Business School at UNC-CH [2010]<br>
 University of North Carolina Honors Program [2005 – 2009]<br>
@@ -138,7 +138,7 @@ Glaxo-Smith-Kline Scholar and Research Grant [2004]
 </dd>
 <br>
 <dd>
-<b>Other Certifications:</b>
+<strong>Other Certifications:</strong>
 Skydiving, Scuba, Belay
 </dd>
 </dl>
