@@ -9,10 +9,19 @@ title: androwis abumoussa (androwis)
 	<li><a class="nine columns offset-by-four" href="https://github.com/dianakimball/mentoring">distributed mentoring movement</a></li>
 	<li><a class="nine columns offset-by-four" href="http://dvzine.org">dvorak</a></li>
 	<li><a class="nine columns offset-by-four" href="http://microformats.org/">microformats.org</a></li>
-  	<li class="nine columns offset-by-four"> <hr/></li>
-
-	<li><strong class="nine columns offset-by-four">posts</strong></li>
+  
+  <li class="nine columns offset-by-four"> <hr/></li>
+  <li><strong class="nine columns offset-by-four">posts</strong></li>
   {% for post in site.posts %}
+    <li>
+      <a class="nine columns offset-by-four" href="{{ post.url }}">{{ post.title }}</a>
+      <span class="three columns">{{ post.date | date_to_string }}</span>
+    </li>
+  {% endfor %}
+
+  <li class="nine columns offset-by-four"> <hr/></li>
+  <li><strong class="nine columns offset-by-four">presentations</strong></li>
+  {% for post in site.presentations %}
     <li>
       <a class="nine columns offset-by-four" href="{{ post.url }}">{{ post.title }}</a>
       <span class="three columns">{{ post.date | date_to_string }}</span>
