@@ -11,18 +11,18 @@ Distributed systems, at least to me, can be viewed as platforms to inform all so
 
 Along these lines, I'd like to use [<font style="color:#D7003E; font-weight:bold">boundary</font>](http://boundary.com) as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things. 
 
-#### Here is <font style="color:#D7003E; font-weight:bold">boundary</font> from a 50k foot view
+#### Here is <font style="color:#D7003E; font-weight:bold">Boundary</font> from a 50k foot view
 They do a great job of introducing their product. If you want to monitor the performance of a distributed system, take the time to learn about them [here](http://boundary.com/why-boundary/).
 ___________________
 ![Boundray's Workflow](https://boundary.com/wp-content/uploads/2012/05/home-how-it-works-product.png "Boundary's beautiful logo")
 
-In a nutshell you want to use <font style="color:#D7003E; font-weight:bold">boundary</font> because distributed systems communicate a lot and that communication is often the bottle neck wrt performance. <font style="color:#D7003E; font-weight:bold">boundary</font> enables me to
+In a nutshell you want to use Boundary because distributed systems communicate a lot and that communication is often the bottle neck wrt performance. Boundary enables me to
 
 1. Continuously measure how [much] systems communicate.
 2. Identify bottlenecks or edge cases [kind-of] .
 3. Handle bottlenecks or edge cases.
 
-Again, <font style="color:#D7003E; font-weight:bold">boundary</font> does most of the heavy lifting, leaving you with an organizational task of sifting through the data.
+Again, Boundary does most of the heavy lifting, leaving you with an organizational task of sifting through the data.
 
 
 #### Here is how to deploy <font style="color:#D7003E; font-weight:bold">boundary</font>
@@ -30,9 +30,9 @@ ___________________
 
 Their product is dead simple. Deploy their tools on the machines you want to analyze (I use [puppet](http://puppetlabs.com/blog/introducing-puppet-labs-boundary-module/) for personal projects, [chef](https://github.com/boundary/boundary_cookbooks/tree/master/apps) for work.)
 
-#### Setup <font style="color:#D7003E; font-weight:bold">boundary</font> 
+#### Setup <font style="color:#D7003E; font-weight:bold">Boundary</font> 
 ___________________
-Currently, <font style="color:#D7003E; font-weight:bold">boundary</font> is bulit to allow you to take your system and:
+Currently, Boundary is bulit to allow you to take your system and:
 
 1. Monitor
 2. Test
@@ -43,11 +43,11 @@ What I would love to see happen with the platform is that the data available to 
 
 #### <font style="color:#D7003E; font-weight:bold">Boundary</font> with crumbtrails.
 ___________________
-At [Ricon 2012](http://basho.com/community/ricon2012/) Dietrich talked about putting data into context. The knowledge of a system's architecture helps developers understand what's happening, why, where and when. Something I'd really love to see <font style="color:#D7003E; font-weight:bold">boundary</font> do is to allow developers to log events in their code (something akin to [Twitter's Zipken](http://engineering.twitter.com/2012/06/distributed-systems-tracing-with-zipkin.html)).
+At [Ricon 2012](http://basho.com/community/ricon2012/) Dietrich talked about putting data into context. The knowledge of a system's architecture helps developers understand what's happening, why, where and when. Something I'd really love to see Boundary do is to allow developers to log events in their code (something akin to [Twitter's Zipken](http://engineering.twitter.com/2012/06/distributed-systems-tracing-with-zipkin.html)).
 
 ![Twitter's Zipkin](http://4.bp.blogspot.com/-b0r71ZbJdmA/T9DYhbE0uXI/AAAAAAAAABs/bXwyM76Iddc/s1600/web-screenshot.png)
 
-A tool like this, baked into <font style="color:#D7003E; font-weight:bold">boundary</font>, would allow the system to learn how the individual connections within the application layers affect network utilizations.  More importantly, with this level of organization comes context that can be shared among teams of developers.
+A tool like this, baked into Boundary, would allow the system to learn how the individual connections within the application layers affect network utilizations.  More importantly, with this level of organization comes context that can be shared among teams of developers.
 
 ####  <font style="color:#D7003E; font-weight:bold">Boundary</font> Tails.
 ___________________
@@ -63,6 +63,6 @@ ___________________
 ![UI for machine learning](/static/images/time-series.jpeg)
 We're starting to see the evolution of a well contained eco-system for a machine learning platform. I would love to see a simple selection mechanism like above. 
 
-With <font style="color:#D7003E; font-weight:bold">boundary</font>'s data, a UI  where users are able to highlight periodicities or patterns and then monitor or search for them would be incredibly valuable. Users could begin to explore their data actively in the future with these patterns and comparisons with these patterns could be used to drive other decisions.
+With Boundary's data, a UI  where users are able to highlight periodicities or patterns and then monitor or search for them would be incredibly valuable. Users could begin to explore their data actively in the future with these patterns and comparisons with these patterns could be used to drive other decisions.
 
 With a mechanism like this, the representation of dynamic systems can evolve with use, be shared between developers or support teams to drive understanding of how software is interacting in the field. 
