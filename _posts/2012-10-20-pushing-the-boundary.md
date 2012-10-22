@@ -38,7 +38,7 @@ Currently, Boundary is bulit to allow you to take your system and:
 2. Test
 3. Scale
 
-What I would love to see happen with the platform is that the data available to the system,.
+What I would love to see happen with the platform is that the data available to Boundary becomes a training bed for all sorts of machine learning to augment system monitoring.
 
 
 #### <font style="color:#D7003E; font-weight:bold">Boundary</font> with crumbtrails.
