@@ -1,0 +1,170 @@
+
+<!doctype html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> 	<html lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">	<!-- Force Latest IE rendering engine -->
+  <title>Pushing Boundary</title>
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+  <!-- link href="http://feeds.feedburner.com/androwis" rel="alternate" title="androwis" type="application/atom+xml" / --> 
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 
+	<link rel="stylesheet" href="/static/css/skeleton.css">
+	<link rel="stylesheet" href="/static/css/base.css">
+	<link rel="stylesheet" href="/static/css/layout.css">
+	<link rel="stylesheet" href="/static/css/syntax.css">
+  <link rel="stylesheet" type="text/css" href="/static/css/resume.css" />
+</head>
+
+<body>
+	<div class="container">	
+    <div id='mobile' class='two columns hidden'>
+      <ul>
+        <li><a href='/'>androwis</a></li>
+        <li><span class="gray">androwis abumoussa</span></li>
+      </ul>
+    </div>
+
+		<div class="four columns sidebar">
+      <section>
+        <h1><a href='/'>androwis</a></h1>
+        <img src="https://secure.gravatar.com/avatar/69aa754bed895457524683ea9323dbc5?s=140" style="height:140px; width:140px"/><br/>
+        <a href="/resume">resume</a> | 
+        <a href="/mentoring">mentoring</a>
+        <hr/>
+        <p>i enjoy working on hard problems. passionate about accessibility, learning, coding.</p>
+        <hr/>
+        <ul>
+    <li><span class="gray">Androwis Abumoussa</span></li>
+    <li><a class="url" target="blank" rel="me" href="http://facebook.com/androwis" title="Friend me on facebook">facebook</a></li>
+    <li><a class="url" target="blank" rel="me" href="http://www.flickr.com/photos/androwis/" title="Flickr">flickr</a></li>
+    <li><a class="url" target="blank" rel="me" href="http://www.github.com/androwis" title="My Public Repos">github</a></li>
+    <li><a class="url" target="blank" rel="me" href="http://www.goodreads.com/user/show/4071543-andrew-abumoussa" title="See what I'm reading">goodreads </a></li>
+    <li><a class="url" target="blank" rel="me" href="http://www.jolkona.org/members/index/a4d2f0d23dcc84ce983ff9157f8b7f88" title="What I feel passionate about">jolkona</a></li>
+    <li><a class="url" target="blank" rel="me" href="http://pandora.com/people/androwis" title="what i'm listening to">pandora</a></li>
+    <li><a class="url" target="blank" rel="me" href="http://www.google.com/reader/shared/user%2F14331689106161445344%2Fstate%2Fcom.google%2Fstarred" title="what i'm reading">reader</a></li>
+    <li><a class="url" target="blank" rel="me" href="skype:androwis?add" title="add me on skype">skype</a></li>
+    <li><a class="url" target="blank" rel="me" href="http://twitter.com/androwis" title="Follow me on Twitter">twitter</a></li>
+    <li><a class="url" target="blank" rel="me" href="http://www.amazon.com/shops/androwis">amazon</a></li>
+    <li><a class="url" target="blank" rel="me" href="tel://+1-828-393-5939" title="call me">828.393.5939</a></li>
+    <li><a href="mailto:androwis@androw.is" title="reach out" onClick="_gaq.push(['_trackEvent', 'Link', 'Click', 'Sidebar Email']);">androwis@androw.is</a></li >
+        </ul>
+      </section>
+    </div>
+
+    <header class='ten columns offset-by-four'>
+  <h1>Pushing Boundary</h1>
+</header>
+
+<div class='five columns offset-by-four gray'>
+
+    20 Oct 2012
+
+</div>
+
+<article class='ten columns offset-by-four'>
+  <p>Distributed systems really excite me. My time at <a href="http://simply-home.com">Simply Home</a> taught me how to use information from networked devices to change people&rsquo;s lives. Viewing social media as a distributed system of human sensors lead to an exploration of twitter as an indicator for disease spread at <a href="http://fount.in">Fountin</a>. Both of these projects are the driving motivation for my Ph.D. work.</p>
+
+<p>What I&rsquo;d like to convince you of through this post is that data aggregration, though important, is really only the first step.</p>
+
+<p>Distributed systems, at least to me, can be viewed as platforms to inform all sorts of decisions. Analytics are really awesome at generating data, but these tools have a hard time automating insights. I haven&rsquo;t seen a system that is able to relieve users from having to constantly search and monitor for trends or edge cases. I believe tools should remove the fatigue associated with that responsibility and replace it with the opportunity to explore the data and augment (read: train) the feedback that the system provides.</p>
+
+<p>Along these lines, I&rsquo;d like to use <a href="http://boundary.com"><font style="color:#D7003E; font-weight:bold">boundary</font></a> as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things.</p>
+
+<h4>Here is <font style="color:#D7003E; font-weight:bold">boundary</font> from a 50k foot view</h4>
+
+<p>They do a great job of introducing their product. If you want to monitor the performance of a distributed system, take the time to learn about them <a href="http://boundary.com/why-boundary/">here</a>.</p>
+
+<hr />
+
+<p><img src="https://boundary.com/wp-content/uploads/2012/05/home-how-it-works-product.png" title="Boundary's beautiful logo" alt="Boundray's Workflow" /></p>
+
+<p>In a nutshell you want to use <font style="color:#D7003E; font-weight:bold">boundary</font> because distributed systems communicate a lot and that communication is often the bottle neck wrt performance. <font style="color:#D7003E; font-weight:bold">boundary</font> enables me to</p>
+
+<ol>
+<li>Continuously measure how [much] systems communicate.</li>
+<li>Identify bottlenecks or edge cases [kind-of] .</li>
+<li>Handle bottlenecks or edge cases.</li>
+</ol>
+
+
+<p>Again, <font style="color:#D7003E; font-weight:bold">boundary</font> does most of the heavy lifting, leaving you with an organizational task of sifting through the data.</p>
+
+<h4>Here is how to deploy <font style="color:#D7003E; font-weight:bold">boundary</font></h4>
+
+<hr />
+
+<p>Their product is dead simple. Deploy their tools on the machines you want to analyze (I use <a href="http://puppetlabs.com/blog/introducing-puppet-labs-boundary-module/">puppet</a> for personal projects, <a href="https://github.com/boundary/boundary_cookbooks/tree/master/apps">chef</a> for work.)</p>
+
+<h4>Setup <font style="color:#D7003E; font-weight:bold">boundary</font></h4>
+
+<hr />
+
+<p>Currently, <font style="color:#D7003E; font-weight:bold">boundary</font> is bulit to allow you to take your system and:</p>
+
+<ol>
+<li>Monitor</li>
+<li>Test</li>
+<li>Scale</li>
+</ol>
+
+
+<p>What I would love to see happen with the platform is that the data available to the system,.</p>
+
+<h4><font style="color:#D7003E; font-weight:bold">Boundary</font> with crumbtrails.</h4>
+
+<hr />
+
+<p>At <a href="http://basho.com/community/ricon2012/">Ricon 2012</a> Dietrich talked about putting data into context. The knowledge of a system&rsquo;s architecture helps developers understand what&rsquo;s happening, why, where and when. Something I&rsquo;d really love to see <font style="color:#D7003E; font-weight:bold">boundary</font> do is to allow developers to log events in their code (something akin to <a href="http://engineering.twitter.com/2012/06/distributed-systems-tracing-with-zipkin.html">Twitter&rsquo;s Zipken</a>).</p>
+
+<p><img src="http://4.bp.blogspot.com/-b0r71ZbJdmA/T9DYhbE0uXI/AAAAAAAAABs/bXwyM76Iddc/s1600/web-screenshot.png" alt="Twitter's Zipkin" /></p>
+
+<p>A tool like this, baked into <font style="color:#D7003E; font-weight:bold">boundary</font>, would allow the system to learn how the individual connections within the application layers affect network utilizations.  More importantly, with this level of organization comes context that can be shared among teams of developers.</p>
+
+<h4><font style="color:#D7003E; font-weight:bold">Boundary</font> Tails.</h4>
+
+<hr />
+
+<p><img src="https://controls.engin.umich.edu/wiki/images/b/bd/Tails.gif" alt="Tail Distributions" />
+From a DevOps standpoint there are a number of ways to configure server clusters. Each configuration gives rise to different interactions for edge cases. This is not fun to debug under load or scale, but they are perhaps the most important metric of a functioning system.  If you can guarantee the edge cases, then everything else is bounded.</p>
+
+<p>Boundary allows you to programmatically define which apps are running on your node, listening to which ports. With this model you&rsquo;re able to capture application specific traffic across clusters (independent of how it&rsquo;s setup), which is pretty fantastic. That got me thinking, wouldn&rsquo;t it be great to get tail distributions?  I&rsquo;d love to see how different parts of my application are performing (on average) in the 99%, 99.9%, 99.99%, 99.999% cases.</p>
+
+<p>And while those are being calculated, why not have the system automagically alert me of performance wins/loses as those running values change? Provide hooks where I can detect irregular or unresponsive traffic?</p>
+
+<h4><font style="color:#D7003E; font-weight:bold">Boundary</font> as an online, machine learning platform.</h4>
+
+<hr />
+
+<p><img src="/static/images/time-series.jpeg" alt="UI for machine learning" />
+We&rsquo;re starting to see the evolution of a well contained eco-system for a machine learning platform. I would love to see a simple selection mechanism like above.</p>
+
+<p>With <font style="color:#D7003E; font-weight:bold">boundary</font>&rsquo;s data, a UI  where users are able to highlight periodicities or patterns and then monitor or search for them would be incredibly valuable. Users could begin to explore their data actively in the future with these patterns and comparisons with these patterns could be used to drive other decisions.</p>
+
+<p>With a mechanism like this, the representation of dynamic systems can evolve with use, be shared between developers or support teams to drive understanding of how software is interacting in the field.</p>
+
+
+  <footer>
+    <div class='ten columns' id='tweet'>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-counturl="http://androw.is/pushing-the-boundary" data-text="Here's what I'd like to see from @boundary. | " data-count="horizontal" onClick="_gaq.push(['_trackEvent', 'Link', 'Click', 'Post Twitter Share']);">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</div>
+  </footer>
+</article>
+
+  </div>
+
+    <!-- Grab Google CDN's jQuery. fall back to local if necessary
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script>!window.jQuery && document.write(unescape('%3Cscript src="/static/js/jquery-1.4.2.min.js"%3E%3C/script%3E'))</script>
+    -->
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-35393515-1']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();</script>
+  </body>
+</html> 
