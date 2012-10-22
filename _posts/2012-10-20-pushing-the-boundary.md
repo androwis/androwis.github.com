@@ -9,7 +9,7 @@ What I'd like to convince you of through this post is that data aggregration, th
 
 Distributed systems, at least to me, can be viewed as platforms to inform all sorts of decisions. Analytics are really awesome at generating data, but these tools have a hard time automating insights. I haven't seen a system that is able to relieve users from having to constantly search and monitor for trends or edge cases. I believe tools should remove the fatigue associated with that responsibility and replace it with the opportunity to explore the data and augment (read: train) the feedback that the system provides.
 
-Along these lines, I'd like to use [<font style="color:#D7003E; font-weight:bold">boundary</font>](http://boundary.com) as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things. 
+Along these lines, I'd like to use [Boundary](http://boundary.com) as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things. 
 
 #### Here is <font style="color:#D7003E; font-weight:bold">Boundary</font> from a 50k foot view
 They do a great job of introducing their product. If you want to monitor the performance of a distributed system, take the time to learn about them [here](http://boundary.com/why-boundary/).
@@ -25,7 +25,7 @@ In a nutshell you want to use Boundary because distributed systems communicate a
 Again, Boundary does most of the heavy lifting, leaving you with an organizational task of sifting through the data.
 
 
-#### Here is how to deploy <font style="color:#D7003E; font-weight:bold">boundary</font>
+#### Here is how to deploy <font style="color:#D7003E; font-weight:bold">Boundary</font>
 ___________________
 
 Their product is dead simple. Deploy their tools on the machines you want to analyze (I use [puppet](http://puppetlabs.com/blog/introducing-puppet-labs-boundary-module/) for personal projects, [chef](https://github.com/boundary/boundary_cookbooks/tree/master/apps) for work.)
