@@ -4,7 +4,7 @@
  <title>androwis</title>
  <link href="http://androw.is/atom.xml" rel="self"/>
  <link href="http://androw.is/"/>
- <updated>2012-10-22T16:18:37-04:00</updated>
+ <updated>2012-10-22T16:23:57-04:00</updated>
  <id>http://androw.is</id>
  <author>
    <name>androwis abumoussa</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Pushing Boundary</title>
+   <title>Pushing <font style="color:#D7003E; font-weight:bold">Boundary</font></title>
    <link href="http://androw.is/pushing-the-boundary"/>
    <updated>2012-10-20T00:00:00-04:00</updated>
    <id>http:/androw.is/pushing-the-boundary</id>

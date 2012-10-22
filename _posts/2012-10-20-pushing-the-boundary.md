@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pushing Boundary
+title: Pushing <font style="color:#D7003E; font-weight:bold">Boundary</font>
 tweet: Here's what I'd like to see from @boundary.
 ---
 Distributed systems really excite me. My time at [Simply Home](http://simply-home.com) taught me how to use information from networked devices to change people's lives. Viewing social media as a distributed system of human sensors lead to an exploration of twitter as an indicator for disease spread at [Fountin](http://fount.in). Both of these projects are the driving motivation for my Ph.D. work.
