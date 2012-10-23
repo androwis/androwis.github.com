@@ -73,4 +73,4 @@ It's tricky to explain how I envision Boundary working as a crowdsourcing agent 
 
 1.By giving developers tools to identify patterns of interest, Boundary is essentially generating a curated knowledge base to validate the ML techniques. With validated models, Boundary can begin driving new initiatives with user experience as they delight their users with clusters of acceptable/unacceptable runtime behavior for a given type of setup.
 
-2.These tools can also be 
+2.These tools could also drive collaboration (read: engagement in business speak). Given a platform to create content (these patterns that we're looking for) we'd be able to analyze systems together, more importantly share insights through reuse. Just as Github federated code development and made version control enjoyable, I feel like Boundary's pretty well placed to drive the same innovation with system scaling and monitoring.
