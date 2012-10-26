@@ -9,6 +9,7 @@ What I'd like to convince you of through this post is that data aggregration, th
 
 Distributed systems, at least to me, can be viewed as platforms to inform all sorts of decisions. Analytics are really awesome at generating data, but these tools have a hard time automating insights. I haven't seen a system that is able to relieve users from having to constantly search and monitor for trends or edge cases. I believe tools should remove the fatigue associated with that responsibility and replace it with the opportunity to explore the data and augment (read: train) the feedback that the system provides.
 
+![Boundary](http://www.underconsideration.com/brandnew/archives/boundary_logo.gif)
 Along these lines, I'd like to use [Boundary](http://boundary.com) as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things. 
 
 #### Here is <font style="color:#D7003E; font-weight:bold">Boundary</font> from a 50k foot view

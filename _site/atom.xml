@@ -4,7 +4,7 @@
  <title>androwis</title>
  <link href="http://androw.is/atom.xml" rel="self"/>
  <link href="http://androw.is/"/>
- <updated>2012-10-22T16:23:57-04:00</updated>
+ <updated>2012-10-23T12:29:25-04:00</updated>
  <id>http://androw.is</id>
  <author>
    <name>androwis abumoussa</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Pushing <font style="color:#D7003E; font-weight:bold">Boundary</font></title>
+   <title>Pushing Boundary</title>
    <link href="http://androw.is/pushing-the-boundary"/>
    <updated>2012-10-20T00:00:00-04:00</updated>
    <id>http:/androw.is/pushing-the-boundary</id>
@@ -23,9 +23,10 @@
 
 &lt;p&gt;Distributed systems, at least to me, can be viewed as platforms to inform all sorts of decisions. Analytics are really awesome at generating data, but these tools have a hard time automating insights. I haven&amp;rsquo;t seen a system that is able to relieve users from having to constantly search and monitor for trends or edge cases. I believe tools should remove the fatigue associated with that responsibility and replace it with the opportunity to explore the data and augment (read: train) the feedback that the system provides.&lt;/p&gt;
 
-&lt;p&gt;Along these lines, I&amp;rsquo;d like to use &lt;a href=&quot;http://boundary.com&quot;&gt;&lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt;&lt;/a&gt; as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.underconsideration.com/brandnew/archives/boundary_logo.gif&quot; alt=&quot;Boundary&quot; /&gt;
+Along these lines, I&amp;rsquo;d like to use &lt;a href=&quot;http://boundary.com&quot;&gt;Boundary&lt;/a&gt; as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things.&lt;/p&gt;
 
-&lt;h4&gt;Here is &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt; from a 50k foot view&lt;/h4&gt;
+&lt;h4&gt;Here is &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;Boundary&lt;/font&gt; from a 50k foot view&lt;/h4&gt;
 
 &lt;p&gt;They do a great job of introducing their product. If you want to monitor the performance of a distributed system, take the time to learn about them &lt;a href=&quot;http://boundary.com/why-boundary/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
@@ -33,7 +34,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://boundary.com/wp-content/uploads/2012/05/home-how-it-works-product.png&quot; title=&quot;Boundary's beautiful logo&quot; alt=&quot;Boundray's Workflow&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;In a nutshell you want to use &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt; because distributed systems communicate a lot and that communication is often the bottle neck wrt performance. &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt; enables me to&lt;/p&gt;
+&lt;p&gt;In a nutshell you want to use Boundary because distributed systems communicate a lot and that communication is often the bottle neck wrt performance. Boundary enables me to&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Continuously measure how [much] systems communicate.&lt;/li&gt;
@@ -42,19 +43,19 @@
 &lt;/ol&gt;
 
 
-&lt;p&gt;Again, &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt; does most of the heavy lifting, leaving you with an organizational task of sifting through the data.&lt;/p&gt;
+&lt;p&gt;Again, Boundary does most of the heavy lifting, leaving you with an organizational task of sifting through the data.&lt;/p&gt;
 
-&lt;h4&gt;Here is how to deploy &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt;&lt;/h4&gt;
+&lt;h4&gt;Here is how to deploy &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;Boundary&lt;/font&gt;&lt;/h4&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;Their product is dead simple. Deploy their tools on the machines you want to analyze (I use &lt;a href=&quot;http://puppetlabs.com/blog/introducing-puppet-labs-boundary-module/&quot;&gt;puppet&lt;/a&gt; for personal projects, &lt;a href=&quot;https://github.com/boundary/boundary_cookbooks/tree/master/apps&quot;&gt;chef&lt;/a&gt; for work.)&lt;/p&gt;
 
-&lt;h4&gt;Setup &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt;&lt;/h4&gt;
+&lt;h4&gt;Setup &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;Boundary&lt;/font&gt;&lt;/h4&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Currently, &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt; is bulit to allow you to take your system and:&lt;/p&gt;
+&lt;p&gt;Currently, Boundary is bulit to allow you to take your system and:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Monitor&lt;/li&gt;
@@ -69,11 +70,11 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;At &lt;a href=&quot;http://basho.com/community/ricon2012/&quot;&gt;Ricon 2012&lt;/a&gt; Dietrich talked about putting data into context. The knowledge of a system&amp;rsquo;s architecture helps developers understand what&amp;rsquo;s happening, why, where and when. Something I&amp;rsquo;d really love to see &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt; do is to allow developers to log events in their code (something akin to &lt;a href=&quot;http://engineering.twitter.com/2012/06/distributed-systems-tracing-with-zipkin.html&quot;&gt;Twitter&amp;rsquo;s Zipken&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;At &lt;a href=&quot;http://basho.com/community/ricon2012/&quot;&gt;Ricon 2012&lt;/a&gt; Dietrich talked about putting data into context. The knowledge of a system&amp;rsquo;s architecture helps developers understand what&amp;rsquo;s happening, why, where and when. Something I&amp;rsquo;d really love to see Boundary do is to allow developers to log events in their code (something akin to &lt;a href=&quot;http://engineering.twitter.com/2012/06/distributed-systems-tracing-with-zipkin.html&quot;&gt;Twitter&amp;rsquo;s Zipken&lt;/a&gt;).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://4.bp.blogspot.com/-b0r71ZbJdmA/T9DYhbE0uXI/AAAAAAAAABs/bXwyM76Iddc/s1600/web-screenshot.png&quot; alt=&quot;Twitter's Zipkin&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A tool like this, baked into &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt;, would allow the system to learn how the individual connections within the application layers affect network utilizations.  More importantly, with this level of organization comes context that can be shared among teams of developers.&lt;/p&gt;
+&lt;p&gt;A tool like this, baked into Boundary, would allow the system to learn how the individual connections within the application layers affect network utilizations.  More importantly, with this level of organization comes context that can be shared among teams of developers.&lt;/p&gt;
 
 &lt;h4&gt;&lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;Boundary&lt;/font&gt; Tails.&lt;/h4&gt;
 
@@ -93,7 +94,7 @@ From a DevOps standpoint there are a number of ways to configure server clusters
 &lt;p&gt;&lt;img src=&quot;/static/images/time-series.jpeg&quot; alt=&quot;UI for machine learning&quot; /&gt;
 We&amp;rsquo;re starting to see the evolution of a well contained eco-system for a machine learning platform. I would love to see a simple selection mechanism like above.&lt;/p&gt;
 
-&lt;p&gt;With &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;boundary&lt;/font&gt;&amp;rsquo;s data, a UI  where users are able to highlight periodicities or patterns and then monitor or search for them would be incredibly valuable. Users could begin to explore their data actively in the future with these patterns and comparisons with these patterns could be used to drive other decisions.&lt;/p&gt;
+&lt;p&gt;With Boundary&amp;rsquo;s data, a UI  where users are able to highlight periodicities or patterns and then monitor or search for them would be incredibly valuable. Users could begin to explore their data actively in the future with these patterns and comparisons with these patterns could be used to drive other decisions.&lt;/p&gt;
 
 &lt;p&gt;With a mechanism like this, the representation of dynamic systems can evolve with use, be shared between developers or support teams to drive understanding of how software is interacting in the field.&lt;/p&gt;
 </content>
