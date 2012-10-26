@@ -39,7 +39,7 @@ Currently, Boundary is bulit to allow you to take your system and:
 2. Test
 3. Scale
 
-What I would love to see happen with the platform is that the data available to the system,.
+What I would love to see happen with the platform is that the data available to Boundary becomes a training bed for all sorts of machine learning to augment system monitoring.
 
 
 #### <font style="color:#D7003E; font-weight:bold">Boundary</font> with crumbtrails.
@@ -67,3 +67,11 @@ We're starting to see the evolution of a well contained eco-system for a machine
 With Boundary's data, a UI  where users are able to highlight periodicities or patterns and then monitor or search for them would be incredibly valuable. Users could begin to explore their data actively in the future with these patterns and comparisons with these patterns could be used to drive other decisions.
 
 With a mechanism like this, the representation of dynamic systems can evolve with use, be shared between developers or support teams to drive understanding of how software is interacting in the field. 
+
+####  <font style="color:#D7003E; font-weight:bold">Boundary</font> + crowdsourced intelligence
+___________________
+It's tricky to explain how I envision Boundary working as a crowdsourcing agent w/out screenshots or designs, but there are really two main ideas at play here.
+
+1.By giving developers tools to identify patterns of interest, Boundary is essentially generating a curated knowledge base to validate the ML techniques. With validated models, Boundary can begin driving new initiatives with user experience as they delight their users with clusters of acceptable/unacceptable runtime behavior for a given type of setup.
+
+2.These tools could also drive collaboration (read: engagement in business speak). Given a platform to create content (these patterns that we're looking for) we'd be able to analyze systems together, more importantly share insights through reuse. Just as Github federated code development and made version control enjoyable, I feel like Boundary's pretty well placed to drive the same innovation with system scaling and monitoring.
