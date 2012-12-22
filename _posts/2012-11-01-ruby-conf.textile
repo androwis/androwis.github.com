@@ -12,4 +12,4 @@ differences between some of the other conferences like ricon2012
 
 case s
 
-{% tweet https://twitter.com/sarahmei/status/265241470984925184 %}
+{{ tweet https://twitter.com/sarahmei/status/265241470984925184 }}
