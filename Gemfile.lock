@@ -25,6 +25,6 @@ PLATFORMS
 DEPENDENCIES
   RedCloth
   github-markup
-  jekyll (~> 0.9)
+  jekyll
   json
   rdiscount
