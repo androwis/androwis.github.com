@@ -1,5 +1,5 @@
 source 'http://rubygems.org'
-gem 'jekyll', '~>0.9'
+gem 'jekyll'
 gem 'RedCloth'
 gem 'rdiscount'
 gem 'github-markup'
