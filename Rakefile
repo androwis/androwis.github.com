@@ -22,6 +22,7 @@ task :deploy do
 
   puts "Pushing to Github"
   `git push origin master`
+  `git push mirror master:gh-pages`
 end
 
 task "Serve"
@@ -29,5 +30,5 @@ task :serve do
   Rake::Task['css'].execute
 
   `open http://localhost:4000`
-  `jekyll --serve --no-pygments`
+  `jekyll --serve --no-pygments --auto`
 end

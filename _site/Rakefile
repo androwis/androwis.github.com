@@ -28,6 +28,6 @@ task "Serve"
 task :serve do
   Rake::Task['css'].execute
 
+  `jekyll --serve --no-pygments --auto`
   `open http://localhost:4000`
-  `jekyll --serve --no-pygments`
 end
