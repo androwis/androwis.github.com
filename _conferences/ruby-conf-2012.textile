@@ -1,0 +1,83 @@
+Nov 1 2012
+
+@matz=================================================================
+from Pascal using pen and paper bc of expensive compiler and no internet.
+just for fun. man power is not the bottle neck. motivation is the resource that drives innovation, and that is limited.
+What happens when you force things? you lose the ability to try and miss out on dividing innovation..
+
+prediction: language designers are the drivers for innovation.
+
+
+@NRELdev, @nickblah ==============================================================
+reverse proxies: serves as a middle layer between dev boxes and clients
+
+
+Benefits of this talk
+Creating Silos of functional bits w/in reverse proxies.
+Dealing w/ diversity within an organization
+Users don’t give a shit about organizational platform implementation
+
+Goal:
+1 entry point to aggregate APIs
+1 user account gives access to all the APIs
+-Key based management across APIs
+-Rate limiting accross APIs
+-Universal Analytics across APIs
+
+Didn’t want:
+changes to existing APIs
+added engineering efforts
+
+CUSTOM REVERSE PROXIES
+Authentication
+Rate Limiting
+Analytics
+can be shared to all the services
+
+**Shielded from internal complexities
+
+Any new features get pushed to the entire architecture
+Standardization is enforced
+Reverse proxies as load balancers
+
+**em-proxy
+Ruby & EventMachine
+Blazing Fast
+Flexible
+Low-Level
+
+** What can you do with this?
+Error Handling
+web page manipulation
+
+**Caughtchas
+Buffering -- don't know what all the events are doing and don't want to interrupt things like streaming
+content-length
+gzip responses back to client
+
+
+@chrishunt=============================================================================================
+Services at square 
+How they build ruby services
+risk management and automation
+service oriented architectures
+fdoc for enforcing documentation
+foreman
+cane
+jetpack: jetty for ruby
+
+@josephruscio | librato ==============================================================================
+
+Day 2
+Asynchronous calls
+Mike Perham
+Sidekiq
+
+MobileRuby
+ib gem
+afn networking
+sdweb image -this is -> cocoapod
+Restkit
+
+Testing should be fun @noelrap========================================================
+

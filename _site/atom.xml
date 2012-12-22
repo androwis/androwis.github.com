@@ -4,13 +4,29 @@
  <title>androwis</title>
  <link href="http://androw.is/atom.xml" rel="self"/>
  <link href="http://androw.is/"/>
- <updated>2012-10-23T12:29:25-04:00</updated>
+ <updated>2012-11-05T21:22:33-05:00</updated>
  <id>http://androw.is</id>
  <author>
    <name>androwis abumoussa</name>
    <email>androwis@androw.is</email>
  </author>
 
+ 
+ <entry>
+   <title>Ruby Conf</title>
+   <link href="http://androw.is/ruby-conf"/>
+   <updated>2012-11-01T00:00:00-04:00</updated>
+   <id>http:/androw.is/ruby-conf</id>
+   <content type="html">&lt;p&gt;ruby conf was the first conference I went to where I felt adequately unprepared for. having only been introduced to the world of ruby only a few weeks prior,I was a complete newcomer.&lt;/p&gt;
+&lt;p&gt;What blew me away was the community. it was intimate conference, but one that was super international. first time I experienced that. there the bad assets were genuinely interested in meeting everyone,&lt;/p&gt;
+&lt;p&gt;design was taken seriously&lt;/p&gt;
+&lt;p&gt;morals were most importantly upheld&lt;/p&gt;
+&lt;p&gt;teaching was the goal&lt;/p&gt;
+&lt;p&gt;differences between some of the other conferences like ricon2012&lt;/p&gt;
+&lt;p&gt;case s&lt;/p&gt;
+&lt;div class='embed tweet'&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;The best feature of the Ruby language is its people. Thanks, humans of &lt;a href=&quot;https://twitter.com/search/%23rubyconf&quot;&gt;#rubyconf&lt;/a&gt; &amp;#8212; you made this thing great.&lt;/p&gt;&lt;p&gt;&amp;mdash; Sarah Mei (@sarahmei) &lt;a href=&quot;https://twitter.com/sarahmei/status/265241470984925184&quot; data-datetime=&quot;2012-11-04T23:57:49+00:00&quot;&gt;November 4, 2012&lt;/a&gt;&lt;/blockquote&gt;&lt;br /&gt;
+&lt;script src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;&lt;/p&gt;</content>
+ </entry>
  
  <entry>
    <title>Pushing Boundary</title>
@@ -64,7 +80,7 @@ Along these lines, I&amp;rsquo;d like to use &lt;a href=&quot;http://boundary.co
 &lt;/ol&gt;
 
 
-&lt;p&gt;What I would love to see happen with the platform is that the data available to the system,.&lt;/p&gt;
+&lt;p&gt;What I would love to see happen with the platform is that the data available to Boundary becomes a training bed for all sorts of machine learning to augment system monitoring.&lt;/p&gt;
 
 &lt;h4&gt;&lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;Boundary&lt;/font&gt; with crumbtrails.&lt;/h4&gt;
 
@@ -97,6 +113,16 @@ We&amp;rsquo;re starting to see the evolution of a well contained eco-system for
 &lt;p&gt;With Boundary&amp;rsquo;s data, a UI  where users are able to highlight periodicities or patterns and then monitor or search for them would be incredibly valuable. Users could begin to explore their data actively in the future with these patterns and comparisons with these patterns could be used to drive other decisions.&lt;/p&gt;
 
 &lt;p&gt;With a mechanism like this, the representation of dynamic systems can evolve with use, be shared between developers or support teams to drive understanding of how software is interacting in the field.&lt;/p&gt;
+
+&lt;h4&gt;&lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;Boundary&lt;/font&gt; + crowdsourced intelligence&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;It&amp;rsquo;s tricky to explain how I envision Boundary working as a crowdsourcing agent w/out screenshots or designs, but there are really two main ideas at play here.&lt;/p&gt;
+
+&lt;p&gt;1.By giving developers tools to identify patterns of interest, Boundary is essentially generating a curated knowledge base to validate the ML techniques. With validated models, Boundary can begin driving new initiatives with user experience as they delight their users with clusters of acceptable/unacceptable runtime behavior for a given type of setup.&lt;/p&gt;
+
+&lt;p&gt;2.These tools could also drive collaboration (read: engagement in business speak). Given a platform to create content (these patterns that we&amp;rsquo;re looking for) we&amp;rsquo;d be able to analyze systems together, more importantly share insights through reuse. Just as Github federated code development and made version control enjoyable, I feel like Boundary&amp;rsquo;s pretty well placed to drive the same innovation with system scaling and monitoring.&lt;/p&gt;
 </content>
  </entry>
  
@@ -303,13 +329,13 @@ Skydiving, Scuba, Belay&lt;/p&gt;
    <content type="html">&lt;p&gt;As part of the &lt;a href=&quot;http://zenhabits.net/minimalist-fun-the-100-things-challenge/&quot;&gt;100 things challenge&lt;/a&gt;, here&amp;#8217;s everything I own, sorted by value.  &lt;strong&gt;Everything here is for sale.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1. &lt;a href=&quot;http://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?ownerId=66962067&amp;amp;searchRadius=0&amp;amp;listingId=314734182&quot;&gt;2007 &lt;span class=&quot;caps&quot;&gt;BMW&lt;/span&gt; 328 Coupe&lt;/a&gt;&lt;br /&gt;
 2. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B007EZITDE?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;11.6 Macbook Air &amp;#8211; 1.8GHz Intel Core i7, 4GB&lt;/a&gt;&lt;br /&gt;
-3. 27&amp;quot; Thunderbolt Display&lt;br /&gt;
+3. &lt;a href=&quot;http://www.amazon.com/gp/product/B004YLCKYA?ie=UTF8&amp;amp;seller=AVEUUKGJWKVXT&amp;amp;sn=androwis&quot;&gt;27&amp;quot; Apple Thunderbolt Display&lt;/a&gt;&lt;br /&gt;
 4. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B001XURPQI?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Canon &lt;span class=&quot;caps&quot;&gt;EOS&lt;/span&gt; Rebel T1i 15.1 MP&lt;/a&gt;&lt;br /&gt;
-5. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B00681RUOY?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Dell 24 inch Ultrasharp &lt;span class=&quot;caps&quot;&gt;LED&lt;/span&gt; u2412M&lt;/a&gt;&lt;br /&gt;
-6. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B00681RUOY?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Dell 24 inch Ultrasharp &lt;span class=&quot;caps&quot;&gt;LED&lt;/span&gt; u2412M&lt;/a&gt;&lt;br /&gt;
-7. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B00681RUOY?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Dell 24 inch Ultrasharp &lt;span class=&quot;caps&quot;&gt;LED&lt;/span&gt; u2412M&lt;/a&gt;&lt;br /&gt;
+5. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B00681RUOY?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;24&amp;quot; Dell Ultrasharp &lt;span class=&quot;caps&quot;&gt;LED&lt;/span&gt; u2412M&lt;/a&gt;&lt;br /&gt;
+6. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B00681RUOY?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;24&amp;quot; Dell Ultrasharp &lt;span class=&quot;caps&quot;&gt;LED&lt;/span&gt; u2412M&lt;/a&gt;&lt;br /&gt;
+7. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B00681RUOY?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;24&amp;quot; Dell inch Ultrasharp &lt;span class=&quot;caps&quot;&gt;LED&lt;/span&gt; u2412M&lt;/a&gt;&lt;br /&gt;
 8. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B005ZEF01A?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Galaxy Nexus&lt;/a&gt;&lt;br /&gt;
-9. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B003HFG6S0?ie=UTF8&amp;amp;condition=refurbished&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Samsung PX2370 23 inch &lt;span class=&quot;caps&quot;&gt;LCD&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+9. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B003HFG6S0?ie=UTF8&amp;amp;condition=refurbished&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Samsung PX2370 23&amp;quot; &lt;span class=&quot;caps&quot;&gt;LCD&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Contact me with an offer, mention this post, and i&amp;#8217;ll give you a deal.&lt;/p&gt;</content>
  </entry>
  
