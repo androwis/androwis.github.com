@@ -12,6 +12,7 @@ GEM
       directory_watcher (>= 1.1.1)
       liquid (>= 1.9.0)
       maruku (>= 0.5.9)
+    json (1.7.5)
     liquid (2.2.2)
     maruku (0.6.0)
       syntax (>= 1.0.0)
@@ -25,4 +26,5 @@ DEPENDENCIES
   RedCloth
   github-markup
   jekyll (~> 0.9)
+  json
   rdiscount

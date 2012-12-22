@@ -1,3 +1,8 @@
+---
+layout: post
+title: Ruby Conf
+tweet: thoughts after my first rubyconf
+---
 ruby conf was the first conference I went to where I felt adequately unprepared for. having only been introduced to the world of ruby only a few weeks prior,I was a complete newcomer.
 
 What blew me away was the community. it was intimate conference, but one that was super international. first time I experienced that. there the bad assets were genuinely interested in meeting everyone,
@@ -12,4 +17,4 @@ differences between some of the other conferences like ricon2012
 
 case s
 
-{{ tweet https://twitter.com/sarahmei/status/265241470984925184 }}
+{% tweet https://twitter.com/sarahmei/status/265241470984925184 %}

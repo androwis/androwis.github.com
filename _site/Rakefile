@@ -2,6 +2,8 @@ require 'rake'
 
 desc "Compile CSS files"
 task :css do
+  `bundle install`
+
   puts "Merging CSS"
   Dir["./static/css/*.css"].each do |file|
     `cat #{file} >> ./static/css/temp.css`
