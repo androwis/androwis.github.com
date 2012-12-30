@@ -9,8 +9,7 @@ What I'd like to convince you of through this post is that data aggregration, th
 
 Distributed systems, at least to me, can be viewed as platforms to inform all sorts of decisions. Analytics are really awesome at generating data, but these tools have a hard time automating insights. I haven't seen a system that is able to relieve users from having to constantly search and monitor for trends or edge cases. I believe tools should remove the fatigue associated with that responsibility and replace it with the opportunity to explore the data and augment (read: train) the feedback that the system provides.
 
-![Boundary](http://www.underconsideration.com/brandnew/archives/boundary_logo.gif)
-Along these lines, I'd like to use [Boundary](http://boundary.com) as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things. 
+Along these lines, I'd like to use [Boundary](http://boundary.com) as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things.
 
 #### Here is <font style="color:#D7003E; font-weight:bold">Boundary</font> from a 50k foot view
 They do a great job of introducing their product. If you want to monitor the performance of a distributed system, take the time to learn about them [here](http://boundary.com/why-boundary/).
@@ -31,7 +30,7 @@ ___________________
 
 Their product is dead simple. Deploy their tools on the machines you want to analyze (I use [puppet](http://puppetlabs.com/blog/introducing-puppet-labs-boundary-module/) for personal projects, [chef](https://github.com/boundary/boundary_cookbooks/tree/master/apps) for work.)
 
-#### Setup <font style="color:#D7003E; font-weight:bold">Boundary</font> 
+#### Setup <font style="color:#D7003E; font-weight:bold">Boundary</font>
 ___________________
 Currently, Boundary is bulit to allow you to take your system and:
 
@@ -62,11 +61,11 @@ And while those are being calculated, why not have the system automagically aler
 ####  <font style="color:#D7003E; font-weight:bold">Boundary</font> as an online, machine learning platform.
 ___________________
 ![UI for machine learning](/static/images/time-series.jpeg)
-We're starting to see the evolution of a well contained eco-system for a machine learning platform. I would love to see a simple selection mechanism like above. 
+We're starting to see the evolution of a well contained eco-system for a machine learning platform. I would love to see a simple selection mechanism like above.
 
 With Boundary's data, a UI  where users are able to highlight periodicities or patterns and then monitor or search for them would be incredibly valuable. Users could begin to explore their data actively in the future with these patterns and comparisons with these patterns could be used to drive other decisions.
 
-With a mechanism like this, the representation of dynamic systems can evolve with use, be shared between developers or support teams to drive understanding of how software is interacting in the field. 
+With a mechanism like this, the representation of dynamic systems can evolve with use, be shared between developers or support teams to drive understanding of how software is interacting in the field.
 
 ####  <font style="color:#D7003E; font-weight:bold">Boundary</font> + crowdsourced intelligence
 ___________________
