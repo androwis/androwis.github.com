@@ -4,7 +4,7 @@
  <title>androwis</title>
  <link href="http://androw.is/atom.xml" rel="self"/>
  <link href="http://androw.is/"/>
- <updated>2012-12-22T17:34:31-05:00</updated>
+ <updated>2013-01-22T20:10:40-05:00</updated>
  <id>http://androw.is</id>
  <author>
    <name>androwis abumoussa</name>
@@ -13,19 +13,56 @@
 
  
  <entry>
+   <title>on communicating.</title>
+   <link href="http://androw.is/Effective-Communication"/>
+   <updated>2013-01-21T00:00:00-05:00</updated>
+   <id>http:/androw.is/Effective-Communication</id>
+   <content type="html">&lt;p&gt;Be ruthless with your time.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;I once told someone i wasn't interested in continuing
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thoughts for a new year</title>
+   <link href="http://androw.is/Thoughts-for-a-new-year"/>
+   <updated>2012-12-31T00:00:00-05:00</updated>
+   <id>http:/androw.is/Thoughts-for-a-new-year</id>
+   <content type="html">&lt;p&gt;SWOT Analysis
+&lt;notextile&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;2012: I learned the importance of quitting, choosing to be around those I love, and rationing my trust. Excited to start 2013 much wiser&lt;/p&gt;&amp;mdash; androwis abumoussa (@androwis) &lt;a href=&quot;https://twitter.com/androwis/status/285973294853787648&quot;&gt;January 1, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;/notextile&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On Teaching</title>
+   <link href="http://androw.is/on-teaching"/>
+   <updated>2012-12-30T00:00:00-05:00</updated>
+   <id>http:/androw.is/on-teaching</id>
+   <content type="html">&lt;p&gt;Grad school has been a whirlwind of emotions.  My year so far has been marked by joy, hate, stress, etc.&lt;/p&gt;
+&lt;p&gt;Through it all, the most exciting part has been on teaching.  I&amp;#8217;ll&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>Ruby Conf</title>
    <link href="http://androw.is/ruby-conf"/>
    <updated>2012-11-01T00:00:00-04:00</updated>
    <id>http:/androw.is/ruby-conf</id>
-   <content type="html">&lt;p&gt;ruby conf was the first conference I went to where I felt adequately unprepared for. having only been introduced to the world of ruby only a few weeks prior,I was a complete newcomer.&lt;/p&gt;
-&lt;p&gt;What blew me away was the community. it was intimate conference, but one that was super international. first time I experienced that. there the bad assets were genuinely interested in meeting everyone,&lt;/p&gt;
-&lt;p&gt;design was taken seriously&lt;/p&gt;
+   <content type="html">&lt;p&gt;I really felt unprepared to go to RubyConf this last year. I was a complete outsider to the community because I had just been introduced to ruby a few weeks prior.&lt;/p&gt;
+&lt;p&gt;That being said, I loved my time with Rubyists. The developer community around Ruby blew me away. It was intimate conference, but one that was super international. first time I experienced that. there the bad asses were genuinely interested in meeting everyone,&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;The best feature of the Ruby language is its people. Thanks, humans of &lt;a href=&quot;https://twitter.com/search/%23rubyconf&quot;&gt;#rubyconf&lt;/a&gt; -- you made this thing great.&lt;/p&gt;&amp;mdash; Sarah Mei (@sarahmei) &lt;a href=&quot;https://twitter.com/sarahmei/status/265241470984925184&quot;&gt;November 4, 2012&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;p&gt;design was taken seriously&lt;/p&gt;
 &lt;p&gt;morals were most importantly upheld&lt;/p&gt;
 &lt;p&gt;teaching was the goal&lt;/p&gt;
-&lt;p&gt;differences between some of the other conferences like ricon2012&lt;/p&gt;
-&lt;p&gt;case s&lt;/p&gt;
-&lt;div class='embed tweet'&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;The best feature of the Ruby language is its people. Thanks, humans of &lt;a href=&quot;https://twitter.com/search/%23rubyconf&quot;&gt;#rubyconf&lt;/a&gt; &amp;#8212; you made this thing great.&lt;/p&gt;&lt;p&gt;&amp;mdash; Sarah Mei (@sarahmei) &lt;a href=&quot;https://twitter.com/sarahmei/status/265241470984925184&quot; data-datetime=&quot;2012-11-04T23:57:49+00:00&quot;&gt;November 4, 2012&lt;/a&gt;&lt;/blockquote&gt;&lt;br /&gt;
-&lt;script src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;&lt;/p&gt;</content>
+&lt;p&gt;differences between some of the other conferences like ricon2012&lt;/p&gt;</content>
  </entry>
  
  <entry>
@@ -39,8 +76,7 @@
 
 &lt;p&gt;Distributed systems, at least to me, can be viewed as platforms to inform all sorts of decisions. Analytics are really awesome at generating data, but these tools have a hard time automating insights. I haven&amp;rsquo;t seen a system that is able to relieve users from having to constantly search and monitor for trends or edge cases. I believe tools should remove the fatigue associated with that responsibility and replace it with the opportunity to explore the data and augment (read: train) the feedback that the system provides.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.underconsideration.com/brandnew/archives/boundary_logo.gif&quot; alt=&quot;Boundary&quot; /&gt;
-Along these lines, I&amp;rsquo;d like to use &lt;a href=&quot;http://boundary.com&quot;&gt;Boundary&lt;/a&gt; as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things.&lt;/p&gt;
+&lt;p&gt;Along these lines, I&amp;rsquo;d like to use &lt;a href=&quot;http://boundary.com&quot;&gt;Boundary&lt;/a&gt; as an example since it helps me scale. Essentially, their product allows developers to map the topology of distributed applications fast, so we can focus on harder things.&lt;/p&gt;
 
 &lt;h4&gt;Here is &lt;font style=&quot;color:#D7003E; font-weight:bold&quot;&gt;Boundary&lt;/font&gt; from a 50k foot view&lt;/h4&gt;
 
@@ -123,6 +159,57 @@ We&amp;rsquo;re starting to see the evolution of a well contained eco-system for
 &lt;p&gt;1.By giving developers tools to identify patterns of interest, Boundary is essentially generating a curated knowledge base to validate the ML techniques. With validated models, Boundary can begin driving new initiatives with user experience as they delight their users with clusters of acceptable/unacceptable runtime behavior for a given type of setup.&lt;/p&gt;
 
 &lt;p&gt;2.These tools could also drive collaboration (read: engagement in business speak). Given a platform to create content (these patterns that we&amp;rsquo;re looking for) we&amp;rsquo;d be able to analyze systems together, more importantly share insights through reuse. Just as Github federated code development and made version control enjoyable, I feel like Boundary&amp;rsquo;s pretty well placed to drive the same innovation with system scaling and monitoring.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>on quitting.</title>
+   <link href="http://androw.is/on-quitting"/>
+   <updated>2012-10-20T00:00:00-04:00</updated>
+   <id>http:/androw.is/on-quitting</id>
+   <content type="html">&lt;p&gt;&lt;notextile&gt;&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;2012: I learned the importance of quitting, choosing to be around those I love, and rationing my trust. Excited to start 2013 much wiser&lt;/p&gt;&amp;mdash; androwis abumoussa (@androwis) &lt;a href=&quot;https://twitter.com/androwis/status/285973294853787648&quot;&gt;January 1, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+
+&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;&lt;/notextile&gt;&lt;/p&gt;
+
+&lt;br/&gt;
+
+
+&lt;h4&gt;2012: learning to quit.&lt;/h4&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;2012 has been one the most exciting years for me. But that&amp;rsquo;s because I&amp;rsquo;ve been ruthless with my time.
+I&amp;rsquo;ve met some of the greatest friends over the summer
+Joined Banyan.co as the CTO&lt;/p&gt;
+
+&lt;p&gt;Things I&amp;rsquo;ve quit:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;- being a shitty person.
+  * I used to fight w/ people on twitter
+  * I thought expressing angst made everything better.
+- being stressed
+- writing shitty code.
+- being around shitty people.
+- working with shitty people.
+- listening to horrible music.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Things I&amp;rsquo;m quitting:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;accumulating stuff
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&amp;ndash;&lt;/p&gt;
+
+&lt;p&gt;Things I&amp;rsquo;ve started:
+This is a pretty natural segway from what I&amp;rsquo;ve quit
+  -being intentional&lt;/p&gt;
 </content>
  </entry>
  
@@ -326,16 +413,13 @@ Skydiving, Scuba, Belay&lt;/p&gt;
    <link href="http://androw.is/100-things"/>
    <updated>2012-01-01T00:00:00-05:00</updated>
    <id>http:/androw.is/100-things</id>
-   <content type="html">&lt;p&gt;As part of the &lt;a href=&quot;http://zenhabits.net/minimalist-fun-the-100-things-challenge/&quot;&gt;100 things challenge&lt;/a&gt;, here&amp;#8217;s everything I own, sorted by value.  &lt;strong&gt;Everything here is for sale.&lt;/strong&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;As part of the &lt;a href=&quot;http://zenhabits.net/minimalist-fun-the-100-things-challenge/&quot;&gt;100 things challenge&lt;/a&gt;, here&amp;#8217;s everything I own, sorted by value.  &lt;strong&gt;Everything is for sale.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1. &lt;a href=&quot;http://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?ownerId=66962067&amp;amp;searchRadius=0&amp;amp;listingId=314734182&quot;&gt;2007 &lt;span class=&quot;caps&quot;&gt;BMW&lt;/span&gt; 328 Coupe&lt;/a&gt;&lt;br /&gt;
-2. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B007EZITDE?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;11.6 Macbook Air &amp;#8211; 1.8GHz Intel Core i7, 4GB&lt;/a&gt;&lt;br /&gt;
+2. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B007EZITDE?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;11.6 Macbook Air &amp;#8211; 2GHz Intel Core i7, 8GB&lt;/a&gt;&lt;br /&gt;
 3. &lt;a href=&quot;http://www.amazon.com/gp/product/B004YLCKYA?ie=UTF8&amp;amp;seller=AVEUUKGJWKVXT&amp;amp;sn=androwis&quot;&gt;27&amp;quot; Apple Thunderbolt Display&lt;/a&gt;&lt;br /&gt;
 4. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B001XURPQI?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Canon &lt;span class=&quot;caps&quot;&gt;EOS&lt;/span&gt; Rebel T1i 15.1 MP&lt;/a&gt;&lt;br /&gt;
 5. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B00681RUOY?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;24&amp;quot; Dell Ultrasharp &lt;span class=&quot;caps&quot;&gt;LED&lt;/span&gt; u2412M&lt;/a&gt;&lt;br /&gt;
-6. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B00681RUOY?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;24&amp;quot; Dell Ultrasharp &lt;span class=&quot;caps&quot;&gt;LED&lt;/span&gt; u2412M&lt;/a&gt;&lt;br /&gt;
-7. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B00681RUOY?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;24&amp;quot; Dell inch Ultrasharp &lt;span class=&quot;caps&quot;&gt;LED&lt;/span&gt; u2412M&lt;/a&gt;&lt;br /&gt;
-8. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B005ZEF01A?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Galaxy Nexus&lt;/a&gt;&lt;br /&gt;
-9. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B003HFG6S0?ie=UTF8&amp;amp;condition=refurbished&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Samsung PX2370 23&amp;quot; &lt;span class=&quot;caps&quot;&gt;LCD&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+6. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B005ZEF01A?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Galaxy Nexus&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Contact me with an offer, mention this post, and i&amp;#8217;ll give you a deal.&lt;/p&gt;</content>
  </entry>
  
