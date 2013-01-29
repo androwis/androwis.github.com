@@ -12,7 +12,7 @@ I often find myself asking if I'm happy with how I spend my time. I knew the ans
 So, I took a weekend to write down my goals. I wanted to understand what I was distracting myself from and which fears were preventing me from accopmlishing my goals:
 
 
-Short term goals:
+###Short term goals:
     - Be early. For everything.
     - Do the things I want to do.
     - Explore my world.
@@ -21,11 +21,11 @@ Short term goals:
     - Disconnect intentionally, feel safe and secure in that decision.
 
 
-Long term goals:
+###Long term goals:
     - Help those I care about.
 
 
-Fears:
+###Fears:
     - I'm not adding value to whatever I'm working on.
     - My difficulties are really inabilities.
     - Trusting others.
