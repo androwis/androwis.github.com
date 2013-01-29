@@ -11,17 +11,16 @@ So, I took a weekend to write down my goals. I wanted to understand what I was d
 
 
 ###Short term goals:
-    - Be early. For everything.
-    - Do the things I want to do.
-    - Explore my world.
+    - Disconnect intentionally, feel safe and secure in that decision.
     - Be proud of myself, and what I feel.
     - Prefer relationships to work.
-    - Disconnect intentionally, feel safe and secure in that decision.
-
+    - Do the things I want to do.
+    - Be early. For everything.
+    - Explore my world.
 
 ###Long term goals:
     - Help those I care about.
-
+    - Love deeply.
 
 ###Fears:
     - I'm not adding value to whatever I'm working on.
@@ -31,10 +30,10 @@ So, I took a weekend to write down my goals. I wanted to understand what I was d
 
 ##What I learned.
 
-Fears are much easier to identify than goals. That's a hard pill to swallow since I know fears take away from the motivation goals provide. That also may be a result of being in school, where you need to explore the open set of problems to identify what you want to contribute to.
+Fears are much easier to identify than goals. That's a hard pill to swallow since I know fears take away from the motivation goals provide.
 
+I can't measure any of my current goals.  That's scary to me, because my mathematical mind believes anything that can't be measured doesn't exist.
 
 This last year, I lost most of my trust for some of the closest people around me. Also, I've become jaded with academia's self-centered nature (all the pressure's to publish to establish your "expertise", citations as a metric of success, affirming command of a topic by tacking ", right?" to the end of a sentence). That being said, some of the people I hold in the highest of esteem are in academia... I'm just not sure it's the thing for me.
-
 
 I'm glad I put some thought on this.  I hate not having all the answers or an un-relenting drive / passion for my work at all times ( I'm not sure whether that's the perfectionist in me or society talking). It's hard not to get discouraged when comparing yourself to titans all the time. But then, perhaps the most exciting part of all this is the volatility.
