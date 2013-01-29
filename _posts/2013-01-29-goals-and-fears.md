@@ -4,8 +4,6 @@ title: goals and fears
 tweet: goals and fears
 ---
 
-##Goals
-
 I often find myself asking if I'm happy with how I spend my time. I knew the answer was no, but I had no idea where that dissatisfaction came from.
 
 
