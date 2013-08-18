@@ -1,4 +1,4 @@
-# [androw.is](http://androw.is)
+# [androwis.com](http://androwis.com)
 
 My website, including my blog served via [Jekyll](http://github.com/mojombo/jekyll) (which is awesome!)
 
