@@ -15,7 +15,7 @@ tweet: Androwis Abumoussa's resume can be found here
     <div class="tr"> <strong> permanent address :</strong> 100 Tarnhill Dr, Flat Rock, NC 28731</div>
     <div class="t"><strong>twitter</strong>.com/<a href="http://twitter.com/androwis">androwis</a></div>
     <div class="t"><strong>github</strong>.com/<a href="http://github.com/androwis">androwis</a></div>
-    <div class="t"><a href="mailto:androwis@androw.is">androwis@androw.is</a></div>
+    <div class="t"><a href="mailto:androwis@androwis.com">androwis@androwis.com</a></div>
     <div class="t"><a href="tel:8283935939">828.393.5939</a> </div>
     
 

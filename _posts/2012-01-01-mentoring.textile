@@ -18,7 +18,7 @@ tweet: what it means to help others
 <p>1. Tell me about yourself. How did you become who you are, and who do you want to become?</p>
 <p>2. What do you hope to gain from our mentoring relationship?</p>
 <p>3. What’s the best thing you’ve read, watched, or listened to lately?</p>
-<p>Add links to any profiles or projects you’re proud of, and send it all to:<br/><em><a href="mailto:androwis@androw.is">androwis@androw.is</a></em></p>
+<p>Add links to any profiles or projects you’re proud of, and send it all to:<br/><em><a href="mailto:androwis@androwis.com">androwis@androwis.com</a></em></p>
 <p>I look forward to learning together!</p>
 <p><a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png"></a></p>
 </div>
