@@ -1,23 +1,31 @@
 =====================================================================
-@androwis               androwis abumoussa       github.com/androwis
+@androwis               androwis abumoussa        github.com/androwis
 
-androwis@androw.is         Rochester NY               (828) 393 5939
+androwis@androw.is         Rochester NY                  828.393.5939
 =====================================================================
 
 technical expertise
 *******************
 
- - Developing w Java, Python, C, Puppet, various DBs, & the cloud
+ - Programming with Java, C, CUDA, MPI, Python, Puppet, various DBs
  - Building web applications w Jetty, Spring, jQuery, HTML and CSS
  - Working knowledge: Scala, Lisp, Prolog, Clojure, Mobile & Ruby
  - Hacking on Linux Kernel building home automation/monitoring sys
- - Managing and using SUSE, Debian, Mac and Windows systems
-
 
 professional experience
 ***********************
-
- Co-Founder/CTO       Fount.in Inc (Rochester, NY)     5/2012-Present
+ 
+ CTO                  Banyan (Chattanooga, TN)        10/2012-9/2013
+ -------------------------------------------------------------------
+ Banyan is a collaborative engine for bioinformatics research. We 
+ made it simple for researchers and academics to collaborate, share 
+ & publish their work. Banyan focused specifically on genomic data. 
+ I worked with labs across the US to identify pitfalls in their 
+ research processes and built solutions addressing them. We worked 
+ on publishing models by building a collaborative TeX editor and 
+ OSX application for version control.
+ 
+ Co-Founder/CTO       Fount.in Inc (Rochester, NY)     5/2012-5/2013
  --------------------------------------------------------------------
  Artificial Intelligence as a Service.  Using AI and Machine Learning
  we track how and where diseases are spreading in real time w twitter
@@ -107,4 +115,4 @@ extracurricular
  RocHack - League of hackers at the University of Rochester
  Skydiving, Scuba, Belay
 
-References available upon request. [http://androw.is/resume] for links
+References available upon request. [http://androwis.com/resume] for links
