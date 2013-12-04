@@ -1,8 +1,8 @@
-=====================================================================
-@androwis               androwis abumoussa        github.com/androwis
+======================================================================
+@androwis                 Androwis Abumoussa       github.com/androwis
 
-androwis@androw.is         Rochester NY                  828.393.5939
-=====================================================================
+androwis@androwis.com        Rochester NY                 828.393.5939
+======================================================================
 
 technical expertise
 *******************
@@ -14,24 +14,24 @@ technical expertise
 
 professional experience
 ***********************
- 
+
  CTO                  Banyan (Chattanooga, TN)        10/2012-9/2013
  -------------------------------------------------------------------
- Banyan is a collaborative engine for bioinformatics research. We 
- made it simple for researchers and academics to collaborate, share 
- & publish their work. Banyan focused specifically on genomic data. 
- I worked with labs across the US to identify pitfalls in their 
- research processes and built solutions addressing them. We worked 
- on publishing models by building a collaborative TeX editor and 
+ Banyan is a collaborative engine for bioinformatics research. We
+ made it simple for researchers and academics to collaborate, share
+ & publish their work. Banyan focused specifically on genomic data.
+ I worked with labs across the US to identify pitfalls in their
+ research processes and built solutions addressing them. We worked
+ on publishing models by building a collaborative TeX editor and
  OSX application for version control.
- 
+
  Co-Founder/CTO       Fount.in Inc (Rochester, NY)     5/2012-5/2013
  --------------------------------------------------------------------
  Artificial Intelligence as a Service.  Using AI and Machine Learning
  we track how and where diseases are spreading in real time w twitter
- data.  We provide clients with tools to monitor consumer health for 
+ data.  We provide clients with tools to monitor consumer health for
  product placement, market research and more.
- 
+
  Head of Engineering     SimplyHome (Asheville, NC)    10/2010-5/2012
  --------------------------------------------------------------------
  Design, develop and maintain systems to improve the quality of life
@@ -42,36 +42,36 @@ professional experience
 
  Founder/CEO          Scenedipity (Asheville, NC)       4/2011-4/2012
  --------------------------------------------------------------------
- Open data platform for restaurants and foodtrucks.  This personal 
- project introduced me to the open source community (specifically 
- Github) and Twitter. I learned most of my enterprise development 
+ Open data platform for restaurants and foodtrucks.  This personal
+ project introduced me to the open source community (specifically
+ Github) and Twitter. I learned most of my enterprise development
  through this personal project.
 
  Lead Dev/Sys Admin    IWANNA USA, LLC (Asheville, NC)  1/2010-7/2011
  --------------------------------------------------------------------
- Managed the complete rebuild of a classifieds website that serves 
- over 25k classifieds weekly generating more than 1 million unique 
+ Managed the complete rebuild of a classifieds website that serves
+ over 25k classifieds weekly generating more than 1 million unique
  visitors every two weeks. Largest development focus was placed on
  the UI and user experience. Website changes grew engagement and
  content by over 15% and 30% respectively.
 
  Developer   Bishara Textile Manufacturing (Cairo, EG)  5/2008-9/2008
  --------------------------------------------------------------------
- Designed an online management tool for a 2000+ worker Egyptian 
- textile factory. The software manages the different aspects of 
- garment production, by measuring worker output and factory capacity 
+ Designed an online management tool for a 2000+ worker Egyptian
+ textile factory. The software manages the different aspects of
+ garment production, by measuring worker output and factory capacity
  to scheduling design calendars. Resulted in a 12% productivity increase.
 
  Draftsman  Shamburger Design Studio (Hendersonville, NC) Summer 2007
  --------------------------------------------------------------------
- Created my first ftp style website where clients could securely 
+ Created my first ftp style website where clients could securely
  access rendered designs.  Architectural draftsman for 10 projects in
  excess value of $15 million. Trained another intern.
 
  Intern   Shamburger Design Studio (Hendersonville, NC)   Summer 2006
  --------------------------------------------------------------------
- Apprenticed architect through all stages of design, from initial 
- meeting with clients, to sketching the ideas, to final presentation 
+ Apprenticed architect through all stages of design, from initial
+ meeting with clients, to sketching the ideas, to final presentation
  of plans and bidding of project to contractors. Became proficient
  with AutoCAD, archiCAD, and Google's Sketch-Up.
 
@@ -79,12 +79,18 @@ professional experience
 publication and speaking engagements
 *************************************
 
+Ultra-Deep Analysis of Tumor Heterogineity, Kataegis & Immunoglobulin
+Somatic Hypermutation                    (under review) Genomics 2013
+---------------------------------------------------------------------
+R Burack, J Spence, J Spence, A Abumoussa
+Developing an iterative approach to sequence highly mutated DNA
+
 Real-Time Captioning by Groups of Non-Experts               UIST 2012
 ---------------------------------------------------------------------
 W Lasecki, C Miller, A Sadilek, A Abumoussa, D Borrello, R Kushalnagar, & J Bigham
 Crowd sourced captioning to power mobile interfaces for the deaf
 
- CIVHC.org Health Conf   - Innovating with Open Health Data 
+ CIVHC.org Health Conf   - Innovating with Open Health Data
  Company Lab Demo Day    - Corpora | Health Insights in Real Time
  Health Datapalooza 2012 - Analysis of Health Insights in Real-Time
  FoodTech 2012           - Reverse Engineering UIs for Food Trucks
@@ -94,25 +100,27 @@ Crowd sourced captioning to power mobile interfaces for the deaf
 education
 ****************
 
-CS Ph.D. Student        University of Rochester        1/2012-present
+CS Masters Student        University of Rochester      1/2012-present
 ---------------------------------------------------------------------
-Accessibile User Interfaces for the Blind  [under Dr. Jeffrey Bigham] 
-Artificial Intelligence                       [under Dr. Henry Kautz] 
+Cancer Genomics                            [under Dr. Richard Burack]
+Artificial Intelligence                    [under Dr. Henry Kautz   ]
+Accessible User Interfaces for the Blind   [under Dr. Jeffrey Bigham]
 
 Double Major  University of North Carolina at Chapel Hill   2005-2009
 ---------------------------------------------------------------------
 B.Sc. in Applied Mathematics                 [under Dr. Sorin Mitran]
-B.Sc. w/ Honors in Computer Science           [under Dr. Gary Bishop]
-Mathematics GPA - 3.69/4.00 Overall - 3.42/4.00 
+B.Sc. w/ Honors in Computer Science          [under Dr. Gary Bishop ]
+Mathematics GPA - 3.69/4.00 Overall - 3.42/4.00
 
 North Carolina School of Science & Mathematics              2003-2005
 ---------------------------------------------------------------------
-Fell in love with Fractals and Chaos, exhausted biology and maths 
+Fell in love with Fractals and Chaos, exhausted biology and maths
 curriculums & surprisingly, did 0 programming.
 
 extracurricular
 ***************
+ Volunteering at Assn. for the Blind and Visually Impaired, Rochester
  RocHack - League of hackers at the University of Rochester
  Skydiving, Scuba, Belay
 
-References available upon request. [http://androwis.com/resume] for links
+References available on request. [http://androwis.com/resume] for links
