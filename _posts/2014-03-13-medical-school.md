@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: medical school 
-tweet: how my journey in computer science led me to medical school. 
+tweet: how my journey in computer science led me to medical school 
 ---
 
 I would not have guessed my journey into computer science would lead me to 
