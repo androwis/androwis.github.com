@@ -19,10 +19,11 @@ me 8 years of exploring the role interfaces play in the lives of handicapped
 individuals, understanding how computers work, and building stuff to learn
 why I want to marry technology and medicine. 
 
-I feel there is a disconnect when I serve people tangentially through technology.
 At the end of the day, the relationships I form with users are the most valuable 
-aspect of my work. Learning about people's dreams and insecurities have
-collectively shaped the role I hope to play through medicine.
+aspect of my work. Learning about people's dreams and insecurities collectively 
+shape the role I hope to play in their lives. However, that being said, I feel 
+there is a disconnect when I serve people tangentially through technology. I 
+am choosing to address this through the role I hope to play in medicine.
 
 The role became clear to me as I shadowed physicians and observed their
 relationships with patients. Healing encompasses many things; among  those are
@@ -47,12 +48,14 @@ by bridging the abilities of both disciplines.
 That is what it took for me to realize I needed to make the shift into medicine.
 I often found myself asking if I'm happy with how I spent my time in graduate 
 school. I knew the answer was no, but I had no idea where that dissatisfaction
-came from because I was afraid of what I was going to find out. 
+came from because I was afraid of what I was going to find out. Turns out, the 
+friction I was facing went deeper than the superficial arguments or misaligned
+priorities I experienced in graduate school and the professional sector.
 
-Leaving one career path for another is horrifying at first. But driven by the 
-right reasons, those fears just don't exist. I encourage everyone to ask
-those really hard questions and identify their drives. The journey is hard but
-incredibly rewarding. You won't have any regrets. 
+Leaving one career path for another is horrifying at first. But being driven by
+the right reasons, those fears just don’t exist. I encourage everyone to ask the
+really hard questions to identify their drives. The journey is hard but incredibly
+rewarding. You won’t have any regrets.
 
-I know I'm so excited to have found my role in cancer genomics, and am looking
-forward to pursuing my career in medicine.
+I know I’m so excited to have found my role in cancer genomics, and am looking
+forward to pursuing my career in medicine next year!
