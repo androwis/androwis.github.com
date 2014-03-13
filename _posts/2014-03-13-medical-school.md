@@ -39,11 +39,10 @@ I cannot heal. I believe computer science is a powerful tool, but medicine is
 the foundation I must have in order to fulfill my desire to directly serve and
 care for others. I do not want to just alleviate frustrations, but rather help
 others rehabilitate their lives. After pursuing a career of service based on my
-abilities as a programmer, I have learned firsthand that computer science has
-serious limitations.
-
-With medicine I hope to fill the void created by these limitations to provide
-more comprehensive and direct care by bridging the abilities of both disciplines.
+abilities as a programmer, I have learned firsthand that computer science alone
+is not enough to serve others the way I want. With medicine I hope to fill the 
+void created by these limitations to provide more comprehensive and direct care 
+by bridging the abilities of both disciplines.
 
 That is what it took for me to realize I needed to make the shift into medicine.
 I often found myself asking if I'm happy with how I spent my time in graduate 
