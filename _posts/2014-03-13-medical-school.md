@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: medical school 
-tweet: how my journey in computer science led me to medical school. 
+tweet: how my journey in computer science led me to medical school 
 ---
 
 I would not have guessed my journey into computer science would lead me to 
@@ -19,15 +19,17 @@ of exploring the role interfaces play in the lives of handicapped individuals,
 understanding how computers work, and building stuff to *finally* learn why 
 I want to marry technology and medicine. 
 
-Ultimately, I felt there was too great of a disconnect when I serve people 
-tangentially through technology. At the end of the day, the relationships
-I form with users are the most valuable aspect of my work, and that is an 
-aspect I feel computer science fails to emphasize, and I believe unjustly so. 
+At the end of the day, the relationships I form with users are the most valuable 
+aspect of my work, and that is an aspect I feel computer science fails to emphasize,
+unjustly so. Learning about people's dreams and insecurities collectively 
+shape the role I hope to play in their lives. That being said, I feel 
+there is a disconnect when I serve people tangentially through technology. I 
+am choosing to address that disconnect through the role I hope to play in medicine.
 
 The process of learning about people's dreams and insecurities collectively
 shape the role I hope to play through medicine. That role became clear to me
 in bits and pieces through shadowing physicians. Observing their relationships 
-with patients allowed me to see how healing encompasses many things; among  those are
+with patients allowed me to see how healing encompasses many things; among those are
 direct care, devotion, and service to patients. Despite the different procedures
 I witnessed, each specialty demonstrated an almost identical form of these
 elements. Valuing education and exemplifying strong desires to teach, each
