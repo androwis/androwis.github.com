@@ -52,7 +52,7 @@ That is what it took for me to realize I needed to make the shift into medicine.
 I found myself asking whether or not I'm happy with how I spent my time in graduate 
 school. I knew the answer was no, but I had no idea where that dissatisfaction
 came from, and I believe it was because I was afraid of what I'd find out. 
-eaving one career path for another is horrifying at first. But driven by the 
+Leaving one career path for another is horrifying at first. But driven by the 
 right reasons, those fears just don't exist. I encourage everyone to ask
 those really hard questions and identify their drives. The journey is incredibly
 hard but incredibly rewarding. You won't have any regrets. 
