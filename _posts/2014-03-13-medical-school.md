@@ -8,24 +8,26 @@ I would not have guessed my journey into computer science would lead me to
 medical school.
 
 Computer science fulfills my passion to create. As a medium, my inner engineer 
-is given a platform to explore, understand and develop systems. I have used
-technology to build systems that enable others to do things previously
-impossible to them. However, discovering the differences between healing and
-enabling has transformed computer science into my personal stepping stone to
-medicine.
+is given a platform to explore, understand and develop systems. I love using
+technology to build systems that enable others to do things that were once
+previously impossible for them. 
 
-I entered the field of accessibility as an undergraduate. From there, it took 
-me 8 years of exploring the role interfaces play in the lives of handicapped 
-individuals, understanding how computers work, and building stuff to learn
-why I want to marry technology and medicine. 
+However, learning the differences between healing and enabling has transformed
+computer science into my personal stepping stone to medicine. I entered the 
+field of accessibility as an undergraduate. From there, it took me 8 years
+of exploring the role interfaces play in the lives of handicapped individuals, 
+understanding how computers work, and building stuff to *finally* learn why 
+I want to marry technology and medicine. 
 
-I feel there is a disconnect when I serve people tangentially through technology.
-At the end of the day, the relationships I form with users are the most valuable 
-aspect of my work. Learning about people's dreams and insecurities have
-collectively shaped the role I hope to play through medicine.
+Ultimately, I felt there was too great of a disconnect when I serve people 
+tangentially through technology. At the end of the day, the relationships
+I form with users are the most valuable aspect of my work, and that is an 
+aspect I feel computer science fails to emphasize, and I believe unjustly so. 
 
-The role became clear to me as I shadowed physicians and observed their
-relationships with patients. Healing encompasses many things; among  those are
+The process of learning about people's dreams and insecurities collectively
+shape the role I hope to play through medicine. That role became clear to me
+in bits and pieces through shadowing physicians. Observing their relationships 
+with patients allowed me to see how healing encompasses many things; among  those are
 direct care, devotion, and service to patients. Despite the different procedures
 I witnessed, each specialty demonstrated an almost identical form of these
 elements. Valuing education and exemplifying strong desires to teach, each
@@ -42,17 +44,16 @@ others rehabilitate their lives. After pursuing a career of service based on my
 abilities as a programmer, I have learned firsthand that computer science alone
 is not enough to serve others the way I want. With medicine I hope to fill the 
 void created by these limitations to provide more comprehensive and direct care 
-by bridging the abilities of both disciplines.
+by bridging the strengths of both disciplines.
 
 That is what it took for me to realize I needed to make the shift into medicine.
-I often found myself asking if I'm happy with how I spent my time in graduate 
+I found myself asking whether or not I'm happy with how I spent my time in graduate 
 school. I knew the answer was no, but I had no idea where that dissatisfaction
-came from because I was afraid of what I was going to find out. 
-
-Leaving one career path for another is horrifying at first. But driven by the 
+came from, and I believe it was because I was afraid of what I'd find out. 
+eaving one career path for another is horrifying at first. But driven by the 
 right reasons, those fears just don't exist. I encourage everyone to ask
-those really hard questions and identify their drives. The journey is hard but
-incredibly rewarding. You won't have any regrets. 
+those really hard questions and identify their drives. The journey is incredibly
+hard but incredibly rewarding. You won't have any regrets. 
 
 I know I'm so excited to have found my role in cancer genomics, and am looking
-forward to pursuing my career in medicine.
+forward to pursuing my life in medicine.
