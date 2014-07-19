@@ -4,7 +4,7 @@
  <title>androwis</title>
  <link href="http://androw.is/atom.xml" rel="self"/>
  <link href="http://androw.is/"/>
- <updated>2013-01-22T20:10:40-05:00</updated>
+ <updated>2014-06-24T16:57:39-03:00</updated>
  <id>http://androw.is</id>
  <author>
    <name>androwis abumoussa</name>
@@ -13,62 +13,147 @@
 
  
  <entry>
-   <title>on communicating.</title>
-   <link href="http://androw.is/Effective-Communication"/>
-   <updated>2013-01-21T00:00:00-05:00</updated>
-   <id>http:/androw.is/Effective-Communication</id>
-   <content type="html">&lt;p&gt;Be ruthless with your time.&lt;/p&gt;
+   <title>medical school</title>
+   <link href="http://androw.is/medical-school"/>
+   <updated>2014-03-13T00:00:00-03:00</updated>
+   <id>http:/androw.is/medical-school</id>
+   <content type="html">&lt;p&gt;I would not have guessed my journey into computer science would lead me to
+medical school.&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;I once told someone i wasn't interested in continuing
+&lt;p&gt;Computer science fulfills my passion to create. As a medium, my inner engineer
+is given a platform to explore, understand and develop systems. I love using
+technology to build systems that enable others to do things that were once
+previously impossible for them.&lt;/p&gt;
+
+&lt;p&gt;However, learning the differences between healing and enabling has transformed
+computer science into my personal stepping stone to medicine. I entered the
+field of accessibility as an undergraduate. From there, it took me 8 years
+of exploring the role interfaces play in the lives of handicapped individuals,
+understanding how computers work, and building stuff to &lt;em&gt;finally&lt;/em&gt; learn why
+I want to marry technology and medicine.&lt;/p&gt;
+
+&lt;p&gt;At the end of the day, the relationships I form with users are the most valuable
+aspect of my work, and that is an aspect I feel computer science fails to emphasize,
+unjustly so. Learning about people&amp;rsquo;s dreams and insecurities collectively
+shape the role I hope to play in their lives. That being said, I feel
+there is a disconnect when I serve people tangentially through technology. I
+am choosing to address that disconnect through the role I hope to play in medicine.&lt;/p&gt;
+
+&lt;p&gt;The process of learning about people&amp;rsquo;s dreams and insecurities collectively
+shape the role I hope to play through medicine. That role became clear to me
+in bits and pieces through shadowing physicians. Observing their relationships
+with patients allowed me to see how healing encompasses many things; among those are
+direct care, devotion, and service to patients. Despite the different procedures
+I witnessed, each specialty demonstrated an almost identical form of these
+elements. Valuing education and exemplifying strong desires to teach, each
+physician stopped multiple times a day to make sure the patients and I were
+learning. The sprint to reassure the family of a premature baby of a successful
+surgery felt one in the same as the compassion I felt watching the creation of
+a group clinic for underserved populations in rural NC.&lt;/p&gt;
+
+&lt;p&gt;As a programmer serving the disabled, I can cater to physical limitations &amp;ndash; but
+I cannot heal. I believe computer science is a powerful tool, but medicine is
+the foundation I must have in order to fulfill my desire to directly serve and
+care for others. I do not want to just alleviate frustrations, but rather help
+others rehabilitate their lives. After pursuing a career of service based on my
+abilities as a programmer, I have learned firsthand that computer science alone
+is not enough to serve others the way I want. With medicine I hope to fill the
+void created by these limitations to provide more comprehensive and direct care
+by bridging the strengths of both disciplines.&lt;/p&gt;
+
+&lt;p&gt;That is what it took for me to realize I needed to make the shift into medicine.
+I found myself asking whether or not I&amp;rsquo;m happy with how I spent my time in graduate
+school. I knew the answer was no, but I had no idea where that dissatisfaction
+came from, and I believe it was because I was afraid of what I&amp;rsquo;d find out.
+Leaving one career path for another is horrifying at first. But driven by the
+right reasons, those fears just don&amp;rsquo;t exist. I encourage everyone to ask
+those really hard questions and identify their drives. The journey is incredibly
+hard but incredibly rewarding. You won&amp;rsquo;t have any regrets.&lt;/p&gt;
+
+&lt;p&gt;I know I&amp;rsquo;m so excited to have found my role in cancer genomics, and am looking
+forward to pursuing my life in medicine.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>goals and fears</title>
+   <link href="http://androw.is/goals-and-fears"/>
+   <updated>2013-01-29T00:00:00-02:00</updated>
+   <id>http:/androw.is/goals-and-fears</id>
+   <content type="html">&lt;p&gt;I often find myself asking if I&amp;rsquo;m happy with how I spend my time. I knew the answer was no, but I had no idea where that dissatisfaction came from.&lt;/p&gt;
+
+&lt;p&gt;So, I took a weekend to write down my goals. I wanted to understand what I was distracting myself from and which fears were preventing me from accomplishing my goals:&lt;/p&gt;
+
+&lt;h3&gt;Short term goals:&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;- Disconnect intentionally, feel safe and secure in that decision.
+- Be proud of myself, and what I feel.
+- Prefer relationships to work.
+- Do the things I want to do.
+- Be early. For everything.
+- Explore my world.
 &lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;Long term goals:&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;- Help those I care about.
+- Love deeply.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3&gt;Fears:&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;- I&#39;m not adding value to whatever I&#39;m working on.
+- My difficulties are really inabilities.
+- Trusting others.
+- Academia.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2&gt;What I learned.&lt;/h2&gt;
+
+&lt;p&gt;Fears are much easier to identify than goals. That&amp;rsquo;s a hard pill to swallow since I know fears take away from the motivation goals provide.&lt;/p&gt;
+
+&lt;p&gt;I can&amp;rsquo;t measure any of my current goals.  That&amp;rsquo;s scary to me, because my mathematical mind believes anything that can&amp;rsquo;t be measured doesn&amp;rsquo;t exist.&lt;/p&gt;
+
+&lt;p&gt;This last year, I lost most of my trust for some of the closest people around me. Also, I&amp;rsquo;ve become jaded with academia&amp;rsquo;s self-centered nature (all the pressure&amp;rsquo;s to publish to establish your &amp;ldquo;expertise&amp;rdquo;, citations as a metric of success, affirming command of a topic by tacking &amp;ldquo;, right?&amp;rdquo; to the end of a sentence). That being said, some of the people I hold in the highest of esteem are in academia&amp;hellip; I&amp;rsquo;m just not sure it&amp;rsquo;s the thing for me.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m glad I put some thought on this.  I hate not having all the answers or an un-relenting drive / passion for my work at all times ( I&amp;rsquo;m not sure whether that&amp;rsquo;s the perfectionist in me or society talking). It&amp;rsquo;s hard not to get discouraged when comparing yourself to titans all the time. But then, perhaps the most exciting part of all this is the volatility.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Thoughts for a new year</title>
-   <link href="http://androw.is/Thoughts-for-a-new-year"/>
-   <updated>2012-12-31T00:00:00-05:00</updated>
-   <id>http:/androw.is/Thoughts-for-a-new-year</id>
-   <content type="html">&lt;p&gt;SWOT Analysis
-&lt;notextile&gt;&lt;/p&gt;
+   <title>some photos</title>
+   <link href="http://androw.is/Effective-Communication"/>
+   <updated>2013-01-21T00:00:00-02:00</updated>
+   <id>http:/androw.is/Effective-Communication</id>
+   <content type="html">&lt;p&gt;Just testing something&lt;/p&gt;
 
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;2012: I learned the importance of quitting, choosing to be around those I love, and rationing my trust. Excited to start 2013 much wiser&lt;/p&gt;&amp;mdash; androwis abumoussa (@androwis) &lt;a href=&quot;https://twitter.com/androwis/status/285973294853787648&quot;&gt;January 1, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;div id=&quot;mygallery&quot; &gt;
 
+  &lt;a class=&quot;original&quot; href=&quot;/static/images/time-series.jpeg&quot;&gt;
+    &lt;img class=&quot;thumbnail&quot; alt=&quot;Title 1&quot; src=&quot;/static/images/time-series.jpeg&quot;/&gt;
+  &lt;/a&gt;
 
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;a href=&quot;/static/images/time-series.jpeg&quot;&gt;
+    &lt;img alt=&quot;Title 2&quot; src=&quot;/static/images/time-series.jpeg&quot;/&gt;
+  &lt;/a&gt;
 
+  &lt;a href=&quot;/static/images/time-series.jpeg&quot;&gt;
+    &lt;img alt=&quot;Title 2&quot; src=&quot;/static/images/time-series.jpeg&quot;/&gt;
+  &lt;/a&gt;
 
-&lt;p&gt;&lt;/notextile&gt;&lt;/p&gt;
+  &lt;a href=&quot;/static/images/time-series.jpeg&quot;&gt;
+    &lt;img alt=&quot;Title 2&quot; src=&quot;/static/images/time-series.jpeg&quot;/&gt;
+  &lt;/a&gt;
+
+&lt;/div&gt;
+
 </content>
- </entry>
- 
- <entry>
-   <title>On Teaching</title>
-   <link href="http://androw.is/on-teaching"/>
-   <updated>2012-12-30T00:00:00-05:00</updated>
-   <id>http:/androw.is/on-teaching</id>
-   <content type="html">&lt;p&gt;Grad school has been a whirlwind of emotions.  My year so far has been marked by joy, hate, stress, etc.&lt;/p&gt;
-&lt;p&gt;Through it all, the most exciting part has been on teaching.  I&amp;#8217;ll&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Ruby Conf</title>
-   <link href="http://androw.is/ruby-conf"/>
-   <updated>2012-11-01T00:00:00-04:00</updated>
-   <id>http:/androw.is/ruby-conf</id>
-   <content type="html">&lt;p&gt;I really felt unprepared to go to RubyConf this last year. I was a complete outsider to the community because I had just been introduced to ruby a few weeks prior.&lt;/p&gt;
-&lt;p&gt;That being said, I loved my time with Rubyists. The developer community around Ruby blew me away. It was intimate conference, but one that was super international. first time I experienced that. there the bad asses were genuinely interested in meeting everyone,&lt;/p&gt;
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;The best feature of the Ruby language is its people. Thanks, humans of &lt;a href=&quot;https://twitter.com/search/%23rubyconf&quot;&gt;#rubyconf&lt;/a&gt; -- you made this thing great.&lt;/p&gt;&amp;mdash; Sarah Mei (@sarahmei) &lt;a href=&quot;https://twitter.com/sarahmei/status/265241470984925184&quot;&gt;November 4, 2012&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;p&gt;design was taken seriously&lt;/p&gt;
-&lt;p&gt;morals were most importantly upheld&lt;/p&gt;
-&lt;p&gt;teaching was the goal&lt;/p&gt;
-&lt;p&gt;differences between some of the other conferences like ricon2012&lt;/p&gt;</content>
  </entry>
  
  <entry>
    <title>Pushing Boundary</title>
    <link href="http://androw.is/pushing-the-boundary"/>
-   <updated>2012-10-20T00:00:00-04:00</updated>
+   <updated>2012-10-20T00:00:00-03:00</updated>
    <id>http:/androw.is/pushing-the-boundary</id>
    <content type="html">&lt;p&gt;Distributed systems really excite me. My time at &lt;a href=&quot;http://simply-home.com&quot;&gt;Simply Home&lt;/a&gt; taught me how to use information from networked devices to change people&amp;rsquo;s lives. Viewing social media as a distributed system of human sensors lead to an exploration of twitter as an indicator for disease spread at &lt;a href=&quot;http://fount.in&quot;&gt;Fountin&lt;/a&gt;. Both of these projects are the driving motivation for my Ph.D. work.&lt;/p&gt;
 
@@ -84,7 +169,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://boundary.com/wp-content/uploads/2012/05/home-how-it-works-product.png&quot; title=&quot;Boundary's beautiful logo&quot; alt=&quot;Boundray's Workflow&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://boundary.com/wp-content/uploads/2012/05/home-how-it-works-product.png&quot; title=&quot;Boundary&#39;s beautiful logo&quot; alt=&quot;Boundray&#39;s Workflow&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In a nutshell you want to use Boundary because distributed systems communicate a lot and that communication is often the bottle neck wrt performance. Boundary enables me to&lt;/p&gt;
 
@@ -124,7 +209,7 @@
 
 &lt;p&gt;At &lt;a href=&quot;http://basho.com/community/ricon2012/&quot;&gt;Ricon 2012&lt;/a&gt; Dietrich talked about putting data into context. The knowledge of a system&amp;rsquo;s architecture helps developers understand what&amp;rsquo;s happening, why, where and when. Something I&amp;rsquo;d really love to see Boundary do is to allow developers to log events in their code (something akin to &lt;a href=&quot;http://engineering.twitter.com/2012/06/distributed-systems-tracing-with-zipkin.html&quot;&gt;Twitter&amp;rsquo;s Zipken&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://4.bp.blogspot.com/-b0r71ZbJdmA/T9DYhbE0uXI/AAAAAAAAABs/bXwyM76Iddc/s1600/web-screenshot.png&quot; alt=&quot;Twitter's Zipkin&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://4.bp.blogspot.com/-b0r71ZbJdmA/T9DYhbE0uXI/AAAAAAAAABs/bXwyM76Iddc/s1600/web-screenshot.png&quot; alt=&quot;Twitter&#39;s Zipkin&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A tool like this, baked into Boundary, would allow the system to learn how the individual connections within the application layers affect network utilizations.  More importantly, with this level of organization comes context that can be shared among teams of developers.&lt;/p&gt;
 
@@ -163,60 +248,9 @@ We&amp;rsquo;re starting to see the evolution of a well contained eco-system for
  </entry>
  
  <entry>
-   <title>on quitting.</title>
-   <link href="http://androw.is/on-quitting"/>
-   <updated>2012-10-20T00:00:00-04:00</updated>
-   <id>http:/androw.is/on-quitting</id>
-   <content type="html">&lt;p&gt;&lt;notextile&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;2012: I learned the importance of quitting, choosing to be around those I love, and rationing my trust. Excited to start 2013 much wiser&lt;/p&gt;&amp;mdash; androwis abumoussa (@androwis) &lt;a href=&quot;https://twitter.com/androwis/status/285973294853787648&quot;&gt;January 1, 2013&lt;/a&gt;&lt;/blockquote&gt;
-
-
-&lt;script async src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-
-&lt;p&gt;&lt;/notextile&gt;&lt;/p&gt;
-
-&lt;br/&gt;
-
-
-&lt;h4&gt;2012: learning to quit.&lt;/h4&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;2012 has been one the most exciting years for me. But that&amp;rsquo;s because I&amp;rsquo;ve been ruthless with my time.
-I&amp;rsquo;ve met some of the greatest friends over the summer
-Joined Banyan.co as the CTO&lt;/p&gt;
-
-&lt;p&gt;Things I&amp;rsquo;ve quit:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;- being a shitty person.
-  * I used to fight w/ people on twitter
-  * I thought expressing angst made everything better.
-- being stressed
-- writing shitty code.
-- being around shitty people.
-- working with shitty people.
-- listening to horrible music.
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Things I&amp;rsquo;m quitting:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;accumulating stuff
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;Things I&amp;rsquo;ve started:
-This is a pretty natural segway from what I&amp;rsquo;ve quit
-  -being intentional&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
    <title>The Switch to Github Pages</title>
    <link href="http://androw.is/the-switch-to-github-pages"/>
-   <updated>2012-10-06T00:00:00-04:00</updated>
+   <updated>2012-10-06T00:00:00-03:00</updated>
    <id>http:/androw.is/the-switch-to-github-pages</id>
    <content type="html">&lt;p&gt;I remember meeting &lt;a href=&quot;http://vimeo.com/50006538&quot;&gt;Gabe Carleton-Barnes&lt;/a&gt; while travelling around Europe.  Here was someone who had a laptop, 6 articles of clothing, and a wallet travelling around Europe for three months.  And there I was, lugging around 2 suitcases and a backpack like a douche.  I felt like I needed to hold on to everything. Not only was this limiting me in terms of mobility, but I was constantly worrying, about losing or forgetting my stuff.&lt;/p&gt;
 &lt;p&gt;As I was packing for grad school, I realized the metaphor still haunted me; I owned too many things.  It was becoming a pain not only to manage my digital life (synching files between four computers), but I didn&amp;#8217;t have the luxury of easily transporting from place to place.&lt;/p&gt;
@@ -231,66 +265,9 @@ This is a pretty natural segway from what I&amp;rsquo;ve quit
  </entry>
  
  <entry>
-   <title>sample math file</title>
-   <link href="http://androw.is/SampleMath"/>
-   <updated>2012-10-06T00:00:00-04:00</updated>
-   <id>http:/androw.is/SampleMath</id>
-   <content type="html">&lt;p&gt;you can do awesome things with maths:&lt;/p&gt;
-$f(|I_2|)=\left| \int_{0}^T \psi(t)
-\left\{ u(a,t)-
-\int_{\gamma(t)}^a
-\frac{d\theta}{k(\theta,t)}
-\int_{a}^\theta c(\xi)u_t(\xi,t)\,d\xi
-\right\} dt
-\right|$
-&lt;p&gt;Like write out all the greek letters.&lt;br /&gt;
-$\alpha, &lt;br /&gt;
-\beta, \gamma, \Gamma,&lt;br /&gt;
-\delta,\Delta,&lt;br /&gt;
-\epsilon, \zeta, \eta, \theta, \Theta, \kappa,&lt;br /&gt;
-\lambda, \Lambda, \mu, \nu,&lt;br /&gt;
-\xi, \Xi,&lt;br /&gt;
-\pi, \Pi,&lt;br /&gt;
-\rho,&lt;br /&gt;
-\sigma, &lt;br /&gt;
-\tau,&lt;br /&gt;
-\phi, \Phi,&lt;br /&gt;
-\chi,&lt;br /&gt;
-\psi, \Psi,&lt;br /&gt;
-\omega, \Omega$&lt;/p&gt;
-&lt;p&gt;And make things look pretty.&lt;/p&gt;
-&lt;p&gt;Draw derivatives&lt;br /&gt;
-\begin{equation}&lt;br /&gt;
-\frac{dy}{dx} = \lim_{\Delta x \to 0} \frac{\Delta y}&lt;br /&gt;
-{\Delta x}&lt;br /&gt;
-\end{equation}&lt;br /&gt;
-\begin{equation}&lt;br /&gt;
-f(x) \to y \quad \mbox{as} \quad x \to&lt;br /&gt;
-x_{0}&lt;br /&gt;
-\end{equation}&lt;br /&gt;
-\begin{equation}&lt;br /&gt;
-f(x) \mathop {\longrightarrow}&lt;br /&gt;
-\limits_{x \to x_0} y&lt;br /&gt;
-\end{equation}&lt;/p&gt;
-&lt;p&gt;\begin{equation}&lt;br /&gt;
-\log_{10}f \simeq n&lt;br /&gt;
-\end{equation}&lt;/p&gt;
-&lt;p&gt;\begin{equation}&lt;br /&gt;
-f(x)\sim 10^{n}&lt;br /&gt;
-\end{equation}&lt;/p&gt;
-&lt;p&gt;Approximate equality:&lt;br /&gt;
-\begin{equation}&lt;br /&gt;
-f(x)\simeq g(x)&lt;br /&gt;
-\end{equation}&lt;/p&gt;
-&lt;p&gt;\begin{equation}&lt;br /&gt;
-f(x) \propto x^3 .&lt;br /&gt;
-\end{equation}&lt;/p&gt;</content>
- </entry>
- 
- <entry>
    <title>The Power of Push</title>
    <link href="http://androw.is/the-power-of-push"/>
-   <updated>2012-10-05T00:00:00-04:00</updated>
+   <updated>2012-10-05T00:00:00-03:00</updated>
    <id>http:/androw.is/the-power-of-push</id>
    <content type="html">&lt;p&gt;I love this quote from [This American Life&amp;#8217;s] Ira Glass about [pushing] something from mediocrity into the realm of something incredible: &lt;br /&gt;
 &lt;blockquote&gt;&amp;#8220;For me, pushing myself is way more about &amp;quot;It&amp;#8217;s hard to make something that&amp;#8217;s interesting.&amp;quot;&lt;br/&gt;&lt;br/&gt;
@@ -302,7 +279,7 @@ f(x) \propto x^3 .&lt;br /&gt;
  <entry>
    <title>Androwis Abumoussa's Resume</title>
    <link href="http://androw.is/resume"/>
-   <updated>2012-10-01T00:00:00-04:00</updated>
+   <updated>2012-10-01T00:00:00-03:00</updated>
    <id>http:/androw.is/resume</id>
    <content type="html">&lt;div class=&quot;resume&quot; style=&quot;font-size:12px; min-width:630px&quot;&gt;
 &lt;center&gt;downloads&lt;/center&gt;
@@ -315,7 +292,7 @@ f(x) \propto x^3 .&lt;br /&gt;
     &lt;div class=&quot;tr&quot;&gt; &lt;strong&gt; permanent address :&lt;/strong&gt; 100 Tarnhill Dr, Flat Rock, NC 28731&lt;/div&gt;
     &lt;div class=&quot;t&quot;&gt;&lt;strong&gt;twitter&lt;/strong&gt;.com/&lt;a href=&quot;http://twitter.com/androwis&quot;&gt;androwis&lt;/a&gt;&lt;/div&gt;
     &lt;div class=&quot;t&quot;&gt;&lt;strong&gt;github&lt;/strong&gt;.com/&lt;a href=&quot;http://github.com/androwis&quot;&gt;androwis&lt;/a&gt;&lt;/div&gt;
-    &lt;div class=&quot;t&quot;&gt;&lt;a href=&quot;mailto:androwis@androw.is&quot;&gt;androwis@androw.is&lt;/a&gt;&lt;/div&gt;
+    &lt;div class=&quot;t&quot;&gt;&lt;a href=&quot;mailto:androwis@androwis.com&quot;&gt;androwis@androwis.com&lt;/a&gt;&lt;/div&gt;
     &lt;div class=&quot;t&quot;&gt;&lt;a href=&quot;tel:8283935939&quot;&gt;828.393.5939&lt;/a&gt; &lt;/div&gt;
 
 &lt;center&gt;education&lt;/center&gt;
@@ -335,7 +312,7 @@ Mathematics &lt;span class=&quot;caps&quot;&gt;GPA&lt;/span&gt; – 3.69/4.00 Ov
 &lt;dl&gt;
 &lt;dd&gt;&lt;strong&gt;Co-founder / &lt;span class=&quot;caps&quot;&gt;CTO&lt;/span&gt;&lt;/strong&gt; at &lt;a href=&quot;http://fount.in&quot;&gt;&lt;strong&gt;Fount.in&lt;/strong&gt;&lt;/a&gt; | &lt;i&gt;Rochester, NY&lt;/i&gt; &lt;span class=&quot;d&quot;&gt;[May 2012 – Present]&lt;/span&gt;&lt;br&gt;Artificial Intelligence as a Service.&lt;br&gt;Coverage: &lt;a href=&quot;http://www.popsci.com/science/article/2012-07/algorithm-scans-your-tweets-tell-you-if-youre-about-get-sick&quot;&gt;PopSci&lt;/a&gt; | &lt;a href=&quot;http://gizmodo.com/5929196/how-twitter-can-predict-when-individuals-will-get-sick&quot;&gt;Gizmodo&lt;/a&gt; | &lt;a href=&quot;http://www.newscientist.com/blogs/onepercent/2012/07/ai-predicts-when-youre-about-t.html&quot;&gt;New Scientist&lt;/a&gt; | &lt;a href=&quot;http://www.businessinsider.com/researchers-use-twitter-to-predict-when-new-yorkers-will-catch-the-flu-with-90-accuracy-2012-8&quot;&gt;Business Insider&lt;/a&gt; | &lt;a href=&quot;http://news.discovery.com/tech/twitter-predicts-sickness-120726.html&quot;&gt;Discovery News&lt;/a&gt; | &lt;a href=&quot;http://www.medicaldaily.com/news/20120726/11111/twitter-algorithm-know-flu-influenza-artificial-intelligence.htm&quot;&gt; MedicalDaily&lt;/a&gt; | &lt;a href=&quot;http://www.bild.de/digital/internet/twitter/twitter-sagt-krankheit-voraus-25416408.bild.html&quot;&gt;Bild.de&lt;/a&gt; | &lt;a href=&quot;http://www.sfgate.com/technology/businessinsider/article/Researchers-Use-Twitter-To-Predict-When-New-3754629.php&quot;&gt;SFGate&lt;/a&gt; | &lt;a href=&quot;http://www.fiercehealthit.com/story/twitter-helps-predict-flu-trends-new-york/2012-08-01?utm_source=rss&quot;&gt;Fierce Health&lt;/a&gt; | &lt;a href=&quot;http://www.npr.org/templates/rundowns/rundown.php?prgId=35&quot;&gt;&lt;span class=&quot;caps&quot;&gt;NPR&lt;/span&gt;&lt;/a&gt; (panel round 2, 5 minutes in)  | &lt;a href=&quot;http://colab.is/2012/gigtank-goes-to-washington/&quot;&gt;[video] Health Data Palooza Keynote&lt;/a&gt; |&lt;a href=&quot;http://vimeo.com/48183729&quot;&gt;GigTank Demo Day&lt;/a&gt;&lt;/dd&gt;&lt;p&gt;&lt;br/&gt;
 &lt;dd&gt;&lt;strong&gt; Head of Engineering&lt;/strong&gt; at &lt;a href=&quot;http://simply-home.com&quot;&gt;&lt;strong&gt;Simply Home&lt;/strong&gt;&lt;/a&gt; | &lt;i&gt;Asheville, NC&lt;/i&gt; &lt;span class=&quot;d&quot;&gt;[Oct. 2010 – Apr. 2012]&lt;/span&gt;&lt;br&gt;As the chief technologist at SimplyHome, I was responsible for building the infrastructure behind our solutions that allowed families to monitor aging or disabled loved ones with technology instead of live at home caregivers.&lt;ul&gt; &lt;li&gt;Restructured and rewrote the distributed systems and cloud architecture&lt;/li&gt;&lt;li&gt;Learned about hardware manufacturing through the design of ~12 devices (&lt;span class=&quot;caps&quot;&gt;FCC&lt;/span&gt; certifications, hardware tooling, &lt;span class=&quot;caps&quot;&gt;CAD&lt;/span&gt;)&lt;/li&gt;&lt;li&gt;Heavy scaling and growth focus&lt;/li&gt;&lt;/ul&gt;Coverage:&lt;a href=&quot;http://www.simply-home.com/extreme/&quot;&gt;Extreme Makeover: Home Edition&lt;/a&gt;&lt;/dd&gt;&lt;br /&gt;
-&lt;dd&gt;&lt;strong&gt;Founder / President&lt;/strong&gt; at &lt;a href=&quot;http://scenedipity.com&quot;&gt;&lt;strong&gt;Scenedipity&lt;/strong&gt;&lt;/a&gt; | &lt;i&gt;Asheville, NC&lt;/i&gt;&lt;span class=&quot;d&quot;&gt;[Apr. 2011 – Apr. 2012]&lt;/span&gt;&lt;ul&gt;&lt;li&gt;Open data platform for restaurant and foodtrucks &lt;/li&gt;&lt;li&gt;Introduction to open source community (specifically &lt;a href=&quot;http://github.scenedipity.com&quot;&gt;Github&lt;/a&gt;) and twitter.&lt;/li&gt;&lt;li&gt;&lt;i&gt;[Toolkit Growth]&lt;/i&gt;  &lt;a href=&quot;http://d.scndp.it:5984/_utils&quot;&gt;CouchDB&lt;/a&gt; | &lt;a href=&quot;https://github.com/Scenedipity/embedded-jetty-archetype&quot;&gt;Embedded jetty&lt;/a&gt; w/ Virtual Hosts | Graphiti | built a &lt;a href=&quot;http://scndp.it&quot;&gt;&lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt; Shortener&lt;/a&gt; (&lt;a href=&quot;https://github.com/Scenedipity/scnd.pt&quot;&gt;source&lt;/a&gt;) &amp;amp; [&lt;a href=&quot;https://github.com/androwis/j&quot;&gt;one in JS!&lt;/a&gt;] | tech basis for &lt;a href=&quot;http://www.timesfreepress.com/news/2012/may/15/tech-challenge/?print&quot;&gt;Fount.in&lt;/a&gt; | open sourced &lt;a href=&quot;https://github.com/androwis/androwis.github.com&quot;&gt;http://androw.is&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;br /&gt;
+&lt;dd&gt;&lt;strong&gt;Founder / President&lt;/strong&gt; at &lt;a href=&quot;http://scenedipity.com&quot;&gt;&lt;strong&gt;Scenedipity&lt;/strong&gt;&lt;/a&gt; | &lt;i&gt;Asheville, NC&lt;/i&gt;&lt;span class=&quot;d&quot;&gt;[Apr. 2011 – Apr. 2012]&lt;/span&gt;&lt;ul&gt;&lt;li&gt;Open data platform for restaurant and foodtrucks &lt;/li&gt;&lt;li&gt;Introduction to open source community (specifically &lt;a href=&quot;http://github.scenedipity.com&quot;&gt;Github&lt;/a&gt;) and twitter.&lt;/li&gt;&lt;li&gt;&lt;i&gt;[Toolkit Growth]&lt;/i&gt;  &lt;a href=&quot;http://d.scndp.it:5984/_utils&quot;&gt;CouchDB&lt;/a&gt; | &lt;a href=&quot;https://github.com/Scenedipity/embedded-jetty-archetype&quot;&gt;Embedded jetty&lt;/a&gt; w/ Virtual Hosts | Graphiti | built a &lt;a href=&quot;http://scndp.it&quot;&gt;&lt;span class=&quot;caps&quot;&gt;URL&lt;/span&gt; Shortener&lt;/a&gt; (&lt;a href=&quot;https://github.com/Scenedipity/scnd.pt&quot;&gt;source&lt;/a&gt;) &amp;amp; [&lt;a href=&quot;https://github.com/androwis/j&quot;&gt;one in JS!&lt;/a&gt;] | tech basis for &lt;a href=&quot;http://www.timesfreepress.com/news/2012/may/15/tech-challenge/?print&quot;&gt;Fount.in&lt;/a&gt; | open sourced &lt;a href=&quot;https://github.com/androwis/androwis.github.com&quot;&gt;http://androwis.com&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;br /&gt;
 &lt;dd&gt;&lt;strong&gt; Lead Dev / Sys Admin &lt;/strong&gt; at &lt;a href=&quot;http://iwanna.com&quot;&gt;&lt;strong&gt;&lt;span class=&quot;caps&quot;&gt;IWANNA&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;USA&lt;/span&gt;, &lt;span class=&quot;caps&quot;&gt;LLC&lt;/span&gt;&lt;/strong&gt;&lt;/a&gt; | &lt;i&gt;Asheville, NC &lt;/i&gt;&lt;span class=&quot;d&quot;&gt;[Jan. 2010 – July 2011]&lt;/span&gt; &lt;ul&gt;&lt;li&gt;Managed the complete rebuild of a classified website that serves over 25,000 classifieds weekly and generates over 1 million hits a month.  The largest developmental focus was placed on the user-interfaces and the networking of the individual advertiser&amp;#8217;s classifieds.&lt;/li&gt;&lt;li&gt;Proposed/developed an expansion that focuses on and supports socially aware projects and programs in the local community&lt;/li&gt;&lt;li&gt;Proposed/developed a marketplace for local businesses to manage and brand their inventories.&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;br /&gt;
 &lt;dd&gt;&lt;strong&gt;Programming Consultant&lt;/strong&gt; at &lt;a href=&quot;http://www.bishara.com.eg/&quot;&gt;&lt;strong&gt;Bishara Textile Manufacturing&lt;/strong&gt;&lt;/a&gt; &lt;i&gt; Cairo, Egypt&lt;/i&gt; &lt;span class=&quot;d&quot;&gt;[May 2008 –  Sept. 2008] &lt;/span&gt;&lt;ul&gt;&lt;li&gt;Designed an online management tool for a 2000+ worker textile factory. The software manages all aspects of garment production, from worker output and factory capacity to scheduling design calendars while using a database back-end. Resulted in a 12% productivity increase.&lt;/li&gt;&lt;/ul&gt;&lt;/dd&gt;&lt;br /&gt;
 &lt;dd&gt;&lt;strong&gt;Programmer &amp;amp; Draftsman,&lt;/strong&gt; at &lt;a href=&quot;http://shamburgerarchitecture.com/&quot;&gt;&lt;strong&gt;Shamburger Design Studio&lt;/strong&gt;&lt;/a&gt;,&lt;i&gt; Hendersonville, NC&lt;/i&gt; &lt;span class=&quot;d&quot;&gt; [May 2007 – Aug. 2007]&lt;/span&gt;&lt;br /&gt;
@@ -386,7 +363,7 @@ Skydiving, Scuba, Belay&lt;/p&gt;
  <entry>
    <title>Mentoring</title>
    <link href="http://androw.is/mentoring"/>
-   <updated>2012-01-01T00:00:00-05:00</updated>
+   <updated>2012-01-01T00:00:00-02:00</updated>
    <id>http:/androw.is/mentoring</id>
    <content type="html">&lt;div class=&quot;body&quot; style=&quot;margin:auto&quot;&gt;
 &lt;p&gt;&lt;em&gt;Part of a &lt;a href=&quot;http://github.com/dianakimball/mentoring&quot;&gt;distributed mentoring movement&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -402,25 +379,10 @@ Skydiving, Scuba, Belay&lt;/p&gt;
 &lt;p&gt;1. Tell me about yourself. How did you become who you are, and who do you want to become?&lt;/p&gt;&lt;br /&gt;
 &lt;p&gt;2. What do you hope to gain from our mentoring relationship?&lt;/p&gt;&lt;br /&gt;
 &lt;p&gt;3. What’s the best thing you’ve read, watched, or listened to lately?&lt;/p&gt;&lt;br /&gt;
-&lt;p&gt;Add links to any profiles or projects you’re proud of, and send it all to:&lt;br/&gt;&lt;em&gt;&lt;a href=&quot;mailto:androwis@androw.is&quot;&gt;androwis@androw.is&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;br /&gt;
+&lt;p&gt;Add links to any profiles or projects you’re proud of, and send it all to:&lt;br/&gt;&lt;em&gt;&lt;a href=&quot;mailto:androwis@androwis.com&quot;&gt;androwis@androwis.com&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;&lt;br /&gt;
 &lt;p&gt;I look forward to learning together!&lt;/p&gt;&lt;br /&gt;
 &lt;p&gt;&lt;a href=&quot;http://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;&lt;img alt=&quot;Creative Commons License&quot; src=&quot;http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png&quot;&gt;&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;/div&gt;</content>
- </entry>
- 
- <entry>
-   <title>100 Things Challenge</title>
-   <link href="http://androw.is/100-things"/>
-   <updated>2012-01-01T00:00:00-05:00</updated>
-   <id>http:/androw.is/100-things</id>
-   <content type="html">&lt;p&gt;As part of the &lt;a href=&quot;http://zenhabits.net/minimalist-fun-the-100-things-challenge/&quot;&gt;100 things challenge&lt;/a&gt;, here&amp;#8217;s everything I own, sorted by value.  &lt;strong&gt;Everything is for sale.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;1. &lt;a href=&quot;http://www.autotrader.com/cars-for-sale/vehicledetails.xhtml?ownerId=66962067&amp;amp;searchRadius=0&amp;amp;listingId=314734182&quot;&gt;2007 &lt;span class=&quot;caps&quot;&gt;BMW&lt;/span&gt; 328 Coupe&lt;/a&gt;&lt;br /&gt;
-2. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B007EZITDE?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;11.6 Macbook Air &amp;#8211; 2GHz Intel Core i7, 8GB&lt;/a&gt;&lt;br /&gt;
-3. &lt;a href=&quot;http://www.amazon.com/gp/product/B004YLCKYA?ie=UTF8&amp;amp;seller=AVEUUKGJWKVXT&amp;amp;sn=androwis&quot;&gt;27&amp;quot; Apple Thunderbolt Display&lt;/a&gt;&lt;br /&gt;
-4. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B001XURPQI?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Canon &lt;span class=&quot;caps&quot;&gt;EOS&lt;/span&gt; Rebel T1i 15.1 MP&lt;/a&gt;&lt;br /&gt;
-5. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B00681RUOY?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;24&amp;quot; Dell Ultrasharp &lt;span class=&quot;caps&quot;&gt;LED&lt;/span&gt; u2412M&lt;/a&gt;&lt;br /&gt;
-6. &lt;a href=&quot;http://www.amazon.com/gp/offer-listing/B005ZEF01A?ie=UTF8&amp;amp;condition=used&amp;amp;seller=AVEUUKGJWKVXT&quot;&gt;Galaxy Nexus&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Contact me with an offer, mention this post, and i&amp;#8217;ll give you a deal.&lt;/p&gt;</content>
  </entry>
  
 </feed>

@@ -1,0 +1,3 @@
+[submodule "include/justified-gallery"]
+	path = include/justified-gallery
+	url = git@github.com:miromannino/Justified-Gallery.git
