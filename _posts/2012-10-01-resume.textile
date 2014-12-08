@@ -5,8 +5,8 @@ tweet: Androwis Abumoussa's resume can be found here
 ---
 <div class="resume" style="font-size:12px; min-width:630px">
 <center>downloads</center>
-    <a href="/static/resume/AndrowisAbumoussaResume.txt">Current Resume</a>
-    | <a href="/static/resume/AndrewAbuMoussaTranscript.pdf">Unofficial UNC Transcript</a>
+    [Current Resume](/static/resume/AndrowisAbumoussaResume.txt "Current Resume") |
+    [Unofficial UNC Transcript](/static/resume/AndrewAbuMoussaTranscript.pdf "Unofficial UNC Transcript") |
 
 <center> contact</center>
 <div id="r">
@@ -49,7 +49,19 @@ Mathematics GPA – 3.69/4.00 Overall–3.42/4.00</dd>
 
 <center>publications</center>
 <dl>
+
+
     <dd>
+        <a href="/static/papers/IntraclonalDiversity.pdf"> 
+        <strong>Intraclonal Diversity in Follicular Lymphoma Analyzed by Quantitative Ultradeep Sequencing of Noncoding Regions</strong></a>
+        <br/>
+        J Spence, A Abumoussa, J Spence, &amp; R Burack<br>
+        <i>The Journal of Immunology 13 October 2014</i><br>
+        Sequencing the IgH loci of B cell lymphomas to determine clonal heterogeneity and effect on outcomes<br/>
+    </dd>
+    <br/>
+
+<dd>
         <a href="/static/papers/Real-Time_Captioning_by_Groups_of_Non-Experts_UIST-12.pdf"> <strong>Real-Time Captioning by Groups of Non-Experts</strong></a><br>
         W Lasecki, C Miller, A Sadilek, A Abumoussa, D Borrello, R Kushalnagar, &amp; J Bigham<br>
         <i>in 25th ACM Symposium on User Interface Software and Technology (UIST) 2012</i><br>
