@@ -1,7 +1,7 @@
 ======================================================================
-@androwis                 Androwis Abumoussa       github.com/androwis
+@androwis                   Andrew Abumoussa       github.com/androwis
 
-androwis@androwis.com        Rochester NY                 828.393.5939
+androwis@androwis.com       Chapel Hill, NC               828.393.5939
 ======================================================================
 
 technical expertise
@@ -14,6 +14,12 @@ technical expertise
 
 professional experience
 ***********************
+ Spectator Services   FIFA (Rio de Janeiro, Brazil)  05/2014-07/2014
+ -------------------------------------------------------------------
+ Worked as a translator for FIFA in Rio de Janeiro during the 2014 
+ FIFA World Cup. Managed information services in English, French, and
+ Arabic. 
+
 
  CTO                  Banyan (Chattanooga, TN)        10/2012-9/2013
  -------------------------------------------------------------------
@@ -76,11 +82,20 @@ professional experience
  with AutoCAD, archiCAD, and Google's Sketch-Up.
 
 
-publication and speaking engagements
+publication and poster presentations
 *************************************
+Clonal Evolution in Follicular Lymphoma Analyzed by Quantitative 
+Ultra-Deep Sequencing of Non-Coding Regions  (under review)    2014
+-------------------------------------------------------------------
+J Spence, A Abumoussa, J Spence, R Burack
+
+Classifying Tumor Heterogeneity and Immunoglobulin Somatic 
+Hypermutation with Neural Networks  | UNC Student Research Day 2014
+-------------------------------------------------------------------
+A Abumoussa, J Spence, J Spence, R Burack
 
 Ultra-Deep Analysis of Tumor Heterogineity, Kataegis & Immunoglobulin
-Somatic Hypermutation                    (under review) Genomics 2013
+Somatic Hypermutation                      Journal of Immunology 2014
 ---------------------------------------------------------------------
 R Burack, J Spence, J Spence, A Abumoussa
 Developing an iterative approach to sequence highly mutated DNA
@@ -98,9 +113,12 @@ Crowd sourced captioning to power mobile interfaces for the deaf
 
 
 education
-****************
+*********
 
-CS Masters Student        University of Rochester      1/2012-present
+Medical School            UNC Chapel Hill               8/2014-5/2018
+---------------------------------------------------------------------
+
+CS Masters Student        University of Rochester       1/2012-5/2014
 ---------------------------------------------------------------------
 Cancer Genomics                            [under Dr. Richard Burack]
 Artificial Intelligence                    [under Dr. Henry Kautz   ]
