@@ -84,6 +84,11 @@ professional experience
 
 publication and poster presentations
 *************************************
+Ultradeep analysis of tumor heterogeneity in regions of somatic
+hypermutation.                                 Genome Medicine 2015
+——————————————————————————————————————————————————————————————————-
+J Spence, J Spence, A Abumoussa, R Burack
+
 Clonal Evolution in Follicular Lymphoma Analyzed by Quantitative 
 Ultra-Deep Sequencing of Non-Coding Regions   Genome Medicine  2014
 -------------------------------------------------------------------
@@ -99,6 +104,15 @@ Somatic Hypermutation                      Journal of Immunology 2014
 ---------------------------------------------------------------------
 R Burack, J Spence, J Spence, A Abumoussa
 Developing an iterative approach to sequence highly mutated DNA
+
+Fount.in: Using Geo-tagged Social Media to Visualize, Monitor & Predict
+Disease Transmission                                        ISDS 2012
+————————————————————————————————————————————————————————————————————
+A Sadilek, A Abumoussa, H Kautz
+
+Health Insights in Real-Time. Twitter Epidemiology.    GraphLab 2012
+————————————————————————————————————————————————————————————————————
+A Sadilek, A Abumoussa, S Brennan, H Kautz
 
 Real-Time Captioning by Groups of Non-Experts               UIST 2012
 ---------------------------------------------------------------------
@@ -137,6 +151,7 @@ curriculums & surprisingly, did 0 programming.
 
 extracurricular
 ***************
+ Volunteering at SHAC Beyond Clinical Walls, Chapel Hill NC
  Volunteering at Assn. for the Blind and Visually Impaired, Rochester
  RocHack - League of hackers at the University of Rochester
  Skydiving, Scuba, Belay
