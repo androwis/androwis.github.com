@@ -1,25 +1,24 @@
-======================================================================
+
 @androwis                   Andrew Abumoussa       github.com/androwis
 
 androwis@androwis.com       Chapel Hill, NC               828.393.5939
 ======================================================================
 
-technical expertise
-*******************
-
- - Programming with Java, C, CUDA, MPI, Python, Puppet, various DBs
- - Building web applications w Jetty, Spring, jQuery, HTML and CSS
- - Working knowledge: Scala, Lisp, Prolog, Clojure, Mobile & Ruby
- - Hacking on Linux Kernel building home automation/monitoring sys
-
 professional experience
 ***********************
+
  Spectator Services   FIFA (Rio de Janeiro, Brazil)  05/2014-07/2014
  -------------------------------------------------------------------
  Worked as a translator for FIFA in Rio de Janeiro during the 2014 
  FIFA World Cup. Managed information services in English, French, and
  Arabic. 
 
+ Co-Founder/CTO       Fount.in Inc (Rochester, NY)     5/2012-5/2013
+ --------------------------------------------------------------------
+ Artificial Intelligence as a Service.  Using AI and Machine Learning
+ we track how and where diseases are spreading in real time w twitter
+ data.  We provide clients with tools to monitor consumer health for
+ product placement, market research and more.
 
  CTO                  Banyan (Chattanooga, TN)        10/2012-9/2013
  -------------------------------------------------------------------
@@ -30,13 +29,6 @@ professional experience
  research processes and built solutions addressing them. We worked
  on publishing models by building a collaborative TeX editor and
  OSX application for version control.
-
- Co-Founder/CTO       Fount.in Inc (Rochester, NY)     5/2012-5/2013
- --------------------------------------------------------------------
- Artificial Intelligence as a Service.  Using AI and Machine Learning
- we track how and where diseases are spreading in real time w twitter
- data.  We provide clients with tools to monitor consumer health for
- product placement, market research and more.
 
  Head of Engineering     SimplyHome (Asheville, NC)    10/2010-5/2012
  --------------------------------------------------------------------
@@ -84,38 +76,41 @@ professional experience
 
 publication and poster presentations
 *************************************
-Ultradeep analysis of tumor heterogeneity in regions of somatic
-hypermutation.                                 Genome Medicine 2015
-——————————————————————————————————————————————————————————————————-
-J Spence, J Spence, A Abumoussa, R Burack
+
+Surgical Management and Outcomes of Craniocervical Instability in 
+Pediatric Patients Under the Age of 2   
+                    AANS/CNS Section on Pediatric Neurosurgery 2015
+-------------------------------------------------------------------
+A Abumoussa, C Quinsey, E Hadar, S Elton                      
+
+
+Implementing Perfusion Analysis on Digital Subtraction Angiography
+                                      UNC Student Research Day 2015
+-------------------------------------------------------------------
+A Abumoussa, Y Lee
+
 
 Clonal Evolution in Follicular Lymphoma Analyzed by Quantitative 
 Ultra-Deep Sequencing of Non-Coding Regions   Genome Medicine  2014
 -------------------------------------------------------------------
 J Spence, A Abumoussa, J Spence, R Burack
 
+
 Classifying Tumor Heterogeneity and Immunoglobulin Somatic 
-Hypermutation with Neural Networks  | UNC Student Research Day 2014
+Hypermutation with Neural Networks    UNC Student Research Day 2014
 -------------------------------------------------------------------
 A Abumoussa, J Spence, J Spence, R Burack
 
-Ultra-Deep Analysis of Tumor Heterogineity, Kataegis & Immunoglobulin
-Somatic Hypermutation                      Journal of Immunology 2014
----------------------------------------------------------------------
+
+Ultra-Deep Analysis of Tumor Heterogineity, Kataegis & IgG Somatic 
+Hypermutation                            Journal of Immunology 2014
+-------------------------------------------------------------------
 R Burack, J Spence, J Spence, A Abumoussa
 Developing an iterative approach to sequence highly mutated DNA
 
-Fount.in: Using Geo-tagged Social Media to Visualize, Monitor & Predict
-Disease Transmission                                        ISDS 2012
-————————————————————————————————————————————————————————————————————
-A Sadilek, A Abumoussa, H Kautz
 
-Health Insights in Real-Time. Twitter Epidemiology.    GraphLab 2012
-————————————————————————————————————————————————————————————————————
-A Sadilek, A Abumoussa, S Brennan, H Kautz
-
-Real-Time Captioning by Groups of Non-Experts               UIST 2012
----------------------------------------------------------------------
+Real-Time Captioning by Groups of Non-Experts             UIST 2012
+-------------------------------------------------------------------
 W Lasecki, C Miller, A Sadilek, A Abumoussa, D Borrello, R Kushalnagar, & J Bigham
 Crowd sourced captioning to power mobile interfaces for the deaf
 
@@ -132,7 +127,7 @@ education
 Medical School            UNC Chapel Hill               8/2014-5/2018
 ---------------------------------------------------------------------
 
-CS Masters Student        University of Rochester       1/2012-5/2014
+Masters Student in CS      University of Rochester       1/2012-5/2014
 ---------------------------------------------------------------------
 Cancer Genomics                            [under Dr. Richard Burack]
 Artificial Intelligence                    [under Dr. Henry Kautz   ]
@@ -149,10 +144,36 @@ North Carolina School of Science & Mathematics              2003-2005
 Fell in love with Fractals and Chaos, exhausted biology and maths
 curriculums & surprisingly, did 0 programming.
 
+professional and community service
+**********************************
+Mentoring Chair for AMWA UNC
+Treasurer for Neurosurgery Interest Group
+Beyond Clinic Walls 
+Instructor @ Assn. for the Blind and Visually Impaired, Rochester
+ 
+
+honors and awards
+*****************
+
+Hunt Scholar UNC School of Medicine [2014-2016]
+Global Health Scholar [2015]
+Uni. of Rochester Hajim School of Engineering Dean’s Fellowship [2011-2014]
+Semifinalist in Carolina Entrepreneurial Challenge, Kenan-Flagler Business School at UNC-CH [ 2010 ]
+University of North Carolina Honors Program [ 2005 – 2009 ]
+State of North Carolina Tuition Scholarship [ 2005 – 2009 ]
+Western North Carolina Regional Scholar, The Community Foundation of WNC [ 2005 ]
+Glaxo-Smith-Kline Scholar and Research Grant [ 2004 ]
+
+technical expertise
+*******************
+
+ - Programming with Java, C, CUDA, MPI, Python, Puppet, various DBs
+ - Building web applications w Jetty, Spring, jQuery, HTML and CSS
+ - Working knowledge: Scala, Lisp, Prolog, Clojure, Mobile & Ruby
+ - Hacking on Linux Kernel building home automation/monitoring sys
+
 extracurricular
 ***************
- Volunteering at SHAC Beyond Clinical Walls, Chapel Hill NC
- Volunteering at Assn. for the Blind and Visually Impaired, Rochester
  RocHack - League of hackers at the University of Rochester
  Skydiving, Scuba, Belay
 
