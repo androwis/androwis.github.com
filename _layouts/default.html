@@ -98,7 +98,7 @@
     <!-- Google Analytics -->
 
     <script type="text/javascript">
-	    $('img').on("load",function(){
+	    $('img').one("load",function(){
 if($(document).width()>1000){
 	var maxheight = 0;
 $('div.project').each(function () { maxheight = ($(this).height() > maxheight ? $(this).height() : maxheight); });
