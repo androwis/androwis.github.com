@@ -50,9 +50,11 @@
 <img width="100%" src="IR.gif">
 
 <div class="desc">
-	<h4>Calculating Perfusion from DSA</h4> With my software we can extract more information from digital subtraction angiographies. Some uses:
-	<ul><li> Measure perfusion pre/post intra-arterial verapamil for vasospasm</li>
-		<li> Differentiating GBM vs Radiation Necrosis</li>
+	<h4>Calculating Perfusion from DSA</h4> 
+	With my research in perfusion physics, I wrote software displaying perfusion metrics from digital subtraction angiography and CT angiography. Some of our current uses:
+	<ul>
+		<li> Quantifying perfusion of vasospasm before and after intra-arterial therapy</li>
+		<li> Differentiating recurring glioblastoma from radiation necrosis</li>
 		<li> Prediction of tumor response to therapy</li>
 	</ul> Patent application submitted!
 </div>
@@ -96,11 +98,12 @@
     <!-- Google Analytics -->
 
     <script type="text/javascript">
+	    $(img).on("load",function(){
 if($(document).width()>1000){
 	var maxheight = 0;
 $('div.project').each(function () { maxheight = ($(this).height() > maxheight ? $(this).height() : maxheight); });
 $('div.project').height(maxheight);
-}
+}}
 	    
 	    var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-35393515-1']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();
 	</script>
